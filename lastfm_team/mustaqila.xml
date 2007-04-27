@@ -1,0 +1,1450 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource name="mustaqila" restype="4" id="2174478">
+  <chart from="1144584000" to="1145188800">
+    <entry name="ДиДюЛя" reach="194" counter="25"/>
+    <entry name="Mägo de Oz" reach="9291" counter="24"/>
+    <entry name="Judas Priest" reach="71225" counter="23"/>
+    <entry name="Iron Maiden" reach="147518" counter="18"/>
+    <entry name="Iced Earth" reach="53045" counter="17"/>
+    <entry name="Sonata Arctica" reach="61908" counter="14"/>
+    <entry name="Marillion" reach="25790" counter="11"/>
+    <entry name="Angra" reach="18962" counter="11"/>
+    <entry name="Rilo Kiley" reach="103888" counter="10"/>
+    <entry name="Shaaman" reach="1680" counter="9"/>
+    <entry name="Axel Rudi Pell" reach="4412" counter="8"/>
+    <entry name="The Joint Conspiracy" reach="3156" counter="8"/>
+    <entry name="Blind Guardian" reach="66060" counter="7"/>
+    <entry name="Jethro Tull" reach="58495" counter="7"/>
+    <entry name="HammerFall" reach="42219" counter="7"/>
+    <entry name="Stratovarius" reach="39659" counter="7"/>
+    <entry name="WarCry" reach="1216" counter="7"/>
+    <entry name="Wig Wam" reach="3847" counter="7"/>
+    <entry name="Nightwish" reach="116794" counter="6"/>
+    <entry name="Majesty" reach="2344" counter="6"/>
+    <entry name="Eyes of Shiva" reach="402" counter="6"/>
+    <entry name="Kamelot" reach="27249" counter="5"/>
+    <entry name="Freedom Call" reach="7370" counter="5"/>
+    <entry name="W.A.S.P." reach="20814" counter="5"/>
+    <entry name="Dark Moor" reach="5211" counter="5"/>
+    <entry name="Axxis" reach="2996" counter="5"/>
+    <entry name="Dragonland" reach="5731" counter="5"/>
+    <entry name="Asgarth" reach="68" counter="5"/>
+    <entry name="Luca Turilli" reach="7902" counter="4"/>
+    <entry name="Rush" reach="64853" counter="4"/>
+    <entry name="Wizard" reach="1943" counter="4"/>
+    <entry name="After Forever" reach="20730" counter="4"/>
+    <entry name="Trans-Siberian Orchestra" reach="30397" counter="4"/>
+    <entry name="Accept" reach="15245" counter="4"/>
+    <entry name="Avantasia" reach="22638" counter="4"/>
+    <entry name="At Vance" reach="4125" counter="4"/>
+    <entry name="Rhapsody" reach="43364" counter="4"/>
+    <entry name="Elvenking" reach="9434" counter="4"/>
+    <entry name="Edguy" reach="27857" counter="4"/>
+    <entry name="Secret Sphere" reach="1599" counter="4"/>
+    <entry name="Renaissance" reach="4234" counter="4"/>
+    <entry name="Firewind" reach="3412" counter="4"/>
+    <entry name="Xandria" reach="7134" counter="4"/>
+    <entry name="Avalanch" reach="2389" counter="4"/>
+    <entry name="Power Quest" reach="1432" counter="4"/>
+    <entry name="Oratory" reach="573" counter="4"/>
+    <entry name="Epica" reach="13867" counter="4"/>
+    <entry name="Barón Rojo" reach="514" counter="4"/>
+    <entry name="Sentenced" reach="34289" counter="3"/>
+    <entry name="Gamma Ray" reach="23802" counter="3"/>
+    <entry name="Shadow Gallery" reach="5296" counter="3"/>
+    <entry name="Heavenly" reach="11949" counter="3"/>
+    <entry name="Winds" reach="2629" counter="3"/>
+    <entry name="Norther" reach="22533" counter="3"/>
+    <entry name="White Skull" reach="1230" counter="3"/>
+    <entry name="Royal Hunt" reach="2179" counter="3"/>
+    <entry name="Doro" reach="6285" counter="3"/>
+    <entry name="SuidAkrA" reach="3868" counter="3"/>
+    <entry name="Shellyz Raven" reach="260" counter="3"/>
+    <entry name="Dark at Dawn" reach="773" counter="3"/>
+    <entry name="Vanishing Point" reach="966" counter="3"/>
+    <entry name="Dungeon" reach="1073" counter="3"/>
+    <entry name="Manigance" reach="571" counter="3"/>
+    <entry name="Beto Vázquez Infinity" reach="1940" counter="3"/>
+    <entry name="Chamber: L'orchestre de Chambre Noire" reach="1" counter="3"/>
+    <entry name="Persuader" reach="3229" counter="2"/>
+    <entry name="Helloween" reach="45582" counter="2"/>
+    <entry name="Flowing Tears" reach="4474" counter="2"/>
+    <entry name="Manowar" reach="44590" counter="2"/>
+    <entry name="Finntroll" reach="45132" counter="2"/>
+    <entry name="Queensrÿche" reach="35677" counter="2"/>
+    <entry name="Inkubus Sukkubus" reach="6416" counter="2"/>
+    <entry name="Warlord" reach="663" counter="2"/>
+    <entry name="Within Temptation" reach="65709" counter="2"/>
+    <entry name="Symphony X" reach="18423" counter="2"/>
+    <entry name="Stryper" reach="3089" counter="2"/>
+    <entry name="Nocturnal Rites" reach="5129" counter="2"/>
+    <entry name="Edenbridge" reach="10275" counter="2"/>
+    <entry name="Gary Moore" reach="26639" counter="2"/>
+    <entry name="Haggard" reach="14459" counter="2"/>
+    <entry name="Falconer" reach="11105" counter="2"/>
+    <entry name="Skyfire" reach="3453" counter="2"/>
+    <entry name="Messiah's Kiss" reach="202" counter="2"/>
+    <entry name="Lacrimosa" reach="19454" counter="2"/>
+    <entry name="Vixen" reach="2909" counter="2"/>
+    <entry name="Moonsorrow" reach="9766" counter="2"/>
+    <entry name="Rain Fell Within" reach="512" counter="2"/>
+    <entry name="Stormwind" reach="676" counter="2"/>
+    <entry name="Emerald" reach="197" counter="2"/>
+    <entry name="Manilla Road" reach="994" counter="2"/>
+    <entry name="Satellite" reach="640" counter="2"/>
+    <entry name="Via Mistica" reach="597" counter="2"/>
+    <entry name="Tarantula" reach="930" counter="2"/>
+    <entry name="Equilibrium" reach="6948" counter="2"/>
+    <entry name="Force Of Evil" reach="542" counter="2"/>
+    <entry name="The Gathering" reach="31215" counter="2"/>
+    <entry name="SALAMANDRA" reach="474" counter="2"/>
+    <entry name="Michael Angelo Batio" reach="949" counter="2"/>
+    <entry name="Liva" reach="279" counter="2"/>
+    <entry name="Domain" reach="692" counter="2"/>
+    <entry name="Axehammer" reach="163" counter="2"/>
+    <entry name="Twilightning" reach="2328" counter="2"/>
+    <entry name="Leaves' Eyes" reach="16507" counter="2"/>
+    <entry name="Asrai" reach="1148" counter="2"/>
+    <entry name="Delpht" reach="164" counter="2"/>
+    <entry name="Fairy Mirror" reach="17" counter="2"/>
+    <entry name="Angtoria" reach="1336" counter="2"/>
+    <entry name="Synthphonia Suprema" reach="163" counter="2"/>
+    <entry name="Luca Turilli's Dreamquest" reach="1241" counter="2"/>
+    <entry name="Joan Baez" reach="25542" counter="1"/>
+    <entry name="Yes" reach="66537" counter="1"/>
+    <entry name="Scanner" reach="2930" counter="1"/>
+    <entry name="Theatre of Tragedy" reach="30973" counter="1"/>
+    <entry name="Garbage" reach="164086" counter="1"/>
+    <entry name="Ladytron" reach="97038" counter="1"/>
+    <entry name="Anathema" reach="37247" counter="1"/>
+    <entry name="Paul van Dyk" reach="54091" counter="1"/>
+    <entry name="Bon Jovi" reach="121375" counter="1"/>
+    <entry name="Save Ferris" reach="17403" counter="1"/>
+    <entry name="Europe" reach="40721" counter="1"/>
+    <entry name="Heart" reach="37894" counter="1"/>
+    <entry name="The Corrs" reach="60962" counter="1"/>
+    <entry name="Ultravox" reach="22922" counter="1"/>
+    <entry name="Vanessa Carlton" reach="56830" counter="1"/>
+    <entry name="Scorpions" reach="75304" counter="1"/>
+    <entry name="In Flames" reach="108973" counter="1"/>
+    <entry name="Porcupine Tree" reach="56468" counter="1"/>
+    <entry name="Pain of Salvation" reach="23709" counter="1"/>
+    <entry name="Silent Voices" reach="1634" counter="1"/>
+    <entry name="Freezepop" reach="20102" counter="1"/>
+    <entry name="Explosions in the Sky" reach="79972" counter="1"/>
+    <entry name="Adagio" reach="5656" counter="1"/>
+    <entry name="Amorphis" reach="37109" counter="1"/>
+    <entry name="Domine" reach="940" counter="1"/>
+    <entry name="Warmen" reach="5650" counter="1"/>
+    <entry name="Eternal Tears of Sorrow" reach="11142" counter="1"/>
+    <entry name="Vision Divine" reach="2499" counter="1"/>
+    <entry name="Testament" reach="31627" counter="1"/>
+    <entry name="Timo Tolkki" reach="1522" counter="1"/>
+    <entry name="Ayreon" reach="29393" counter="1"/>
+    <entry name="Veracocha" reach="3904" counter="1"/>
+    <entry name="Virgin Steele" reach="2794" counter="1"/>
+    <entry name="Lake of Tears" reach="9788" counter="1"/>
+    <entry name="Voice" reach="607" counter="1"/>
+    <entry name="Darkseed" reach="2661" counter="1"/>
+    <entry name="X JAPAN" reach="22375" counter="1"/>
+    <entry name="Metal Church" reach="4589" counter="1"/>
+    <entry name="Kalmah" reach="16085" counter="1"/>
+    <entry name="Lisa Lashes" reach="1824" counter="1"/>
+    <entry name="Nostradameus" reach="1245" counter="1"/>
+    <entry name="Majestic" reach="940" counter="1"/>
+    <entry name="Insania" reach="962" counter="1"/>
+    <entry name="Umbra et Imago" reach="4305" counter="1"/>
+    <entry name="Gun Barrel" reach="302" counter="1"/>
+    <entry name="Star One" reach="5017" counter="1"/>
+    <entry name="Dionysus" reach="1328" counter="1"/>
+    <entry name="Limbonic Art" reach="3717" counter="1"/>
+    <entry name="Agathodaimon" reach="6946" counter="1"/>
+    <entry name="Crimson Glory" reach="1316" counter="1"/>
+    <entry name="Symphorce" reach="2407" counter="1"/>
+    <entry name="Lullacry" reach="5497" counter="1"/>
+    <entry name="Morgenstern" reach="1313" counter="1"/>
+    <entry name="Triumph" reach="2942" counter="1"/>
+    <entry name="Brainstorm" reach="12840" counter="1"/>
+    <entry name="Armored Saint" reach="2004" counter="1"/>
+    <entry name="Silentium" reach="2789" counter="1"/>
+    <entry name="Tuatha De Danann" reach="1937" counter="1"/>
+    <entry name="Battlelore" reach="10217" counter="1"/>
+    <entry name="O-Zone" reach="39198" counter="1"/>
+    <entry name="Gjallarhorn" reach="1481" counter="1"/>
+    <entry name="Thy Majestie" reach="1593" counter="1"/>
+    <entry name="Dargaard" reach="2918" counter="1"/>
+    <entry name="Venin Noir" reach="273" counter="1"/>
+    <entry name="Tarot" reach="3861" counter="1"/>
+    <entry name="Divercia" reach="929" counter="1"/>
+    <entry name="Manticora" reach="1423" counter="1"/>
+    <entry name="Conquest" reach="400" counter="1"/>
+    <entry name="Hibria" reach="1060" counter="1"/>
+    <entry name="Zed Yago" reach="243" counter="1"/>
+    <entry name="Desdemona" reach="437" counter="1"/>
+    <entry name="Sun Caged" reach="785" counter="1"/>
+    <entry name="Galloglass" reach="909" counter="1"/>
+    <entry name="Sinphonia" reach="171" counter="1"/>
+    <entry name="Seventh Avenue" reach="373" counter="1"/>
+    <entry name="Isengard" reach="2781" counter="1"/>
+    <entry name="Rata Blanca" reach="1831" counter="1"/>
+    <entry name="Wonderland" reach="1867" counter="1"/>
+    <entry name="Evenfall" reach="646" counter="1"/>
+    <entry name="Riverside" reach="8309" counter="1"/>
+    <entry name="Tierra Santa" reach="2463" counter="1"/>
+    <entry name="Dreamtale" reach="2688" counter="1"/>
+    <entry name="Celesty" reach="1405" counter="1"/>
+    <entry name="Skylark" reach="1778" counter="1"/>
+    <entry name="Reptilian" reach="129" counter="1"/>
+    <entry name="Destiny's End" reach="281" counter="1"/>
+    <entry name="Double Dealer" reach="124" counter="1"/>
+    <entry name="Kane Roberts" reach="191" counter="1"/>
+    <entry name="Beyond Twilight" reach="1770" counter="1"/>
+    <entry name="Paragon Of Beauty" reach="149" counter="1"/>
+    <entry name="Vhäldemar" reach="500" counter="1"/>
+    <entry name="Ásmegin" reach="2554" counter="1"/>
+    <entry name="The Proclaimers" reach="32229" counter="1"/>
+    <entry name="Demons &amp; Wizards" reach="24575" counter="1"/>
+    <entry name="L'Âme Immortelle" reach="14641" counter="1"/>
+    <entry name="Zolof the Rock &amp; Roll Destroyer" reach="5896" counter="1"/>
+    <entry name="Korpiklaani" reach="17730" counter="1"/>
+    <entry name="Cardiant" reach="175" counter="1"/>
+    <entry name="Holy Mother" reach="355" counter="1"/>
+    <entry name="Teräsbetoni" reach="12270" counter="1"/>
+    <entry name="Sabaton" reach="3039" counter="1"/>
+    <entry name="sieges even" reach="1122" counter="1"/>
+    <entry name="Turisas" reach="7080" counter="1"/>
+    <entry name="Season's End" reach="689" counter="1"/>
+    <entry name="Kaledon" reach="242" counter="1"/>
+    <entry name="Dreamaker" reach="696" counter="1"/>
+    <entry name="Evil Masquerade" reach="419" counter="1"/>
+    <entry name="Dyecrest" reach="306" counter="1"/>
+    <entry name="Circle Of Pain" reach="51" counter="1"/>
+    <entry name="Flowing Tears &amp; Withered Flowers" reach="207" counter="1"/>
+    <entry name="ユニコーン" reach="1250" counter="1"/>
+    <entry name="Barilari" reach="204" counter="1"/>
+    <entry name="Distant Thunder" reach="177" counter="1"/>
+    <entry name="Lunatica" reach="2355" counter="1"/>
+    <entry name="Full Strike" reach="156" counter="1"/>
+    <entry name="Book Of Reflections" reach="112" counter="1"/>
+    <entry name="Tony Kakko" reach="41" counter="1"/>
+    <entry name="Nexx" reach="110" counter="1"/>
+    <entry name="MYSTIC-FORCE" reach="15" counter="1"/>
+    <entry name="Luminaria" reach="193" counter="1"/>
+    <entry name="The Lust" reach="135" counter="1"/>
+    <entry name="Nightsky Bequest" reach="72" counter="1"/>
+    <entry name="Dark Illusion" reach="165" counter="1"/>
+    <entry name="Toccata Magna" reach="88" counter="1"/>
+    <entry name="Michael Pinnella" reach="227" counter="1"/>
+    <entry name="Avian" reach="248" counter="1"/>
+    <entry name="Tarja Turunen" reach="785" counter="1"/>
+    <entry name="Ivory Night" reach="58" counter="1"/>
+    <entry name="HellOïse" reach="22" counter="1"/>
+    <entry name="Starbreaker" reach="553" counter="1"/>
+    <entry name="José Andrëa" reach="25" counter="1"/>
+    <entry name="Rapid Fire" reach="105" counter="1"/>
+    <entry name="Lorenguard" reach="15" counter="1"/>
+    <entry name="Sevish" reach="787" counter="1"/>
+    <entry name="Dawnrider" reach="210" counter="1"/>
+    <entry name="Black Masquerade" reach="49" counter="1"/>
+    <entry name="BloodBound" reach="753" counter="1"/>
+    <entry name="Malteze" reach="17" counter="1"/>
+    <entry name="C4 Project" reach="3" counter="1"/>
+  </chart>
+  <chart from="1145188800" to="1145793600">
+    <entry name="Eternal Tears of Sorrow" reach="11142" counter="67"/>
+    <entry name="Sonata Arctica" reach="61908" counter="46"/>
+    <entry name="Saurom Lamderth" reach="381" counter="40"/>
+    <entry name="Shadow Gallery" reach="5296" counter="28"/>
+    <entry name="Shaaman" reach="1680" counter="20"/>
+    <entry name="Iced Earth" reach="53045" counter="19"/>
+    <entry name="Impellitteri" reach="1930" counter="18"/>
+    <entry name="Judas Priest" reach="71225" counter="17"/>
+    <entry name="Mägo de Oz" reach="9291" counter="17"/>
+    <entry name="Luca Turilli" reach="7902" counter="15"/>
+    <entry name="Chris Vrenna" reach="1840" counter="14"/>
+    <entry name="Beyond the Void" reach="195" counter="12"/>
+    <entry name="Iron Maiden" reach="147518" counter="10"/>
+    <entry name="Vanishing Point" reach="966" counter="10"/>
+    <entry name="Marillion" reach="25790" counter="8"/>
+    <entry name="Stratovarius" reach="39659" counter="6"/>
+    <entry name="Heavenly" reach="11949" counter="6"/>
+    <entry name="Nightwish" reach="116794" counter="5"/>
+    <entry name="HammerFall" reach="42219" counter="5"/>
+    <entry name="Warmen" reach="5650" counter="5"/>
+    <entry name="Tierra Santa" reach="2463" counter="5"/>
+    <entry name="Rilo Kiley" reach="103888" counter="4"/>
+    <entry name="Norther" reach="22533" counter="4"/>
+    <entry name="Dragonland" reach="5731" counter="4"/>
+    <entry name="Avalanch" reach="2389" counter="4"/>
+    <entry name="Power Quest" reach="1432" counter="4"/>
+    <entry name="Majesty" reach="2344" counter="4"/>
+    <entry name="Rush" reach="64853" counter="3"/>
+    <entry name="Porcupine Tree" reach="56468" counter="3"/>
+    <entry name="After Forever" reach="20730" counter="3"/>
+    <entry name="Angra" reach="18962" counter="3"/>
+    <entry name="X JAPAN" reach="22375" counter="3"/>
+    <entry name="Edguy" reach="27857" counter="3"/>
+    <entry name="Axel Rudi Pell" reach="4412" counter="3"/>
+    <entry name="Secret Sphere" reach="1599" counter="3"/>
+    <entry name="Wig Wam" reach="3847" counter="3"/>
+    <entry name="Blondie" reach="106230" counter="2"/>
+    <entry name="Helloween" reach="45582" counter="2"/>
+    <entry name="Blind Guardian" reach="66060" counter="2"/>
+    <entry name="Sentenced" reach="34289" counter="2"/>
+    <entry name="Within Temptation" reach="65709" counter="2"/>
+    <entry name="Symphony X" reach="18423" counter="2"/>
+    <entry name="W.A.S.P." reach="20814" counter="2"/>
+    <entry name="Trans-Siberian Orchestra" reach="30397" counter="2"/>
+    <entry name="Thunderstone" reach="4409" counter="2"/>
+    <entry name="Virgin Steele" reach="2794" counter="2"/>
+    <entry name="Rhapsody" reach="43364" counter="2"/>
+    <entry name="White Skull" reach="1230" counter="2"/>
+    <entry name="Dragonforce" reach="52244" counter="2"/>
+    <entry name="Doro" reach="6285" counter="2"/>
+    <entry name="Lacrimosa" reach="19454" counter="2"/>
+    <entry name="Battlelore" reach="10217" counter="2"/>
+    <entry name="Dark at Dawn" reach="773" counter="2"/>
+    <entry name="Desdemona" reach="437" counter="2"/>
+    <entry name="Oratory" reach="573" counter="2"/>
+    <entry name="Rata Blanca" reach="1831" counter="2"/>
+    <entry name="Demons &amp; Wizards" reach="24575" counter="2"/>
+    <entry name="L'Âme Immortelle" reach="14641" counter="2"/>
+    <entry name="Ark Storm" reach="233" counter="2"/>
+    <entry name="WarCry" reach="1216" counter="2"/>
+    <entry name="Twilightning" reach="2328" counter="2"/>
+    <entry name="Alogia" reach="343" counter="2"/>
+    <entry name="Asgarth" reach="68" counter="2"/>
+    <entry name="Chamber: L'orchestre de Chambre Noire" reach="1" counter="2"/>
+    <entry name="Cocteau Twins" reach="50090" counter="1"/>
+    <entry name="Garbage" reach="164086" counter="1"/>
+    <entry name="Anathema" reach="37247" counter="1"/>
+    <entry name="The Chemical Brothers" reach="194704" counter="1"/>
+    <entry name="Dio" reach="37638" counter="1"/>
+    <entry name="Ultravox" reach="22922" counter="1"/>
+    <entry name="L'Arc~en~Ciel" reach="33962" counter="1"/>
+    <entry name="Finntroll" reach="45132" counter="1"/>
+    <entry name="t.A.T.u." reach="95759" counter="1"/>
+    <entry name="Pain of Salvation" reach="23709" counter="1"/>
+    <entry name="Freezepop" reach="20102" counter="1"/>
+    <entry name="Amon Amarth" reach="36769" counter="1"/>
+    <entry name="Unrest" reach="2240" counter="1"/>
+    <entry name="Freedom Call" reach="7370" counter="1"/>
+    <entry name="Ensiferum" reach="29700" counter="1"/>
+    <entry name="Running Wild" reach="12086" counter="1"/>
+    <entry name="Vision Divine" reach="2499" counter="1"/>
+    <entry name="Avantasia" reach="22638" counter="1"/>
+    <entry name="Dark Moor" reach="5211" counter="1"/>
+    <entry name="At Vance" reach="4125" counter="1"/>
+    <entry name="Primal Fear" reach="12480" counter="1"/>
+    <entry name="Voice" reach="607" counter="1"/>
+    <entry name="Nocturnal Rites" reach="5129" counter="1"/>
+    <entry name="Kalmah" reach="16085" counter="1"/>
+    <entry name="Yngwie Malmsteen" reach="35174" counter="1"/>
+    <entry name="Avalon" reach="4424" counter="1"/>
+    <entry name="Eldritch" reach="804" counter="1"/>
+    <entry name="Kashmir" reach="18177" counter="1"/>
+    <entry name="Penumbra" reach="5458" counter="1"/>
+    <entry name="Gun Barrel" reach="302" counter="1"/>
+    <entry name="Die Apokalyptischen Reiter" reach="9962" counter="1"/>
+    <entry name="Narnia" reach="2003" counter="1"/>
+    <entry name="Concerto Moon" reach="783" counter="1"/>
+    <entry name="Symphorce" reach="2407" counter="1"/>
+    <entry name="Messiah's Kiss" reach="202" counter="1"/>
+    <entry name="Die Laughing" reach="616" counter="1"/>
+    <entry name="Superior" reach="856" counter="1"/>
+    <entry name="Mortal Love" reach="1749" counter="1"/>
+    <entry name="Axxis" reach="2996" counter="1"/>
+    <entry name="Silentium" reach="2789" counter="1"/>
+    <entry name="Tuatha De Danann" reach="1937" counter="1"/>
+    <entry name="Sinner" reach="1669" counter="1"/>
+    <entry name="Thy Majestie" reach="1593" counter="1"/>
+    <entry name="Paragon" reach="1701" counter="1"/>
+    <entry name="Rain Fell Within" reach="512" counter="1"/>
+    <entry name="Avrigus" reach="1283" counter="1"/>
+    <entry name="Manilla Road" reach="994" counter="1"/>
+    <entry name="Satellite" reach="640" counter="1"/>
+    <entry name="Via Mistica" reach="597" counter="1"/>
+    <entry name="Altaria" reach="4148" counter="1"/>
+    <entry name="Delight" reach="878" counter="1"/>
+    <entry name="Dreamtale" reach="2688" counter="1"/>
+    <entry name="Celesty" reach="1405" counter="1"/>
+    <entry name="Lumsk" reach="6286" counter="1"/>
+    <entry name="Agnus Dei" reach="183" counter="1"/>
+    <entry name="Axenstar" reach="1709" counter="1"/>
+    <entry name="Magica" reach="1252" counter="1"/>
+    <entry name="Epica" reach="13867" counter="1"/>
+    <entry name="Arkona" reach="1303" counter="1"/>
+    <entry name="Serum" reach="474" counter="1"/>
+    <entry name="Dungeon" reach="1073" counter="1"/>
+    <entry name="Ásmegin" reach="2554" counter="1"/>
+    <entry name="The Gathering" reach="31215" counter="1"/>
+    <entry name="Korpiklaani" reach="17730" counter="1"/>
+    <entry name="Cardiant" reach="175" counter="1"/>
+    <entry name="Holy Mother" reach="355" counter="1"/>
+    <entry name="SALAMANDRA" reach="474" counter="1"/>
+    <entry name="Turisas" reach="7080" counter="1"/>
+    <entry name="Cans" reach="630" counter="1"/>
+    <entry name="Arthemis" reach="525" counter="1"/>
+    <entry name="Thanateros" reach="345" counter="1"/>
+    <entry name="Twilight Guardians" reach="2221" counter="1"/>
+    <entry name="Nexx" reach="110" counter="1"/>
+    <entry name="Olympos Mons" reach="344" counter="1"/>
+    <entry name="Kiko Loureiro" reach="942" counter="1"/>
+    <entry name="Starbreaker" reach="553" counter="1"/>
+    <entry name="José Andrëa" reach="25" counter="1"/>
+    <entry name="Rapid Fire" reach="105" counter="1"/>
+    <entry name="Powerwolf" reach="981" counter="1"/>
+    <entry name="Operatika" reach="317" counter="1"/>
+    <entry name="Black Masquerade" reach="49" counter="1"/>
+  </chart>
+  <chart from="1145793600" to="1146398400">
+    <entry name="The Black Mages" reach="10279" counter="83"/>
+    <entry name="Sonata Arctica" reach="61908" counter="47"/>
+    <entry name="Mägo de Oz" reach="9291" counter="32"/>
+    <entry name="Celesty" reach="1405" counter="16"/>
+    <entry name="Angra" reach="18962" counter="10"/>
+    <entry name="Vanden Plas" reach="2628" counter="10"/>
+    <entry name="Iced Earth" reach="53045" counter="9"/>
+    <entry name="Nightwish" reach="116794" counter="9"/>
+    <entry name="Edenbridge" reach="10275" counter="9"/>
+    <entry name="Judas Priest" reach="71225" counter="8"/>
+    <entry name="Steel Attack" reach="977" counter="8"/>
+    <entry name="Kaledon" reach="242" counter="8"/>
+    <entry name="Wig Wam" reach="3847" counter="8"/>
+    <entry name="Iron Maiden" reach="147518" counter="7"/>
+    <entry name="Marillion" reach="25790" counter="7"/>
+    <entry name="Avalanch" reach="2389" counter="6"/>
+    <entry name="Rata Blanca" reach="1831" counter="6"/>
+    <entry name="Vanishing Point" reach="966" counter="6"/>
+    <entry name="Blind Guardian" reach="66060" counter="5"/>
+    <entry name="Freedom Call" reach="7370" counter="5"/>
+    <entry name="HammerFall" reach="42219" counter="5"/>
+    <entry name="W.A.S.P." reach="20814" counter="5"/>
+    <entry name="Shadow Gallery" reach="5296" counter="5"/>
+    <entry name="Edguy" reach="27857" counter="5"/>
+    <entry name="Axel Rudi Pell" reach="4412" counter="5"/>
+    <entry name="Sentenced" reach="34289" counter="4"/>
+    <entry name="Rilo Kiley" reach="103888" counter="4"/>
+    <entry name="Stratovarius" reach="39659" counter="4"/>
+    <entry name="Dark Moor" reach="5211" counter="4"/>
+    <entry name="Heavenly" reach="11949" counter="4"/>
+    <entry name="Axxis" reach="2996" counter="4"/>
+    <entry name="Azrael" reach="655" counter="4"/>
+    <entry name="Tierra Santa" reach="2463" counter="4"/>
+    <entry name="Eyes of Shiva" reach="402" counter="4"/>
+    <entry name="Shaaman" reach="1680" counter="4"/>
+    <entry name="Kiss" reach="73687" counter="3"/>
+    <entry name="Within Temptation" reach="65709" counter="3"/>
+    <entry name="Amon Amarth" reach="36769" counter="3"/>
+    <entry name="Warmen" reach="5650" counter="3"/>
+    <entry name="Vision Divine" reach="2499" counter="3"/>
+    <entry name="Seraphim" reach="866" counter="3"/>
+    <entry name="Elvenking" reach="9434" counter="3"/>
+    <entry name="Fates Warning" reach="5369" counter="3"/>
+    <entry name="Winds" reach="2629" counter="3"/>
+    <entry name="Dionysus" reach="1328" counter="3"/>
+    <entry name="Doro" reach="6285" counter="3"/>
+    <entry name="Delight" reach="878" counter="3"/>
+    <entry name="Alogia" reach="343" counter="3"/>
+    <entry name="Megadeth" reach="87303" counter="2"/>
+    <entry name="Blondie" reach="106230" counter="2"/>
+    <entry name="Helloween" reach="45582" counter="2"/>
+    <entry name="Porcupine Tree" reach="56468" counter="2"/>
+    <entry name="Pain of Salvation" reach="23709" counter="2"/>
+    <entry name="After Forever" reach="20730" counter="2"/>
+    <entry name="Explosions in the Sky" reach="79972" counter="2"/>
+    <entry name="Symphony X" reach="18423" counter="2"/>
+    <entry name="Trans-Siberian Orchestra" reach="30397" counter="2"/>
+    <entry name="Eternal Tears of Sorrow" reach="11142" counter="2"/>
+    <entry name="Savatage" reach="15707" counter="2"/>
+    <entry name="Lacrimas Profundere" reach="4403" counter="2"/>
+    <entry name="Virgin Steele" reach="2794" counter="2"/>
+    <entry name="Rhapsody" reach="43364" counter="2"/>
+    <entry name="Kalmah" reach="16085" counter="2"/>
+    <entry name="Norther" reach="22533" counter="2"/>
+    <entry name="White Skull" reach="1230" counter="2"/>
+    <entry name="Concerto Moon" reach="783" counter="2"/>
+    <entry name="Symphorce" reach="2407" counter="2"/>
+    <entry name="Royal Hunt" reach="2179" counter="2"/>
+    <entry name="Renaissance" reach="4234" counter="2"/>
+    <entry name="Colonel Claypool's Bucket of Bernie Brains" reach="2535" counter="2"/>
+    <entry name="Firewind" reach="3412" counter="2"/>
+    <entry name="Silentium" reach="2789" counter="2"/>
+    <entry name="Battlelore" reach="10217" counter="2"/>
+    <entry name="Dark at Dawn" reach="773" counter="2"/>
+    <entry name="Xandria" reach="7134" counter="2"/>
+    <entry name="Power Quest" reach="1432" counter="2"/>
+    <entry name="Balance Of Power" reach="788" counter="2"/>
+    <entry name="Majesty" reach="2344" counter="2"/>
+    <entry name="Epiclore" reach="446" counter="2"/>
+    <entry name="Ring of Fire" reach="533" counter="2"/>
+    <entry name="Andre Andersen" reach="146" counter="2"/>
+    <entry name="Skylark" reach="1778" counter="2"/>
+    <entry name="Axenstar" reach="1709" counter="2"/>
+    <entry name="Dungeon" reach="1073" counter="2"/>
+    <entry name="Demons &amp; Wizards" reach="24575" counter="2"/>
+    <entry name="The Storyteller" reach="990" counter="2"/>
+    <entry name="Citadel" reach="210" counter="2"/>
+    <entry name="Turisas" reach="7080" counter="2"/>
+    <entry name="ДиДюЛя" reach="194" counter="2"/>
+    <entry name="Dreamaker" reach="696" counter="2"/>
+    <entry name="Barón Rojo" reach="514" counter="2"/>
+    <entry name="Circle Of Pain" reach="51" counter="2"/>
+    <entry name="Twilightning" reach="2328" counter="2"/>
+    <entry name="Saurom Lamderth" reach="381" counter="2"/>
+    <entry name="Nexx" reach="110" counter="2"/>
+    <entry name="Kiko Loureiro" reach="942" counter="2"/>
+    <entry name="Chamber: L'orchestre de Chambre Noire" reach="1" counter="2"/>
+    <entry name="New Order" reach="140859" counter="1"/>
+    <entry name="Philip Glass" reach="34830" counter="1"/>
+    <entry name="King Crimson" reach="46384" counter="1"/>
+    <entry name="a-ha" reach="81824" counter="1"/>
+    <entry name="The Sisters of Mercy" reach="35327" counter="1"/>
+    <entry name="Buckethead" reach="14620" counter="1"/>
+    <entry name="Whitesnake" reach="49160" counter="1"/>
+    <entry name="Luca Turilli" reach="7902" counter="1"/>
+    <entry name="Lacuna Coil" reach="75604" counter="1"/>
+    <entry name="Rush" reach="64853" counter="1"/>
+    <entry name="Wizard" reach="1943" counter="1"/>
+    <entry name="Capricorn" reach="1131" counter="1"/>
+    <entry name="Nena" reach="39296" counter="1"/>
+    <entry name="In Flames" reach="108973" counter="1"/>
+    <entry name="Dreamland" reach="1002" counter="1"/>
+    <entry name="t.A.T.u." reach="95759" counter="1"/>
+    <entry name="Jethro Tull" reach="58495" counter="1"/>
+    <entry name="Kamelot" reach="27249" counter="1"/>
+    <entry name="Gamma Ray" reach="23802" counter="1"/>
+    <entry name="Timo Tolkki" reach="1522" counter="1"/>
+    <entry name="Accept" reach="15245" counter="1"/>
+    <entry name="Avantasia" reach="22638" counter="1"/>
+    <entry name="Stryper" reach="3089" counter="1"/>
+    <entry name="Nocturnal Rites" reach="5129" counter="1"/>
+    <entry name="Nostradameus" reach="1245" counter="1"/>
+    <entry name="Umbra et Imago" reach="4305" counter="1"/>
+    <entry name="Dream Evil" reach="12466" counter="1"/>
+    <entry name="Penumbra" reach="5458" counter="1"/>
+    <entry name="Narnia" reach="2003" counter="1"/>
+    <entry name="Crimson Glory" reach="1316" counter="1"/>
+    <entry name="Lullacry" reach="5497" counter="1"/>
+    <entry name="Lacrimosa" reach="19454" counter="1"/>
+    <entry name="Mark Boals" reach="178" counter="1"/>
+    <entry name="Moonsorrow" reach="9766" counter="1"/>
+    <entry name="Tuatha De Danann" reach="1937" counter="1"/>
+    <entry name="Van Der Graaf Generator" reach="9382" counter="1"/>
+    <entry name="Shellyz Raven" reach="260" counter="1"/>
+    <entry name="Paragon" reach="1701" counter="1"/>
+    <entry name="Circle II Circle" reach="1565" counter="1"/>
+    <entry name="Tarot" reach="3861" counter="1"/>
+    <entry name="Kotipelto" reach="3158" counter="1"/>
+    <entry name="Manticora" reach="1423" counter="1"/>
+    <entry name="Conquest" reach="400" counter="1"/>
+    <entry name="Desdemona" reach="437" counter="1"/>
+    <entry name="Winterlong" reach="566" counter="1"/>
+    <entry name="Silent Force" reach="3249" counter="1"/>
+    <entry name="Galloglass" reach="909" counter="1"/>
+    <entry name="Manilla Road" reach="994" counter="1"/>
+    <entry name="Nightmare" reach="3308" counter="1"/>
+    <entry name="Via Mistica" reach="597" counter="1"/>
+    <entry name="Dakrua" reach="241" counter="1"/>
+    <entry name="Isengard" reach="2781" counter="1"/>
+    <entry name="Altaria" reach="4148" counter="1"/>
+    <entry name="Riverside" reach="8309" counter="1"/>
+    <entry name="Dreamtale" reach="2688" counter="1"/>
+    <entry name="Peccatum" reach="2242" counter="1"/>
+    <entry name="Agnus Dei" reach="183" counter="1"/>
+    <entry name="Wishing Well" reach="90" counter="1"/>
+    <entry name="Equilibrium" reach="6948" counter="1"/>
+    <entry name="Epica" reach="13867" counter="1"/>
+    <entry name="Paragon Of Beauty" reach="149" counter="1"/>
+    <entry name="Vhäldemar" reach="500" counter="1"/>
+    <entry name="Manigance" reach="571" counter="1"/>
+    <entry name="Martin Kesici" reach="1489" counter="1"/>
+    <entry name="Memoria" reach="268" counter="1"/>
+    <entry name="Nightfist" reach="195" counter="1"/>
+    <entry name="L'Âme Immortelle" reach="14641" counter="1"/>
+    <entry name="Gabriel &amp; Dresden" reach="10467" counter="1"/>
+    <entry name="Korpiklaani" reach="17730" counter="1"/>
+    <entry name="浜崎あゆみ" reach="45413" counter="1"/>
+    <entry name="SALAMANDRA" reach="474" counter="1"/>
+    <entry name="Sabaton" reach="3039" counter="1"/>
+    <entry name="Gaia Epicus" reach="348" counter="1"/>
+    <entry name="Aina" reach="6872" counter="1"/>
+    <entry name="the Protagonist" reach="767" counter="1"/>
+    <entry name="Gothic Knights" reach="314" counter="1"/>
+    <entry name="Blackfield" reach="5424" counter="1"/>
+    <entry name="Pettalom" reach="147" counter="1"/>
+    <entry name="Evil Masquerade" reach="419" counter="1"/>
+    <entry name="TrollfesT" reach="2028" counter="1"/>
+    <entry name="Battleroar" reach="311" counter="1"/>
+    <entry name="The Dreamside" reach="862" counter="1"/>
+    <entry name="Flowing Tears &amp; Withered Flowers" reach="207" counter="1"/>
+    <entry name="Thanateros" reach="345" counter="1"/>
+    <entry name="Distant Thunder" reach="177" counter="1"/>
+    <entry name="Lunatica" reach="2355" counter="1"/>
+    <entry name="Leaves' Eyes" reach="16507" counter="1"/>
+    <entry name="Book Of Reflections" reach="112" counter="1"/>
+    <entry name="Tony Kakko" reach="41" counter="1"/>
+    <entry name="The Lust" reach="135" counter="1"/>
+    <entry name="Nightsky Bequest" reach="72" counter="1"/>
+    <entry name="Olympos Mons" reach="344" counter="1"/>
+    <entry name="Beto Vázquez Infinity" reach="1940" counter="1"/>
+    <entry name="Avian" reach="248" counter="1"/>
+    <entry name="Dyslesia" reach="114" counter="1"/>
+    <entry name="Heaven's Guardian" reach="53" counter="1"/>
+    <entry name="MONS LVNAE" reach="32" counter="1"/>
+    <entry name="Fairy Mirror" reach="17" counter="1"/>
+    <entry name="Retriem" reach="32" counter="1"/>
+    <entry name="Tribuzy" reach="556" counter="1"/>
+    <entry name="Dawnrider" reach="210" counter="1"/>
+    <entry name="BloodBound" reach="753" counter="1"/>
+    <entry name="C4 Project" reach="3" counter="1"/>
+  </chart>
+  <chart from="1146398400" to="1147003200"/>
+  <chart from="1147003200" to="1147608000"/>
+  <chart from="1147608000" to="1148212800"/>
+  <chart from="1148212800" to="1148817600"/>
+  <chart from="1148817600" to="1149422400"/>
+  <chart from="1149422400" to="1150027200"/>
+  <chart from="1150027200" to="1150632000"/>
+  <chart from="1150632000" to="1151236800"/>
+  <chart from="1151236800" to="1151841600"/>
+  <chart from="1151841600" to="1152446400"/>
+  <chart from="1152446400" to="1153051200"/>
+  <chart from="1153051200" to="1153656000"/>
+  <chart from="1153656000" to="1154260800">
+    <entry name="WarCry" reach="1216" counter="7"/>
+    <entry name="Mägo de Oz" reach="9291" counter="5"/>
+    <entry name="Power Quest" reach="1432" counter="2"/>
+    <entry name="Blondie" reach="106230" counter="1"/>
+    <entry name="Marillion" reach="25790" counter="1"/>
+    <entry name="Iced Earth" reach="53045" counter="1"/>
+    <entry name="Rilo Kiley" reach="103888" counter="1"/>
+    <entry name="Nightwish" reach="116794" counter="1"/>
+    <entry name="Stratovarius" reach="39659" counter="1"/>
+    <entry name="Angra" reach="18962" counter="1"/>
+    <entry name="Warmen" reach="5650" counter="1"/>
+    <entry name="Darkseed" reach="2661" counter="1"/>
+    <entry name="Elvenking" reach="9434" counter="1"/>
+    <entry name="Edguy" reach="27857" counter="1"/>
+    <entry name="Kalmah" reach="16085" counter="1"/>
+    <entry name="Norther" reach="22533" counter="1"/>
+    <entry name="Sinner" reach="1669" counter="1"/>
+    <entry name="Galloglass" reach="909" counter="1"/>
+    <entry name="Tyrant Eyes" reach="44" counter="1"/>
+    <entry name="Shaaman" reach="1680" counter="1"/>
+    <entry name="Bat for lashes" reach="695" counter="1"/>
+  </chart>
+  <chart from="1154260800" to="1154865600">
+    <entry name="Mägo de Oz" reach="9291" counter="50"/>
+    <entry name="WarCry" reach="1216" counter="24"/>
+    <entry name="Queensrÿche" reach="35677" counter="17"/>
+    <entry name="Fish" reach="3383" counter="10"/>
+    <entry name="Silver Jews" reach="29357" counter="9"/>
+    <entry name="Enter Twilight" reach="100" counter="8"/>
+    <entry name="Norther" reach="22533" counter="7"/>
+    <entry name="Liv Kristine" reach="4219" counter="6"/>
+    <entry name="Angra" reach="18962" counter="5"/>
+    <entry name="Marillion" reach="25790" counter="4"/>
+    <entry name="Iced Earth" reach="53045" counter="4"/>
+    <entry name="At The Lake" reach="1214" counter="4"/>
+    <entry name="Within Temptation" reach="65709" counter="3"/>
+    <entry name="Battlelore" reach="10217" counter="3"/>
+    <entry name="Oratory" reach="573" counter="3"/>
+    <entry name="Judas Priest" reach="71225" counter="2"/>
+    <entry name="VNV Nation" reach="32751" counter="2"/>
+    <entry name="Children of Bodom" reach="93234" counter="2"/>
+    <entry name="Xandria" reach="7134" counter="2"/>
+    <entry name="Power Quest" reach="1432" counter="2"/>
+    <entry name="Vanishing Point" reach="966" counter="2"/>
+    <entry name="Epica" reach="13867" counter="2"/>
+    <entry name="Twilightning" reach="2328" counter="2"/>
+    <entry name="Joan Baez" reach="25542" counter="1"/>
+    <entry name="Luca Turilli" reach="7902" counter="1"/>
+    <entry name="After Forever" reach="20730" counter="1"/>
+    <entry name="Inkubus Sukkubus" reach="6416" counter="1"/>
+    <entry name="Nightwish" reach="116794" counter="1"/>
+    <entry name="Kamelot" reach="27249" counter="1"/>
+    <entry name="Sonata Arctica" reach="61908" counter="1"/>
+    <entry name="HammerFall" reach="42219" counter="1"/>
+    <entry name="Eternal Tears of Sorrow" reach="11142" counter="1"/>
+    <entry name="Nocturnal Rites" reach="5129" counter="1"/>
+    <entry name="Axel Rudi Pell" reach="4412" counter="1"/>
+    <entry name="Narnia" reach="2003" counter="1"/>
+    <entry name="Royal Hunt" reach="2179" counter="1"/>
+    <entry name="Lullacry" reach="5497" counter="1"/>
+    <entry name="Vixen" reach="2909" counter="1"/>
+    <entry name="Axxis" reach="2996" counter="1"/>
+    <entry name="Andain" reach="16968" counter="1"/>
+    <entry name="Tarot" reach="3861" counter="1"/>
+    <entry name="Falkenbach" reach="11480" counter="1"/>
+    <entry name="Catharsis" reach="3023" counter="1"/>
+    <entry name="Zed Yago" reach="243" counter="1"/>
+    <entry name="Emerald" reach="197" counter="1"/>
+    <entry name="Majesty" reach="2344" counter="1"/>
+    <entry name="Holy Dragons" reach="338" counter="1"/>
+    <entry name="Victory" reach="1120" counter="1"/>
+    <entry name="Kane Roberts" reach="191" counter="1"/>
+    <entry name="Dungeon" reach="1073" counter="1"/>
+    <entry name="Demons &amp; Wizards" reach="24575" counter="1"/>
+    <entry name="Devil in the Kitchen" reach="316" counter="1"/>
+    <entry name="Turisas" reach="7080" counter="1"/>
+    <entry name="Lunatica" reach="2355" counter="1"/>
+    <entry name="Leaves' Eyes" reach="16507" counter="1"/>
+    <entry name="Aquaria" reach="425" counter="1"/>
+    <entry name="Shaaman" reach="1680" counter="1"/>
+  </chart>
+  <chart from="1154865600" to="1155470400">
+    <entry name="WarCry" reach="1216" counter="128"/>
+    <entry name="Mägo de Oz" reach="9291" counter="109"/>
+    <entry name="Héroes del Silencio" reach="8829" counter="8"/>
+    <entry name="Warmen" reach="5650" counter="6"/>
+    <entry name="Wig Wam" reach="3847" counter="4"/>
+    <entry name="Enter Twilight" reach="100" counter="4"/>
+    <entry name="VNV Nation" reach="32751" counter="3"/>
+    <entry name="Project Pitchfork" reach="16619" counter="3"/>
+    <entry name="W.A.S.P." reach="20814" counter="3"/>
+    <entry name="Kalmah" reach="16085" counter="3"/>
+    <entry name="Depeche Mode" reach="223593" counter="2"/>
+    <entry name="Megadeth" reach="87303" counter="2"/>
+    <entry name="Anathema" reach="37247" counter="2"/>
+    <entry name="Manowar" reach="44590" counter="2"/>
+    <entry name="Sentenced" reach="34289" counter="2"/>
+    <entry name="Ensiferum" reach="29700" counter="2"/>
+    <entry name="Saxon" reach="17048" counter="2"/>
+    <entry name="Agalloch" reach="15721" counter="2"/>
+    <entry name="Lost Horizon" reach="7911" counter="2"/>
+    <entry name="Dragonforce" reach="52244" counter="2"/>
+    <entry name="Liv Kristine" reach="4219" counter="2"/>
+    <entry name="Falkenbach" reach="11480" counter="2"/>
+    <entry name="goto80" reach="1582" counter="2"/>
+    <entry name="The Faint" reach="99196" counter="2"/>
+    <entry name="Korpiklaani" reach="17730" counter="2"/>
+    <entry name="Aina" reach="6872" counter="2"/>
+    <entry name="Nouvelle Vague" reach="45610" counter="2"/>
+    <entry name="Leaves' Eyes" reach="16507" counter="2"/>
+    <entry name="Joy Division" reach="137683" counter="1"/>
+    <entry name="Laibach" reach="18486" counter="1"/>
+    <entry name="a-ha" reach="81824" counter="1"/>
+    <entry name="Dream Theater" reach="101541" counter="1"/>
+    <entry name="The Undertones" reach="32087" counter="1"/>
+    <entry name="Lynyrd Skynyrd" reach="107247" counter="1"/>
+    <entry name="Helloween" reach="45582" counter="1"/>
+    <entry name="Bright Eyes" reach="194630" counter="1"/>
+    <entry name="Blind Guardian" reach="66060" counter="1"/>
+    <entry name="Howard Shore" reach="59954" counter="1"/>
+    <entry name="Thin Lizzy" reach="45817" counter="1"/>
+    <entry name="Dio" reach="37638" counter="1"/>
+    <entry name="Andrew W.K." reach="37019" counter="1"/>
+    <entry name="Finntroll" reach="45132" counter="1"/>
+    <entry name="Queensrÿche" reach="35677" counter="1"/>
+    <entry name="Assemblage 23" reach="19105" counter="1"/>
+    <entry name="Iced Earth" reach="53045" counter="1"/>
+    <entry name="Steve Vai" reach="31819" counter="1"/>
+    <entry name="John Frusciante" reach="34843" counter="1"/>
+    <entry name="Within Temptation" reach="65709" counter="1"/>
+    <entry name="Kamelot" reach="27249" counter="1"/>
+    <entry name="Sonata Arctica" reach="61908" counter="1"/>
+    <entry name="Gamma Ray" reach="23802" counter="1"/>
+    <entry name="Evergrey" reach="25610" counter="1"/>
+    <entry name="Running Wild" reach="12086" counter="1"/>
+    <entry name="Virgin Steele" reach="2794" counter="1"/>
+    <entry name="Rhapsody" reach="43364" counter="1"/>
+    <entry name="Katatonia" reach="37721" counter="1"/>
+    <entry name="Axel Rudi Pell" reach="4412" counter="1"/>
+    <entry name="Norther" reach="22533" counter="1"/>
+    <entry name="Falconer" reach="11105" counter="1"/>
+    <entry name="Vixen" reach="2909" counter="1"/>
+    <entry name="Boris" reach="15044" counter="1"/>
+    <entry name="Battlelore" reach="10217" counter="1"/>
+    <entry name="Andain" reach="16968" counter="1"/>
+    <entry name="Otyg" reach="4315" counter="1"/>
+    <entry name="Altaria" reach="4148" counter="1"/>
+    <entry name="Tenhi" reach="5293" counter="1"/>
+    <entry name="Demons &amp; Wizards" reach="24575" counter="1"/>
+    <entry name="The Storyteller" reach="990" counter="1"/>
+    <entry name="The Dresden Dolls" reach="68066" counter="1"/>
+    <entry name="浜崎あゆみ" reach="45413" counter="1"/>
+    <entry name="Wolf Parade" reach="68344" counter="1"/>
+    <entry name="New Young Pony Club" reach="2589" counter="1"/>
+    <entry name="Alogia" reach="343" counter="1"/>
+  </chart>
+  <chart from="1155470400" to="1156075200">
+    <entry name="Héroes del Silencio" reach="8829" counter="48"/>
+    <entry name="Sonata Arctica" reach="61908" counter="13"/>
+    <entry name="Demons &amp; Wizards" reach="24575" counter="12"/>
+    <entry name="Manowar" reach="44590" counter="11"/>
+    <entry name="VNV Nation" reach="32751" counter="10"/>
+    <entry name="Iced Earth" reach="53045" counter="9"/>
+    <entry name="Mägo de Oz" reach="9291" counter="8"/>
+    <entry name="WarCry" reach="1216" counter="8"/>
+    <entry name="Blind Guardian" reach="66060" counter="7"/>
+    <entry name="Project Pitchfork" reach="16619" counter="7"/>
+    <entry name="Evergrey" reach="25610" counter="7"/>
+    <entry name="Dragonforce" reach="52244" counter="7"/>
+    <entry name="Depeche Mode" reach="223593" counter="6"/>
+    <entry name="Assemblage 23" reach="19105" counter="6"/>
+    <entry name="Lost Horizon" reach="7911" counter="6"/>
+    <entry name="The Crüxshadows" reach="14279" counter="6"/>
+    <entry name="Dio" reach="37638" counter="5"/>
+    <entry name="Aina" reach="6872" counter="5"/>
+    <entry name="Red Hot Chili Peppers" reach="378227" counter="4"/>
+    <entry name="Anathema" reach="37247" counter="4"/>
+    <entry name="Helloween" reach="45582" counter="4"/>
+    <entry name="Altaria" reach="4148" counter="4"/>
+    <entry name="Korpiklaani" reach="17730" counter="4"/>
+    <entry name="The Cure" reach="261709" counter="3"/>
+    <entry name="Placebo" reach="203736" counter="3"/>
+    <entry name="Anthrax" reach="47556" counter="3"/>
+    <entry name="Mesh" reach="11838" counter="3"/>
+    <entry name="Ensiferum" reach="29700" counter="3"/>
+    <entry name="Running Wild" reach="12086" counter="3"/>
+    <entry name="Heavenly" reach="11949" counter="3"/>
+    <entry name="Falconer" reach="11105" counter="3"/>
+    <entry name="Battlelore" reach="10217" counter="3"/>
+    <entry name="Pelican" reach="21735" counter="3"/>
+    <entry name="Current 93" reach="15481" counter="2"/>
+    <entry name="Nine Inch Nails" reach="214207" counter="2"/>
+    <entry name="Laibach" reach="18486" counter="2"/>
+    <entry name="Bruce Dickinson" reach="25024" counter="2"/>
+    <entry name="Iron Maiden" reach="147518" counter="2"/>
+    <entry name="The Beatles" reach="379325" counter="2"/>
+    <entry name="Audioslave" reach="162893" counter="2"/>
+    <entry name="Thin Lizzy" reach="45817" counter="2"/>
+    <entry name="Andrew W.K." reach="37019" counter="2"/>
+    <entry name="Finntroll" reach="45132" counter="2"/>
+    <entry name="Sentenced" reach="34289" counter="2"/>
+    <entry name="Queensrÿche" reach="35677" counter="2"/>
+    <entry name="Steve Vai" reach="31819" counter="2"/>
+    <entry name="John Frusciante" reach="34843" counter="2"/>
+    <entry name="Explosions in the Sky" reach="79972" counter="2"/>
+    <entry name="HammerFall" reach="42219" counter="2"/>
+    <entry name="Amorphis" reach="37109" counter="2"/>
+    <entry name="Angra" reach="18962" counter="2"/>
+    <entry name="Saxon" reach="17048" counter="2"/>
+    <entry name="Agalloch" reach="15721" counter="2"/>
+    <entry name="The Faint" reach="99196" counter="2"/>
+    <entry name="Teräsbetoni" reach="12270" counter="2"/>
+    <entry name="Nouvelle Vague" reach="45610" counter="2"/>
+    <entry name="Eurythmics" reach="76915" counter="1"/>
+    <entry name="Boards of Canada" reach="121208" counter="1"/>
+    <entry name="Joy Division" reach="137683" counter="1"/>
+    <entry name="Manic Street Preachers" reach="66569" counter="1"/>
+    <entry name="Pitchshifter" reach="10986" counter="1"/>
+    <entry name="Bob Marley" reach="140151" counter="1"/>
+    <entry name="Megadeth" reach="87303" counter="1"/>
+    <entry name="Hawkwind" reach="12439" counter="1"/>
+    <entry name="The Sisters of Mercy" reach="35327" counter="1"/>
+    <entry name="Hole" reach="58847" counter="1"/>
+    <entry name="Dream Theater" reach="101541" counter="1"/>
+    <entry name="Electric Six" reach="55687" counter="1"/>
+    <entry name="Rammstein" reach="189092" counter="1"/>
+    <entry name="Shakira" reach="90103" counter="1"/>
+    <entry name="A Perfect Circle" reach="161610" counter="1"/>
+    <entry name="Lacuna Coil" reach="75604" counter="1"/>
+    <entry name="Faithless" reach="117771" counter="1"/>
+    <entry name="Michael Jackson" reach="159965" counter="1"/>
+    <entry name="Howard Shore" reach="59954" counter="1"/>
+    <entry name="Erasure" reach="47607" counter="1"/>
+    <entry name="ohGr" reach="10447" counter="1"/>
+    <entry name="Agnelli &amp; Nelson" reach="6473" counter="1"/>
+    <entry name="Stabbing Westward" reach="30026" counter="1"/>
+    <entry name="Rilo Kiley" reach="103888" counter="1"/>
+    <entry name="Curve" reach="15008" counter="1"/>
+    <entry name="Silent Voices" reach="1634" counter="1"/>
+    <entry name="Inkubus Sukkubus" reach="6416" counter="1"/>
+    <entry name=":Wumpscut:" reach="25892" counter="1"/>
+    <entry name="Stratovarius" reach="39659" counter="1"/>
+    <entry name="Adagio" reach="5656" counter="1"/>
+    <entry name="Fields of the Nephilim" reach="10738" counter="1"/>
+    <entry name="Isis" reach="37092" counter="1"/>
+    <entry name="Chinchilla" reach="1561" counter="1"/>
+    <entry name="Rhapsody" reach="43364" counter="1"/>
+    <entry name="Katatonia" reach="37721" counter="1"/>
+    <entry name="Die Apokalyptischen Reiter" reach="9962" counter="1"/>
+    <entry name="SuidAkrA" reach="3868" counter="1"/>
+    <entry name="Otyg" reach="4315" counter="1"/>
+    <entry name="Avalanch" reach="2389" counter="1"/>
+    <entry name="Power Quest" reach="1432" counter="1"/>
+    <entry name="Silent Force" reach="3249" counter="1"/>
+    <entry name="Bob Log III" reach="1579" counter="1"/>
+    <entry name="Velvet Revolver" reach="64496" counter="1"/>
+    <entry name="Mystic Prophecy" reach="1538" counter="1"/>
+    <entry name="Emerson, Lake &amp; Palmer" reach="27303" counter="1"/>
+    <entry name="浜崎あゆみ" reach="45413" counter="1"/>
+    <entry name="Saurom Lamderth" reach="381" counter="1"/>
+    <entry name="Jesu" reach="11090" counter="1"/>
+    <entry name="Beyond the Void" reach="195" counter="1"/>
+    <entry name="Bat for lashes" reach="695" counter="1"/>
+    <entry name="Enter Twilight" reach="100" counter="1"/>
+    <entry name="Vadelmakummitus" reach="3146" counter="1"/>
+  </chart>
+  <chart from="1156075200" to="1156680000">
+    <entry name="Lunatica" reach="2355" counter="28"/>
+    <entry name="HammerFall" reach="42219" counter="23"/>
+    <entry name="Mägo de Oz" reach="9291" counter="18"/>
+    <entry name="WarCry" reach="1216" counter="17"/>
+    <entry name="Edu Falaschi" reach="378" counter="11"/>
+    <entry name="Sonata Arctica" reach="61908" counter="10"/>
+    <entry name="Blind Guardian" reach="66060" counter="8"/>
+    <entry name="Manowar" reach="44590" counter="7"/>
+    <entry name="Iced Earth" reach="53045" counter="7"/>
+    <entry name="Demons &amp; Wizards" reach="24575" counter="7"/>
+    <entry name="Sentenced" reach="34289" counter="6"/>
+    <entry name="Dragonforce" reach="52244" counter="6"/>
+    <entry name="Héroes del Silencio" reach="8829" counter="6"/>
+    <entry name="Aina" reach="6872" counter="6"/>
+    <entry name="Dio" reach="37638" counter="5"/>
+    <entry name="Stratovarius" reach="39659" counter="5"/>
+    <entry name="Evergrey" reach="25610" counter="5"/>
+    <entry name="Lost Horizon" reach="7911" counter="5"/>
+    <entry name="Anathema" reach="37247" counter="4"/>
+    <entry name="Whitesnake" reach="49160" counter="4"/>
+    <entry name="The Darkness" reach="100044" counter="4"/>
+    <entry name="VNV Nation" reach="32751" counter="4"/>
+    <entry name="Edguy" reach="27857" counter="4"/>
+    <entry name="Altaria" reach="4148" counter="4"/>
+    <entry name="Teräsbetoni" reach="12270" counter="4"/>
+    <entry name="Megadeth" reach="87303" counter="3"/>
+    <entry name="The Sisters of Mercy" reach="35327" counter="3"/>
+    <entry name="Alice Cooper" reach="75962" counter="3"/>
+    <entry name="Helloween" reach="45582" counter="3"/>
+    <entry name="Queensrÿche" reach="35677" counter="3"/>
+    <entry name="Project Pitchfork" reach="16619" counter="3"/>
+    <entry name="Heavenly" reach="11949" counter="3"/>
+    <entry name="The Faint" reach="99196" counter="3"/>
+    <entry name="Van Halen" reach="89716" counter="2"/>
+    <entry name="Judas Priest" reach="71225" counter="2"/>
+    <entry name="Andrew W.K." reach="37019" counter="2"/>
+    <entry name="Gamma Ray" reach="23802" counter="2"/>
+    <entry name="Amorphis" reach="37109" counter="2"/>
+    <entry name="Angra" reach="18962" counter="2"/>
+    <entry name="Ensiferum" reach="29700" counter="2"/>
+    <entry name="Rhapsody" reach="43364" counter="2"/>
+    <entry name="Katatonia" reach="37721" counter="2"/>
+    <entry name="Silent Force" reach="3249" counter="2"/>
+    <entry name="Epica" reach="13867" counter="2"/>
+    <entry name="The Crüxshadows" reach="14279" counter="2"/>
+    <entry name="The Dresden Dolls" reach="68066" counter="2"/>
+    <entry name="Jesu" reach="11090" counter="2"/>
+    <entry name="Boards of Canada" reach="121208" counter="1"/>
+    <entry name="Depeche Mode" reach="223593" counter="1"/>
+    <entry name="Placebo" reach="203736" counter="1"/>
+    <entry name="Red Hot Chili Peppers" reach="378227" counter="1"/>
+    <entry name="Led Zeppelin" reach="269243" counter="1"/>
+    <entry name="Stone Temple Pilots" reach="89261" counter="1"/>
+    <entry name="Blondie" reach="106230" counter="1"/>
+    <entry name="Bruce Dickinson" reach="25024" counter="1"/>
+    <entry name="Johnny Cash" reach="217866" counter="1"/>
+    <entry name="Marillion" reach="25790" counter="1"/>
+    <entry name="Howard Shore" reach="59954" counter="1"/>
+    <entry name="Anthrax" reach="47556" counter="1"/>
+    <entry name="Thin Lizzy" reach="45817" counter="1"/>
+    <entry name="Labyrinth" reach="5623" counter="1"/>
+    <entry name="In Flames" reach="108973" counter="1"/>
+    <entry name="Porcupine Tree" reach="56468" counter="1"/>
+    <entry name="Assemblage 23" reach="19105" counter="1"/>
+    <entry name="Rilo Kiley" reach="103888" counter="1"/>
+    <entry name="Curve" reach="15008" counter="1"/>
+    <entry name="John Frusciante" reach="34843" counter="1"/>
+    <entry name="Flogging Molly" reach="74409" counter="1"/>
+    <entry name="Freedom Call" reach="7370" counter="1"/>
+    <entry name="W.A.S.P." reach="20814" counter="1"/>
+    <entry name="Mesh" reach="11838" counter="1"/>
+    <entry name="Running Wild" reach="12086" counter="1"/>
+    <entry name="Unicorn" reach="1471" counter="1"/>
+    <entry name="Chinchilla" reach="1561" counter="1"/>
+    <entry name="At Vance" reach="4125" counter="1"/>
+    <entry name="Nocturnal Rites" reach="5129" counter="1"/>
+    <entry name="Norther" reach="22533" counter="1"/>
+    <entry name="Falconer" reach="11105" counter="1"/>
+    <entry name="Old Man Gloom" reach="6550" counter="1"/>
+    <entry name="Lacrimosa" reach="19454" counter="1"/>
+    <entry name="Anorexia Nervosa" reach="5072" counter="1"/>
+    <entry name="Kings of Leon" reach="85705" counter="1"/>
+    <entry name="Battlelore" reach="10217" counter="1"/>
+    <entry name="Sinner" reach="1669" counter="1"/>
+    <entry name="Pelican" reach="21735" counter="1"/>
+    <entry name="Tierra Santa" reach="2463" counter="1"/>
+    <entry name="Lumsk" reach="6286" counter="1"/>
+    <entry name="Kane Roberts" reach="191" counter="1"/>
+    <entry name="Emerson, Lake &amp; Palmer" reach="27303" counter="1"/>
+    <entry name="Korpiklaani" reach="17730" counter="1"/>
+    <entry name="Turisas" reach="7080" counter="1"/>
+    <entry name="Karelia" reach="825" counter="1"/>
+  </chart>
+  <chart from="1156680000" to="1157284800">
+    <entry name="Héroes del Silencio" reach="8829" counter="64"/>
+    <entry name="Lunatica" reach="2355" counter="24"/>
+    <entry name="Avantasia" reach="22638" counter="17"/>
+    <entry name="Mägo de Oz" reach="9291" counter="10"/>
+    <entry name="Rhapsody of Fire" reach="2174" counter="10"/>
+    <entry name="Sonata Arctica" reach="61908" counter="6"/>
+    <entry name="Anathema" reach="37247" counter="5"/>
+    <entry name="VNV Nation" reach="32751" counter="5"/>
+    <entry name="Manowar" reach="44590" counter="4"/>
+    <entry name="Angra" reach="18962" counter="4"/>
+    <entry name="Demons &amp; Wizards" reach="24575" counter="4"/>
+    <entry name="Bruce Dickinson" reach="25024" counter="3"/>
+    <entry name="Shakira" reach="90103" counter="3"/>
+    <entry name="The Darkness" reach="100044" counter="3"/>
+    <entry name="Dragonforce" reach="52244" counter="3"/>
+    <entry name="Battlelore" reach="10217" counter="3"/>
+    <entry name="Saurom Lamderth" reach="381" counter="3"/>
+    <entry name="Blind Guardian" reach="66060" counter="2"/>
+    <entry name="Assemblage 23" reach="19105" counter="2"/>
+    <entry name="HammerFall" reach="42219" counter="2"/>
+    <entry name="Edguy" reach="27857" counter="2"/>
+    <entry name="Korpiklaani" reach="17730" counter="2"/>
+    <entry name="Aina" reach="6872" counter="2"/>
+    <entry name="Shaaman" reach="1680" counter="2"/>
+    <entry name="Hawkwind" reach="12439" counter="1"/>
+    <entry name="The Sisters of Mercy" reach="35327" counter="1"/>
+    <entry name="Helloween" reach="45582" counter="1"/>
+    <entry name="Iron Maiden" reach="147518" counter="1"/>
+    <entry name="Dio" reach="37638" counter="1"/>
+    <entry name="Erasure" reach="47607" counter="1"/>
+    <entry name="Andrew W.K." reach="37019" counter="1"/>
+    <entry name="Finntroll" reach="45132" counter="1"/>
+    <entry name="Sentenced" reach="34289" counter="1"/>
+    <entry name="Project Pitchfork" reach="16619" counter="1"/>
+    <entry name="Iced Earth" reach="53045" counter="1"/>
+    <entry name="Within Temptation" reach="65709" counter="1"/>
+    <entry name="Adagio" reach="5656" counter="1"/>
+    <entry name="Ensiferum" reach="29700" counter="1"/>
+    <entry name="Saxon" reach="17048" counter="1"/>
+    <entry name="Agalloch" reach="15721" counter="1"/>
+    <entry name="Die Apokalyptischen Reiter" reach="9962" counter="1"/>
+    <entry name="Lost Horizon" reach="7911" counter="1"/>
+    <entry name="Liv Kristine" reach="4219" counter="1"/>
+    <entry name="Sinner" reach="1669" counter="1"/>
+    <entry name="Tierra Santa" reach="2463" counter="1"/>
+    <entry name="The Faint" reach="99196" counter="1"/>
+    <entry name="The Crüxshadows" reach="14279" counter="1"/>
+    <entry name="The Knife" reach="60331" counter="1"/>
+    <entry name="Derdian" reach="664" counter="1"/>
+  </chart>
+  <chart from="1157284800" to="1157889600">
+    <entry name="Héroes del Silencio" reach="8829" counter="23"/>
+    <entry name="Judas Priest" reach="71225" counter="15"/>
+    <entry name="Edguy" reach="27857" counter="14"/>
+    <entry name="Twilightning" reach="2328" counter="14"/>
+    <entry name="Angra" reach="18962" counter="13"/>
+    <entry name="Asgarth" reach="68" counter="12"/>
+    <entry name="Mägo de Oz" reach="9291" counter="11"/>
+    <entry name="Sonata Arctica" reach="61908" counter="10"/>
+    <entry name="Momo" reach="1435" counter="10"/>
+    <entry name="Iced Earth" reach="53045" counter="7"/>
+    <entry name="Stratovarius" reach="39659" counter="7"/>
+    <entry name="Lunatica" reach="2355" counter="7"/>
+    <entry name="Dire Straits" reach="117606" counter="6"/>
+    <entry name="Avantasia" reach="22638" counter="6"/>
+    <entry name="Anathema" reach="37247" counter="5"/>
+    <entry name="Blind Guardian" reach="66060" counter="5"/>
+    <entry name="Manowar" reach="44590" counter="5"/>
+    <entry name="Unicorn" reach="1471" counter="5"/>
+    <entry name="Shaaman" reach="1680" counter="5"/>
+    <entry name="Iron Maiden" reach="147518" counter="4"/>
+    <entry name="Heavenly" reach="11949" counter="4"/>
+    <entry name="Aina" reach="6872" counter="4"/>
+    <entry name="Megadeth" reach="87303" counter="3"/>
+    <entry name="W.A.S.P." reach="20814" counter="3"/>
+    <entry name="Rhapsody" reach="43364" counter="3"/>
+    <entry name="Axel Rudi Pell" reach="4412" counter="3"/>
+    <entry name="Secret Sphere" reach="1599" counter="3"/>
+    <entry name="Dragonforce" reach="52244" counter="3"/>
+    <entry name="Battlelore" reach="10217" counter="3"/>
+    <entry name="Oratory" reach="573" counter="3"/>
+    <entry name="Altaria" reach="4148" counter="3"/>
+    <entry name="Demons &amp; Wizards" reach="24575" counter="3"/>
+    <entry name="Korpiklaani" reach="17730" counter="3"/>
+    <entry name="Eyes of Shiva" reach="402" counter="3"/>
+    <entry name="Placebo" reach="203736" counter="2"/>
+    <entry name="Dio" reach="37638" counter="2"/>
+    <entry name="VNV Nation" reach="32751" counter="2"/>
+    <entry name="Children of Bodom" reach="93234" counter="2"/>
+    <entry name="In Flames" reach="108973" counter="2"/>
+    <entry name="Inkubus Sukkubus" reach="6416" counter="2"/>
+    <entry name="Freedom Call" reach="7370" counter="2"/>
+    <entry name="Evergrey" reach="25610" counter="2"/>
+    <entry name="Kalmah" reach="16085" counter="2"/>
+    <entry name="David Hasselhoff" reach="10768" counter="2"/>
+    <entry name="Agathodaimon" reach="6946" counter="2"/>
+    <entry name="Lost Horizon" reach="7911" counter="2"/>
+    <entry name="Firewind" reach="3412" counter="2"/>
+    <entry name="Xandria" reach="7134" counter="2"/>
+    <entry name="Vanishing Point" reach="966" counter="2"/>
+    <entry name="Motorcycle" reach="13338" counter="2"/>
+    <entry name="The Faint" reach="99196" counter="2"/>
+    <entry name="Jesu" reach="11090" counter="2"/>
+    <entry name="Ñu" reach="138" counter="2"/>
+    <entry name="Pink Floyd" reach="286659" counter="1"/>
+    <entry name="Current 93" reach="15481" counter="1"/>
+    <entry name="Depeche Mode" reach="223593" counter="1"/>
+    <entry name="Van Halen" reach="89716" counter="1"/>
+    <entry name="Dido" reach="128724" counter="1"/>
+    <entry name="Jimi Hendrix" reach="194662" counter="1"/>
+    <entry name="Whitesnake" reach="49160" counter="1"/>
+    <entry name="Blondie" reach="106230" counter="1"/>
+    <entry name="Bruce Dickinson" reach="25024" counter="1"/>
+    <entry name="Shakira" reach="90103" counter="1"/>
+    <entry name="Persuader" reach="3229" counter="1"/>
+    <entry name="Helloween" reach="45582" counter="1"/>
+    <entry name="Audioslave" reach="162893" counter="1"/>
+    <entry name="Rush" reach="64853" counter="1"/>
+    <entry name="The Darkness" reach="100044" counter="1"/>
+    <entry name="Erasure" reach="47607" counter="1"/>
+    <entry name="Andrew W.K." reach="37019" counter="1"/>
+    <entry name="Flowing Tears" reach="4474" counter="1"/>
+    <entry name="Lene Marlin" reach="18743" counter="1"/>
+    <entry name="Agnelli &amp; Nelson" reach="6473" counter="1"/>
+    <entry name="Finntroll" reach="45132" counter="1"/>
+    <entry name="Sentenced" reach="34289" counter="1"/>
+    <entry name="Arch Enemy" reach="60284" counter="1"/>
+    <entry name="Queensrÿche" reach="35677" counter="1"/>
+    <entry name="Porcupine Tree" reach="56468" counter="1"/>
+    <entry name="Assemblage 23" reach="19105" counter="1"/>
+    <entry name="Project Pitchfork" reach="16619" counter="1"/>
+    <entry name="Faith Hill" reach="38710" counter="1"/>
+    <entry name="Pain of Salvation" reach="23709" counter="1"/>
+    <entry name="John Frusciante" reach="34843" counter="1"/>
+    <entry name="Within Temptation" reach="65709" counter="1"/>
+    <entry name="Kamelot" reach="27249" counter="1"/>
+    <entry name=":Wumpscut:" reach="25892" counter="1"/>
+    <entry name="HammerFall" reach="42219" counter="1"/>
+    <entry name="Gamma Ray" reach="23802" counter="1"/>
+    <entry name="Amorphis" reach="37109" counter="1"/>
+    <entry name="Ensiferum" reach="29700" counter="1"/>
+    <entry name="Running Wild" reach="12086" counter="1"/>
+    <entry name="Tristania" reach="23605" counter="1"/>
+    <entry name="Steel Attack" reach="977" counter="1"/>
+    <entry name="Elvenking" reach="9434" counter="1"/>
+    <entry name="Katatonia" reach="37721" counter="1"/>
+    <entry name="Dokken" reach="5208" counter="1"/>
+    <entry name="Norther" reach="22533" counter="1"/>
+    <entry name="Dream Evil" reach="12466" counter="1"/>
+    <entry name="Falconer" reach="11105" counter="1"/>
+    <entry name="Old Man Gloom" reach="6550" counter="1"/>
+    <entry name="Giant" reach="1514" counter="1"/>
+    <entry name="Die Apokalyptischen Reiter" reach="9962" counter="1"/>
+    <entry name="Royal Hunt" reach="2179" counter="1"/>
+    <entry name="Hot Butter" reach="10478" counter="1"/>
+    <entry name="Doro" reach="6285" counter="1"/>
+    <entry name="Vixen" reach="2909" counter="1"/>
+    <entry name="Renaissance" reach="4234" counter="1"/>
+    <entry name="Andain" reach="16968" counter="1"/>
+    <entry name="Otyg" reach="4315" counter="1"/>
+    <entry name="Thy Majestie" reach="1593" counter="1"/>
+    <entry name="Catharsis" reach="3023" counter="1"/>
+    <entry name="Pelican" reach="21735" counter="1"/>
+    <entry name="Wonderland" reach="1867" counter="1"/>
+    <entry name="Heimdall" reach="402" counter="1"/>
+    <entry name="Lumsk" reach="6286" counter="1"/>
+    <entry name="Soulslide" reach="254" counter="1"/>
+    <entry name="Axenstar" reach="1709" counter="1"/>
+    <entry name="Nightfall" reach="1334" counter="1"/>
+    <entry name="Epica" reach="13867" counter="1"/>
+    <entry name="Manigance" reach="571" counter="1"/>
+    <entry name="The Author" reach="12643" counter="1"/>
+    <entry name="The Dubliners" reach="12935" counter="1"/>
+    <entry name="The Crüxshadows" reach="14279" counter="1"/>
+    <entry name="The Storyteller" reach="990" counter="1"/>
+    <entry name="Memoria" reach="268" counter="1"/>
+    <entry name="The Dresden Dolls" reach="68066" counter="1"/>
+    <entry name="Sabaton" reach="3039" counter="1"/>
+    <entry name="Kaledon" reach="242" counter="1"/>
+    <entry name="TrollfesT" reach="2028" counter="1"/>
+    <entry name="Dyslesia" reach="114" counter="1"/>
+    <entry name="André Andersen" reach="17" counter="1"/>
+    <entry name="HORDAK" reach="100" counter="1"/>
+  </chart>
+  <chart from="1157889600" to="1158494400">
+    <entry name="Mägo de Oz" reach="9291" counter="81"/>
+    <entry name="Altaria" reach="4148" counter="23"/>
+    <entry name="Catharsis" reach="3023" counter="17"/>
+    <entry name="Judas Priest" reach="71225" counter="16"/>
+    <entry name="Belle and Sebastian" reach="192183" counter="16"/>
+    <entry name="WarCry" reach="1216" counter="14"/>
+    <entry name="Shaaman" reach="1680" counter="14"/>
+    <entry name="Stratovarius" reach="39659" counter="12"/>
+    <entry name="Angra" reach="18962" counter="10"/>
+    <entry name="Héroes del Silencio" reach="8829" counter="10"/>
+    <entry name="Asgarth" reach="68" counter="10"/>
+    <entry name="Epica" reach="13867" counter="9"/>
+    <entry name="Lunatica" reach="2355" counter="9"/>
+    <entry name="Iron Maiden" reach="147518" counter="8"/>
+    <entry name="Winds" reach="2629" counter="6"/>
+    <entry name="Within Temptation" reach="65709" counter="5"/>
+    <entry name="Anathema" reach="37247" counter="4"/>
+    <entry name="Kamelot" reach="27249" counter="4"/>
+    <entry name="HammerFall" reach="42219" counter="4"/>
+    <entry name="Edguy" reach="27857" counter="4"/>
+    <entry name="Tierra Santa" reach="2463" counter="4"/>
+    <entry name="Ñu" reach="138" counter="4"/>
+    <entry name="Marillion" reach="25790" counter="3"/>
+    <entry name="Iced Earth" reach="53045" counter="3"/>
+    <entry name="Heavenly" reach="11949" counter="3"/>
+    <entry name="Axxis" reach="2996" counter="3"/>
+    <entry name="Sinner" reach="1669" counter="3"/>
+    <entry name="Power Quest" reach="1432" counter="3"/>
+    <entry name="Demons &amp; Wizards" reach="24575" counter="3"/>
+    <entry name="Rush" reach="64853" counter="2"/>
+    <entry name="Manowar" reach="44590" counter="2"/>
+    <entry name="Rilo Kiley" reach="103888" counter="2"/>
+    <entry name="Nightwish" reach="116794" counter="2"/>
+    <entry name="Freedom Call" reach="7370" counter="2"/>
+    <entry name="W.A.S.P." reach="20814" counter="2"/>
+    <entry name="Warmen" reach="5650" counter="2"/>
+    <entry name="Eternal Tears of Sorrow" reach="11142" counter="2"/>
+    <entry name="Nocturnal Rites" reach="5129" counter="2"/>
+    <entry name="Secret Sphere" reach="1599" counter="2"/>
+    <entry name="Lacrimosa" reach="19454" counter="2"/>
+    <entry name="Battlelore" reach="10217" counter="2"/>
+    <entry name="Oratory" reach="573" counter="2"/>
+    <entry name="Magica" reach="1252" counter="2"/>
+    <entry name="Manigance" reach="571" counter="2"/>
+    <entry name="Turisas" reach="7080" counter="2"/>
+    <entry name="Twilightning" reach="2328" counter="2"/>
+    <entry name="Joan Baez" reach="25542" counter="1"/>
+    <entry name="Dire Straits" reach="117606" counter="1"/>
+    <entry name="Blind Guardian" reach="66060" counter="1"/>
+    <entry name="Aria" reach="3069" counter="1"/>
+    <entry name="VNV Nation" reach="32751" counter="1"/>
+    <entry name="Natalie Imbruglia" reach="77166" counter="1"/>
+    <entry name="Lene Marlin" reach="18743" counter="1"/>
+    <entry name="Finntroll" reach="45132" counter="1"/>
+    <entry name="Death" reach="37212" counter="1"/>
+    <entry name="Sentenced" reach="34289" counter="1"/>
+    <entry name="All Saints" reach="31093" counter="1"/>
+    <entry name="Silver Jews" reach="29357" counter="1"/>
+    <entry name="Dreamland" reach="1002" counter="1"/>
+    <entry name="Camera Obscura" reach="49010" counter="1"/>
+    <entry name="After Forever" reach="20730" counter="1"/>
+    <entry name="John Frusciante" reach="34843" counter="1"/>
+    <entry name="Bomfunk MC's" reach="36508" counter="1"/>
+    <entry name="Sonata Arctica" reach="61908" counter="1"/>
+    <entry name="Amorphis" reach="37109" counter="1"/>
+    <entry name="Vision Divine" reach="2499" counter="1"/>
+    <entry name="Unicorn" reach="1471" counter="1"/>
+    <entry name="Savatage" reach="15707" counter="1"/>
+    <entry name="Avantasia" reach="22638" counter="1"/>
+    <entry name="Edenbridge" reach="10275" counter="1"/>
+    <entry name="Norther" reach="22533" counter="1"/>
+    <entry name="Umbra et Imago" reach="4305" counter="1"/>
+    <entry name="Penumbra" reach="5458" counter="1"/>
+    <entry name="Falconer" reach="11105" counter="1"/>
+    <entry name="Markus Schulz" reach="6803" counter="1"/>
+    <entry name="Renaissance" reach="4234" counter="1"/>
+    <entry name="Tuatha De Danann" reach="1937" counter="1"/>
+    <entry name="Dragonland" reach="5731" counter="1"/>
+    <entry name="Dargaard" reach="2918" counter="1"/>
+    <entry name="Xandria" reach="7134" counter="1"/>
+    <entry name="Hibria" reach="1060" counter="1"/>
+    <entry name="Seventh Avenue" reach="373" counter="1"/>
+    <entry name="Nightmare" reach="3308" counter="1"/>
+    <entry name="Delight" reach="878" counter="1"/>
+    <entry name="Vanishing Point" reach="966" counter="1"/>
+    <entry name="Celesty" reach="1405" counter="1"/>
+    <entry name="Holy Dragons" reach="338" counter="1"/>
+    <entry name="Kane Roberts" reach="191" counter="1"/>
+    <entry name="goto80" reach="1582" counter="1"/>
+    <entry name="L'Âme Immortelle" reach="14641" counter="1"/>
+    <entry name="Cardiant" reach="175" counter="1"/>
+    <entry name="The Dresden Dolls" reach="68066" counter="1"/>
+    <entry name="Astral Doors" reach="2983" counter="1"/>
+    <entry name="Wig Wam" reach="3847" counter="1"/>
+    <entry name="Twilight Guardians" reach="2221" counter="1"/>
+    <entry name="Book Of Reflections" reach="112" counter="1"/>
+    <entry name="Nexx" reach="110" counter="1"/>
+    <entry name="Eyes of Shiva" reach="402" counter="1"/>
+    <entry name="Tyrant Eyes" reach="44" counter="1"/>
+    <entry name="Tarja Turunen" reach="785" counter="1"/>
+    <entry name="Dyslesia" reach="114" counter="1"/>
+    <entry name="Heaven's Guardian" reach="53" counter="1"/>
+    <entry name="Lorenguard" reach="15" counter="1"/>
+    <entry name="Tribuzy" reach="556" counter="1"/>
+    <entry name="Chamber: L'orchestre de Chambre Noire" reach="1" counter="1"/>
+  </chart>
+  <chart from="1158494400" to="1159099200">
+    <entry name="Edguy" reach="27857" counter="181"/>
+    <entry name="WarCry" reach="1216" counter="62"/>
+    <entry name="Kalmah" reach="16085" counter="21"/>
+    <entry name="Mägo de Oz" reach="9291" counter="20"/>
+    <entry name="Stratovarius" reach="39659" counter="17"/>
+    <entry name="Norther" reach="22533" counter="7"/>
+    <entry name="Blind Guardian" reach="66060" counter="6"/>
+    <entry name="Warmen" reach="5650" counter="5"/>
+    <entry name="Axxis" reach="2996" counter="5"/>
+    <entry name="Soulslide" reach="254" counter="5"/>
+    <entry name="Shaaman" reach="1680" counter="5"/>
+    <entry name="Epica" reach="13867" counter="4"/>
+    <entry name="Helloween" reach="45582" counter="3"/>
+    <entry name="Iron Maiden" reach="147518" counter="3"/>
+    <entry name="Belle and Sebastian" reach="192183" counter="3"/>
+    <entry name="Manowar" reach="44590" counter="3"/>
+    <entry name="Shadow Gallery" reach="5296" counter="3"/>
+    <entry name="Altaria" reach="4148" counter="3"/>
+    <entry name="Heaven's Guardian" reach="53" counter="3"/>
+    <entry name="Marillion" reach="25790" counter="2"/>
+    <entry name="Queensrÿche" reach="35677" counter="2"/>
+    <entry name="Angra" reach="18962" counter="2"/>
+    <entry name="Yngwie Malmsteen" reach="35174" counter="2"/>
+    <entry name="Anathema" reach="37247" counter="1"/>
+    <entry name="Judas Priest" reach="71225" counter="1"/>
+    <entry name="Dire Straits" reach="117606" counter="1"/>
+    <entry name="Rush" reach="64853" counter="1"/>
+    <entry name="The Corrs" reach="60962" counter="1"/>
+    <entry name="Children of Bodom" reach="93234" counter="1"/>
+    <entry name="After Forever" reach="20730" counter="1"/>
+    <entry name="Nightwish" reach="116794" counter="1"/>
+    <entry name="HammerFall" reach="42219" counter="1"/>
+    <entry name="W.A.S.P." reach="20814" counter="1"/>
+    <entry name="Amorphis" reach="37109" counter="1"/>
+    <entry name="Savatage" reach="15707" counter="1"/>
+    <entry name="Avantasia" reach="22638" counter="1"/>
+    <entry name="Chinchilla" reach="1561" counter="1"/>
+    <entry name="Morifade" reach="837" counter="1"/>
+    <entry name="Symphorce" reach="2407" counter="1"/>
+    <entry name="Doro" reach="6285" counter="1"/>
+    <entry name="Andain" reach="16968" counter="1"/>
+    <entry name="Liv Kristine" reach="4219" counter="1"/>
+    <entry name="Venin Noir" reach="273" counter="1"/>
+    <entry name="Majesty" reach="2344" counter="1"/>
+    <entry name="Magica" reach="1252" counter="1"/>
+    <entry name="Héroes del Silencio" reach="8829" counter="1"/>
+    <entry name="Karelia" reach="825" counter="1"/>
+    <entry name="TrollfesT" reach="2028" counter="1"/>
+    <entry name="Twilight Guardians" reach="2221" counter="1"/>
+    <entry name="Naio Ssaion" reach="781" counter="1"/>
+    <entry name="Tyrant Eyes" reach="44" counter="1"/>
+  </chart>
+  <chart from="1159099200" to="1159704000">
+    <entry name="Edguy" reach="27857" counter="81"/>
+    <entry name="Blind Guardian" reach="66060" counter="59"/>
+    <entry name="Angra" reach="18962" counter="30"/>
+    <entry name="Demons &amp; Wizards" reach="24575" counter="24"/>
+    <entry name="Heavenly" reach="11949" counter="14"/>
+    <entry name="Freedom Call" reach="7370" counter="12"/>
+    <entry name="WarCry" reach="1216" counter="10"/>
+    <entry name="Falkenbach" reach="11480" counter="7"/>
+    <entry name="Mägo de Oz" reach="9291" counter="7"/>
+    <entry name="Héroes del Silencio" reach="8829" counter="7"/>
+    <entry name="Season's End" reach="689" counter="6"/>
+    <entry name="Soulslide" reach="254" counter="5"/>
+    <entry name="Alogia" reach="343" counter="4"/>
+    <entry name="Sonata Arctica" reach="61908" counter="2"/>
+    <entry name="Astral Doors" reach="2983" counter="2"/>
+    <entry name="Rhapsody of Fire" reach="2174" counter="2"/>
+    <entry name="The Cure" reach="261709" counter="1"/>
+    <entry name="Mazzy Star" reach="47378" counter="1"/>
+    <entry name="The Sisters of Mercy" reach="35327" counter="1"/>
+    <entry name="Iron Maiden" reach="147518" counter="1"/>
+    <entry name="Kylie Minogue" reach="97549" counter="1"/>
+    <entry name="Boston" reach="49262" counter="1"/>
+    <entry name="VNV Nation" reach="32751" counter="1"/>
+    <entry name="Manowar" reach="44590" counter="1"/>
+    <entry name="Sentenced" reach="34289" counter="1"/>
+    <entry name="Iced Earth" reach="53045" counter="1"/>
+    <entry name="Samael" reach="18288" counter="1"/>
+    <entry name="John Frusciante" reach="34843" counter="1"/>
+    <entry name="Explosions in the Sky" reach="79972" counter="1"/>
+    <entry name="Mesh" reach="11838" counter="1"/>
+    <entry name="Avantasia" reach="22638" counter="1"/>
+    <entry name="Liv Kristine" reach="4219" counter="1"/>
+    <entry name="Magica" reach="1252" counter="1"/>
+    <entry name="Epica" reach="13867" counter="1"/>
+    <entry name="浜崎あゆみ" reach="45413" counter="1"/>
+  </chart>
+  <chart from="1159704000" to="1160308800">
+    <entry name="Blind Guardian" reach="66060" counter="22"/>
+    <entry name="Unicorn" reach="1471" counter="22"/>
+    <entry name="Power Quest" reach="1432" counter="17"/>
+    <entry name="Mägo de Oz" reach="9291" counter="16"/>
+    <entry name="Juanes" reach="39833" counter="12"/>
+    <entry name="Secret Sphere" reach="1599" counter="12"/>
+    <entry name="Doro" reach="6285" counter="12"/>
+    <entry name="Final Chapter" reach="159" counter="12"/>
+    <entry name="HammerFall" reach="42219" counter="11"/>
+    <entry name="Teräsbetoni" reach="12270" counter="11"/>
+    <entry name="WarCry" reach="1216" counter="11"/>
+    <entry name="Darkseed" reach="2661" counter="8"/>
+    <entry name="Draconian" reach="8667" counter="8"/>
+    <entry name="Turisas" reach="7080" counter="7"/>
+    <entry name="Sonata Arctica" reach="61908" counter="6"/>
+    <entry name="Edguy" reach="27857" counter="6"/>
+    <entry name="Cellador" reach="1199" counter="6"/>
+    <entry name="Manowar" reach="44590" counter="5"/>
+    <entry name="Tenhi" reach="5293" counter="5"/>
+    <entry name="Astral Doors" reach="2983" counter="5"/>
+    <entry name="Anathema" reach="37247" counter="4"/>
+    <entry name="Helloween" reach="45582" counter="4"/>
+    <entry name="Ensiferum" reach="29700" counter="4"/>
+    <entry name="Rhapsody" reach="43364" counter="4"/>
+    <entry name="Heavenly" reach="11949" counter="4"/>
+    <entry name="Battlelore" reach="10217" counter="4"/>
+    <entry name="Demons &amp; Wizards" reach="24575" counter="4"/>
+    <entry name="Depeche Mode" reach="223593" counter="3"/>
+    <entry name="VNV Nation" reach="32751" counter="3"/>
+    <entry name="My Dying Bride" reach="25004" counter="3"/>
+    <entry name="Evergrey" reach="25610" counter="3"/>
+    <entry name="The Faint" reach="99196" counter="3"/>
+    <entry name="Héroes del Silencio" reach="8829" counter="3"/>
+    <entry name="Aina" reach="6872" counter="3"/>
+    <entry name="Jesu" reach="11090" counter="3"/>
+    <entry name="The Cure" reach="261709" counter="2"/>
+    <entry name="Dream Theater" reach="101541" counter="2"/>
+    <entry name="Dio" reach="37638" counter="2"/>
+    <entry name="Iced Earth" reach="53045" counter="2"/>
+    <entry name="Rilo Kiley" reach="103888" counter="2"/>
+    <entry name="Adam and The Ants" reach="14036" counter="2"/>
+    <entry name="Explosions in the Sky" reach="79972" counter="2"/>
+    <entry name="Isis" reach="37092" counter="2"/>
+    <entry name="Angra" reach="18962" counter="2"/>
+    <entry name="Chinchilla" reach="1561" counter="2"/>
+    <entry name="Lost Horizon" reach="7911" counter="2"/>
+    <entry name="Dragonland" reach="5731" counter="2"/>
+    <entry name="Altaria" reach="4148" counter="2"/>
+    <entry name="Soulslide" reach="254" counter="2"/>
+    <entry name="Korpiklaani" reach="17730" counter="2"/>
+    <entry name="Rodrigo y Gabriela" reach="2731" counter="2"/>
+    <entry name="The Dresden Dolls" reach="68066" counter="2"/>
+    <entry name="Placebo" reach="203736" counter="1"/>
+    <entry name="Van Halen" reach="89716" counter="1"/>
+    <entry name="Megadeth" reach="87303" counter="1"/>
+    <entry name="Hawkwind" reach="12439" counter="1"/>
+    <entry name="Mike Oldfield" reach="49117" counter="1"/>
+    <entry name="The Sisters of Mercy" reach="35327" counter="1"/>
+    <entry name="Whitesnake" reach="49160" counter="1"/>
+    <entry name="Cream" reach="78314" counter="1"/>
+    <entry name="Muse" reach="259277" counter="1"/>
+    <entry name="Michael Jackson" reach="159965" counter="1"/>
+    <entry name="Howard Shore" reach="59954" counter="1"/>
+    <entry name="Nick Cave and the Bad Seeds" reach="85433" counter="1"/>
+    <entry name="Anthrax" reach="47556" counter="1"/>
+    <entry name="The Darkness" reach="100044" counter="1"/>
+    <entry name="Erasure" reach="47607" counter="1"/>
+    <entry name="Sentenced" reach="34289" counter="1"/>
+    <entry name="Queensrÿche" reach="35677" counter="1"/>
+    <entry name="Steve Vai" reach="31819" counter="1"/>
+    <entry name="Mägo de Oz" reach="9291" counter="1"/>
+    <entry name="Alphaville" reach="37827" counter="1"/>
+    <entry name=":Wumpscut:" reach="25892" counter="1"/>
+    <entry name="Gamma Ray" reach="23802" counter="1"/>
+    <entry name="Amorphis" reach="37109" counter="1"/>
+    <entry name="Running Wild" reach="12086" counter="1"/>
+    <entry name="Avantasia" reach="22638" counter="1"/>
+    <entry name="Falconer" reach="11105" counter="1"/>
+    <entry name="Dragonforce" reach="52244" counter="1"/>
+    <entry name="Kings of Leon" reach="85705" counter="1"/>
+    <entry name="Markus Schulz" reach="6803" counter="1"/>
+    <entry name="Axxis" reach="2996" counter="1"/>
+    <entry name="Pelican" reach="21735" counter="1"/>
+    <entry name="Velvet Revolver" reach="64496" counter="1"/>
+    <entry name="Epica" reach="13867" counter="1"/>
+    <entry name="The Crüxshadows" reach="14279" counter="1"/>
+    <entry name="TrollfesT" reach="2028" counter="1"/>
+    <entry name="Lucifer's Heritage" reach="871" counter="1"/>
+    <entry name="Beto Vázquez Infinity" reach="1940" counter="1"/>
+    <entry name="Heaven's Guardian" reach="53" counter="1"/>
+    <entry name="Timeless Miracle" reach="552" counter="1"/>
+  </chart>
+</resource>

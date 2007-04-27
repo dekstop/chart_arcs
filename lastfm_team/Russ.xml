@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource name="Russ" restype="4" id="1001790">
+  <chart from="1144584000" to="1145188800">
+    <entry name="The Cure" reach="261709" counter="2"/>
+    <entry name="Queen" reach="267576" counter="2"/>
+    <entry name="Gotan Project" reach="46074" counter="2"/>
+    <entry name="Foo Fighters" reach="260254" counter="2"/>
+    <entry name="Portishead" reach="148308" counter="1"/>
+    <entry name="Squarepusher" reach="68214" counter="1"/>
+    <entry name="Massive Attack" reach="205903" counter="1"/>
+    <entry name="Mogwai" reach="125152" counter="1"/>
+    <entry name="Prefuse 73" reach="65895" counter="1"/>
+    <entry name="Kid Loco" reach="22720" counter="1"/>
+    <entry name="Fishcake" reach="294" counter="1"/>
+    <entry name="Red Snapper" reach="19944" counter="1"/>
+    <entry name="Sneaker Pimps" reach="61554" counter="1"/>
+    <entry name="Sofa Surfers" reach="17033" counter="1"/>
+    <entry name="Gus Gus" reach="28087" counter="1"/>
+    <entry name="Placebo" reach="203736" counter="1"/>
+    <entry name="Sonny Rollins" reach="17966" counter="1"/>
+    <entry name="DJ Krush / Toshinori Kondo" reach="943" counter="1"/>
+    <entry name="Mum" reach="27869" counter="1"/>
+    <entry name="Rae &amp; Christian" reach="12033" counter="1"/>
+    <entry name="PJ Harvey" reach="104107" counter="1"/>
+    <entry name="Zero 7" reach="138713" counter="1"/>
+    <entry name="Buena Vista Social Club" reach="41913" counter="1"/>
+    <entry name="Tori Amos" reach="122068" counter="1"/>
+    <entry name="Led Zeppelin" reach="269243" counter="1"/>
+    <entry name="Koop" reach="24084" counter="1"/>
+    <entry name="Ry Cooder" reach="17266" counter="1"/>
+    <entry name="Santana" reach="94955" counter="1"/>
+    <entry name="HIM" reach="120593" counter="1"/>
+    <entry name="Enigma" reach="66545" counter="1"/>
+    <entry name="dEUS" reach="30369" counter="1"/>
+    <entry name="No Doubt" reach="166412" counter="1"/>
+    <entry name="Black Rebel Motorcycle Club" reach="62463" counter="1"/>
+    <entry name="Smash Mouth" reach="67728" counter="1"/>
+    <entry name="Staind" reach="102049" counter="1"/>
+    <entry name="Audioslave" reach="162893" counter="1"/>
+    <entry name="Muse" reach="259277" counter="1"/>
+    <entry name="Dire Straits" reach="117606" counter="1"/>
+    <entry name="Orgy" reach="40593" counter="1"/>
+    <entry name="Queens of the Stone Age" reach="187883" counter="1"/>
+    <entry name="Bad Religion" reach="107297" counter="1"/>
+    <entry name="Dave Matthews Band" reach="126646" counter="1"/>
+    <entry name="Rush" reach="64853" counter="1"/>
+    <entry name="Bran Van 3000" reach="22662" counter="1"/>
+    <entry name="The Smashing Pumpkins" reach="254247" counter="1"/>
+    <entry name="Interpol" reach="206523" counter="1"/>
+    <entry name="Bonobo" reach="32431" counter="1"/>
+    <entry name="Mr. Scruff" reach="35880" counter="1"/>
+    <entry name="Chicane" reach="49430" counter="1"/>
+    <entry name="London After Midnight" reach="11093" counter="1"/>
+    <entry name="Robert Miles" reach="35270" counter="1"/>
+    <entry name="De-Phazz" reach="35051" counter="1"/>
+    <entry name="Lloyd Cole and the Commotions" reach="4076" counter="1"/>
+    <entry name="Yonderboi" reach="12675" counter="1"/>
+    <entry name="Tribalistas" reach="6691" counter="1"/>
+    <entry name="yabby you" reach="2917" counter="1"/>
+    <entry name="Trüby Trio" reach="11957" counter="1"/>
+    <entry name="Waveform" reach="339" counter="1"/>
+    <entry name="Planet Bliss" reach="4772" counter="1"/>
+    <entry name="The Future Sound of London" reach="45564" counter="1"/>
+    <entry name="The Jon Spencer Blues Explosion" reach="18101" counter="1"/>
+    <entry name="Lapko" reach="5398" counter="1"/>
+  </chart>
+  <chart from="1145188800" to="1145793600">
+    <entry name="Pink Floyd" reach="286659" counter="3"/>
+    <entry name="Air" reach="219399" counter="1"/>
+    <entry name="Peace Orchestra" reach="18913" counter="1"/>
+    <entry name="DJ Shadow" reach="115518" counter="1"/>
+    <entry name="DJ Food" reach="31074" counter="1"/>
+    <entry name="Aphex Twin" reach="139649" counter="1"/>
+    <entry name="Vangelis" reach="52218" counter="1"/>
+    <entry name="David Gray" reach="90165" counter="1"/>
+    <entry name="Kruder &amp; Dorfmeister" reach="41269" counter="1"/>
+    <entry name="Baby Mammoth" reach="7838" counter="1"/>
+    <entry name="DJ Cam" reach="24982" counter="1"/>
+    <entry name="The Cinematic Orchestra" reach="48979" counter="1"/>
+    <entry name="Computer Rockers" reach="448" counter="1"/>
+    <entry name="Beanfield" reach="10083" counter="1"/>
+    <entry name="Kyoto Jazz Massive" reach="15354" counter="1"/>
+    <entry name="London Funk Allstars" reach="5513" counter="1"/>
+    <entry name="Bugge Wesseltoft" reach="11965" counter="1"/>
+    <entry name="Thunderball" reach="9283" counter="1"/>
+    <entry name="RJD2" reach="70231" counter="1"/>
+    <entry name="Hexstatic" reach="10016" counter="1"/>
+    <entry name="Quantic" reach="20251" counter="1"/>
+    <entry name="Minus 8" reach="13314" counter="1"/>
+    <entry name="Hybrid" reach="24938" counter="1"/>
+    <entry name="The Herbaliser" reach="45805" counter="1"/>
+    <entry name="9 Lazy 9" reach="14811" counter="1"/>
+    <entry name="Bonobo" reach="32431" counter="1"/>
+    <entry name="Mr. Scruff" reach="35880" counter="1"/>
+    <entry name="Aim" reach="16234" counter="1"/>
+    <entry name="Bullfrog" reach="2163" counter="1"/>
+    <entry name="Troublemakers" reach="8174" counter="1"/>
+    <entry name="Brooklyn Funk Essentials" reach="3759" counter="1"/>
+    <entry name="Salmonella Dub" reach="5440" counter="1"/>
+    <entry name="Yonderboi" reach="12675" counter="1"/>
+    <entry name="ILS" reach="8964" counter="1"/>
+    <entry name="Alice Russell" reach="6277" counter="1"/>
+    <entry name="The Irresistible Force" reach="5094" counter="1"/>
+  </chart>
+  <chart from="1145793600" to="1146398400">
+    <entry name="Gnarls barkley" reach="127705" counter="9"/>
+    <entry name="Hybrid" reach="24938" counter="6"/>
+    <entry name="test" reach="628" counter="6"/>
+    <entry name="Propellerheads" reach="50565" counter="3"/>
+    <entry name="3 Doors Down" reach="149733" counter="2"/>
+    <entry name="Kid Loco" reach="22720" counter="1"/>
+    <entry name="Paul Weller" reach="25326" counter="1"/>
+    <entry name="Rob Dougan" reach="43331" counter="1"/>
+    <entry name="9 Lazy 9" reach="14811" counter="1"/>
+    <entry name="Bonobo" reach="32431" counter="1"/>
+    <entry name="Iron &amp; Wine" reach="153068" counter="1"/>
+    <entry name="José González" reach="63469" counter="1"/>
+  </chart>
+  <chart from="1146398400" to="1147003200"/>
+  <chart from="1147003200" to="1147608000"/>
+  <chart from="1147608000" to="1148212800"/>
+  <chart from="1148212800" to="1148817600"/>
+  <chart from="1148817600" to="1149422400"/>
+  <chart from="1149422400" to="1150027200"/>
+  <chart from="1150027200" to="1150632000"/>
+  <chart from="1150632000" to="1151236800"/>
+  <chart from="1151236800" to="1151841600"/>
+  <chart from="1151841600" to="1152446400"/>
+  <chart from="1152446400" to="1153051200"/>
+  <chart from="1153051200" to="1153656000"/>
+  <chart from="1153656000" to="1154260800">
+    <entry name="Oasis" reach="260174" counter="18"/>
+    <entry name="Skunk Anansie" reach="40959" counter="17"/>
+    <entry name="Hybrid" reach="24938" counter="6"/>
+    <entry name="Rob Dougan" reach="43331" counter="3"/>
+    <entry name="Air" reach="219399" counter="1"/>
+    <entry name="Massive Attack" reach="205903" counter="1"/>
+    <entry name="Nightmares on Wax" reach="53753" counter="1"/>
+    <entry name="Pink Floyd" reach="286659" counter="1"/>
+    <entry name="The Cure" reach="261709" counter="1"/>
+    <entry name="Orbital" reach="72308" counter="1"/>
+    <entry name="Michael Brook" reach="3075" counter="1"/>
+    <entry name="Lamb" reach="67744" counter="1"/>
+    <entry name="Placebo" reach="203736" counter="1"/>
+    <entry name="Kruder &amp; Dorfmeister" reach="41269" counter="1"/>
+    <entry name="Enigma" reach="66545" counter="1"/>
+    <entry name="Gotan Project" reach="46074" counter="1"/>
+    <entry name="Faithless" reach="117771" counter="1"/>
+    <entry name="The Chemical Brothers" reach="194704" counter="1"/>
+    <entry name="The Smashing Pumpkins" reach="254247" counter="1"/>
+    <entry name="David Gilmour" reach="19921" counter="1"/>
+  </chart>
+  <chart from="1154260800" to="1154865600">
+    <entry name="Pink Floyd" reach="286659" counter="5"/>
+    <entry name="Paul Oakenfold" reach="87243" counter="3"/>
+    <entry name="Enigma" reach="66545" counter="1"/>
+    <entry name="Gorillaz" reach="299547" counter="1"/>
+    <entry name="Hybrid" reach="24938" counter="1"/>
+    <entry name="Assemblage 23" reach="19105" counter="1"/>
+    <entry name="The Future Sound of London" reach="45564" counter="1"/>
+  </chart>
+  <chart from="1154865600" to="1155470400">
+    <entry name="Depeche Mode" reach="223593" counter="30"/>
+    <entry name="Portishead" reach="148308" counter="11"/>
+    <entry name="The Dandy Warhols" reach="96915" counter="6"/>
+    <entry name="RJD2" reach="70231" counter="5"/>
+    <entry name="Skunk Anansie" reach="40959" counter="2"/>
+    <entry name="Air" reach="219399" counter="1"/>
+    <entry name="Massive Attack" reach="205903" counter="1"/>
+    <entry name="Kid Loco" reach="22720" counter="1"/>
+    <entry name="Michael Brook" reach="3075" counter="1"/>
+    <entry name="Gotan Project" reach="46074" counter="1"/>
+    <entry name="Smash Mouth" reach="67728" counter="1"/>
+    <entry name="Hybrid" reach="24938" counter="1"/>
+    <entry name="Mr. Scruff" reach="35880" counter="1"/>
+    <entry name="Jeremy Warmsley" reach="1253" counter="1"/>
+  </chart>
+  <chart from="1155470400" to="1156075200">
+    <entry name="Depeche Mode" reach="223593" counter="10"/>
+    <entry name="Bonobo" reach="32431" counter="8"/>
+    <entry name="Archive" reach="18732" counter="3"/>
+    <entry name="Hybrid" reach="24938" counter="3"/>
+    <entry name="Porcupine Tree" reach="56468" counter="2"/>
+    <entry name="Boards of Canada" reach="121208" counter="1"/>
+    <entry name="Dido" reach="128724" counter="1"/>
+  </chart>
+  <chart from="1156075200" to="1156680000">
+    <entry name="Bonobo" reach="32431" counter="31"/>
+    <entry name="Porcupine Tree" reach="56468" counter="20"/>
+    <entry name="Archive" reach="18732" counter="9"/>
+    <entry name="Gnarls barkley" reach="127705" counter="7"/>
+    <entry name="Depeche Mode" reach="223593" counter="5"/>
+    <entry name="Portishead" reach="148308" counter="4"/>
+    <entry name="Oasis" reach="260174" counter="3"/>
+    <entry name="Amon Tobin" reach="62100" counter="2"/>
+    <entry name="Godspeed You! Black Emperor" reach="58792" counter="2"/>
+    <entry name="Air" reach="219399" counter="1"/>
+    <entry name="The Cure" reach="261709" counter="1"/>
+    <entry name="Kyoto Jazz Massive" reach="15354" counter="1"/>
+    <entry name="RJD2" reach="70231" counter="1"/>
+    <entry name="The Smashing Pumpkins" reach="254247" counter="1"/>
+    <entry name="Elton John" reach="135978" counter="1"/>
+    <entry name="Asura" reach="3881" counter="1"/>
+  </chart>
+  <chart from="1156680000" to="1157284800">
+    <entry name="Queensrÿche" reach="35677" counter="11"/>
+    <entry name="Porcupine Tree" reach="56468" counter="6"/>
+    <entry name="mandelbrot set" reach="586" counter="3"/>
+    <entry name="Laurent Garnier" reach="24372" counter="2"/>
+    <entry name="St. Germain" reach="49747" counter="1"/>
+    <entry name="Luke Slater" reach="4829" counter="1"/>
+    <entry name="Vitalic" reach="31101" counter="1"/>
+    <entry name="Aphilas" reach="1536" counter="1"/>
+    <entry name="Rusty Project" reach="1436" counter="1"/>
+  </chart>
+  <chart from="1157284800" to="1157889600">
+    <entry name="Laurent Garnier" reach="24372" counter="7"/>
+    <entry name="Gnarls barkley" reach="127705" counter="4"/>
+    <entry name="Porcupine Tree" reach="56468" counter="3"/>
+  </chart>
+  <chart from="1157889600" to="1158494400">
+    <entry name="Hybrid" reach="24938" counter="34"/>
+    <entry name="Queensrÿche" reach="35677" counter="13"/>
+    <entry name="Pink Floyd" reach="286659" counter="12"/>
+    <entry name="Royal Hunt" reach="2179" counter="6"/>
+    <entry name="Suba" reach="6916" counter="3"/>
+    <entry name="David Gilmour" reach="19921" counter="3"/>
+    <entry name="Sofa Surfers" reach="17033" counter="2"/>
+    <entry name="The KLF" reach="23448" counter="2"/>
+    <entry name="Talk Talk" reach="27623" counter="1"/>
+    <entry name="Bran Van 3000" reach="22662" counter="1"/>
+    <entry name="Bonobo" reach="32431" counter="1"/>
+    <entry name="Assemblage 23" reach="19105" counter="1"/>
+  </chart>
+  <chart from="1158494400" to="1159099200">
+    <entry name="Pink Floyd" reach="286659" counter="15"/>
+    <entry name="David Gilmour" reach="19921" counter="5"/>
+    <entry name="Red Snapper" reach="19944" counter="3"/>
+  </chart>
+  <chart from="1159099200" to="1159704000">
+    <entry name="Peace Orchestra" reach="18913" counter="12"/>
+    <entry name="Talk Talk" reach="27623" counter="6"/>
+    <entry name="Archive" reach="18732" counter="4"/>
+    <entry name="Nine Inch Nails" reach="214207" counter="3"/>
+    <entry name="Porcupine Tree" reach="56468" counter="2"/>
+    <entry name="Calexico" reach="62228" counter="1"/>
+    <entry name="Jeff Buckley" reach="132005" counter="1"/>
+    <entry name="Gotan Project" reach="46074" counter="1"/>
+    <entry name="Rob Dougan" reach="43331" counter="1"/>
+    <entry name="Mono" reach="35539" counter="1"/>
+    <entry name="Lighthouse Family" reach="17581" counter="1"/>
+    <entry name="Hybrid" reach="24938" counter="1"/>
+    <entry name="Nova Nova" reach="2277" counter="1"/>
+  </chart>
+  <chart from="1159704000" to="1160308800">
+    <entry name="Hybrid" reach="24938" counter="14"/>
+    <entry name="Polar Bear" reach="788" counter="10"/>
+    <entry name="Muse" reach="259277" counter="9"/>
+    <entry name="The Cinematic Orchestra" reach="48979" counter="6"/>
+    <entry name="Placebo" reach="203736" counter="5"/>
+    <entry name="Pink Floyd" reach="286659" counter="4"/>
+    <entry name="Red Snapper" reach="19944" counter="1"/>
+    <entry name="Amon Tobin" reach="62100" counter="1"/>
+    <entry name="Rob Dougan" reach="43331" counter="1"/>
+    <entry name="Metallica" reach="266807" counter="1"/>
+    <entry name="The Stone Roses" reach="69202" counter="1"/>
+    <entry name="röyksopp" reach="111094" counter="1"/>
+    <entry name="Assemblage 23" reach="19105" counter="1"/>
+    <entry name="Lovage" reach="20530" counter="1"/>
+  </chart>
+</resource>

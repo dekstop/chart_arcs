@@ -1,0 +1,758 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource name="RJ" restype="4" id="1000002">
+  <chart from="1144584000" to="1145188800">
+    <entry name="Red Hot Chili Peppers" reach="378227" counter="21"/>
+    <entry name="Rachael Yamagata" reach="24370" counter="16"/>
+    <entry name="Razorlight" reach="72291" counter="14"/>
+    <entry name="Spin Doctors" reach="31048" counter="10"/>
+    <entry name="Tok Tok Tok" reach="1692" counter="10"/>
+    <entry name="Rammstein" reach="189092" counter="7"/>
+    <entry name="Foo Fighters" reach="260254" counter="4"/>
+    <entry name="Goo Goo Dolls" reach="138963" counter="4"/>
+    <entry name="Hothouse Flowers" reach="3176" counter="4"/>
+    <entry name="Frank Sinatra" reach="112435" counter="3"/>
+    <entry name="Queen" reach="267576" counter="3"/>
+    <entry name="The Jimi Hendrix Experience" reach="51969" counter="3"/>
+    <entry name="Joe Satriani" reach="44054" counter="3"/>
+    <entry name="Bruce Springsteen" reach="116008" counter="3"/>
+    <entry name="Crash Test Dummies" reach="31480" counter="3"/>
+    <entry name="Aretha Franklin" reach="75733" counter="3"/>
+    <entry name="Joe Walsh" reach="11633" counter="3"/>
+    <entry name="Natalie Merchant" reach="29390" counter="3"/>
+    <entry name="Noam Chomsky" reach="2516" counter="3"/>
+    <entry name="Herbie Hancock" reach="55831" counter="2"/>
+    <entry name="Norah Jones" reach="134604" counter="2"/>
+    <entry name="Weather Report" reach="20702" counter="2"/>
+    <entry name="Lenny Kravitz" reach="113154" counter="2"/>
+    <entry name="Marvin Gaye" reach="96434" counter="2"/>
+    <entry name="Tower of Power" reach="12448" counter="2"/>
+    <entry name="The Wallflowers" reach="55903" counter="2"/>
+    <entry name="Frank Zappa" reach="72604" counter="2"/>
+    <entry name="Courtney Pine" reach="4566" counter="2"/>
+    <entry name="Diana Krall" reach="41442" counter="2"/>
+    <entry name="Status Quo" reach="29070" counter="2"/>
+    <entry name="Metallica" reach="266807" counter="2"/>
+    <entry name="Counting Crows" reach="164594" counter="2"/>
+    <entry name="Dire Straits" reach="117606" counter="2"/>
+    <entry name="The Smashing Pumpkins" reach="254247" counter="2"/>
+    <entry name="Chuck Berry" reach="55323" counter="2"/>
+    <entry name="The Classic Chill Out Album" reach="2" counter="2"/>
+    <entry name="Collective Soul" reach="59166" counter="2"/>
+    <entry name="Fiona Apple" reach="101044" counter="2"/>
+    <entry name="Michael Andrews" reach="36641" counter="2"/>
+    <entry name="David Lee Roth" reach="12692" counter="2"/>
+    <entry name="Suzie Higgie" reach="197" counter="2"/>
+    <entry name="Desert Sessions" reach="8513" counter="2"/>
+    <entry name="The Kleptones" reach="4184" counter="2"/>
+    <entry name="Jools Holland &amp; His Rhythm Blues Orchestra" reach="16" counter="2"/>
+    <entry name="Calexico" reach="62228" counter="1"/>
+    <entry name="Blur" reach="197004" counter="1"/>
+    <entry name="Miles Davis" reach="112575" counter="1"/>
+    <entry name="David Bowie" reach="266681" counter="1"/>
+    <entry name="The Doors" reach="200829" counter="1"/>
+    <entry name="Nine Inch Nails" reach="214207" counter="1"/>
+    <entry name="Eddie Cochran" reach="12111" counter="1"/>
+    <entry name="Coldplay" reach="391887" counter="1"/>
+    <entry name="Dido" reach="128724" counter="1"/>
+    <entry name="Jimi Hendrix" reach="194662" counter="1"/>
+    <entry name="John Barry" reach="14623" counter="1"/>
+    <entry name="Joni Mitchell" reach="58320" counter="1"/>
+    <entry name="The Kinks" reach="113512" counter="1"/>
+    <entry name="Jamiroquai" reach="135125" counter="1"/>
+    <entry name="Madonna" reach="215412" counter="1"/>
+    <entry name="The Clash" reach="202486" counter="1"/>
+    <entry name="Moby" reach="227841" counter="1"/>
+    <entry name="Bad Company" reach="32434" counter="1"/>
+    <entry name="Deep Purple" reach="112105" counter="1"/>
+    <entry name="James Taylor" reach="56418" counter="1"/>
+    <entry name="Weezer" reach="277948" counter="1"/>
+    <entry name="Stevie Ray Vaughan" reach="35541" counter="1"/>
+    <entry name="Paul McCartney" reach="50044" counter="1"/>
+    <entry name="Whitesnake" reach="49160" counter="1"/>
+    <entry name="Black Sabbath" reach="134335" counter="1"/>
+    <entry name="Def Leppard" reach="52539" counter="1"/>
+    <entry name="Dream Theater" reach="101541" counter="1"/>
+    <entry name="Eels" reach="144570" counter="1"/>
+    <entry name="Fatboy Slim" reach="142903" counter="1"/>
+    <entry name="Fleetwood Mac" reach="91312" counter="1"/>
+    <entry name="Ludwig van Beethoven" reach="111754" counter="1"/>
+    <entry name="Lynyrd Skynyrd" reach="107247" counter="1"/>
+    <entry name="Lit" reach="34503" counter="1"/>
+    <entry name="Cream" reach="78314" counter="1"/>
+    <entry name="Robbie Williams" reach="132244" counter="1"/>
+    <entry name="Motörhead" reach="78793" counter="1"/>
+    <entry name="Wheatus" reach="39414" counter="1"/>
+    <entry name="Free" reach="19589" counter="1"/>
+    <entry name="Guns N' Roses" reach="212600" counter="1"/>
+    <entry name="Madness" reach="52918" counter="1"/>
+    <entry name="Kaskade" reach="12959" counter="1"/>
+    <entry name="The Cranberries" reach="138331" counter="1"/>
+    <entry name="The Troggs" reach="17345" counter="1"/>
+    <entry name="Thin Lizzy" reach="45817" counter="1"/>
+    <entry name="Something Corporate" reach="94074" counter="1"/>
+    <entry name="John Mayer" reach="111550" counter="1"/>
+    <entry name="Boston" reach="49262" counter="1"/>
+    <entry name="Rainbow" reach="26706" counter="1"/>
+    <entry name="Jeff Beck with Terry Bozzio &amp; Tony Hymas" reach="297" counter="1"/>
+    <entry name="Natalie Imbruglia" reach="77166" counter="1"/>
+    <entry name="ZZ Top" reach="68810" counter="1"/>
+    <entry name="T. Rex" reach="56952" counter="1"/>
+    <entry name="Mr. Big" reach="20737" counter="1"/>
+    <entry name="Derek and The Dominos" reach="17790" counter="1"/>
+    <entry name="Run-D.M.C." reach="61943" counter="1"/>
+    <entry name="Level 42" reach="13112" counter="1"/>
+    <entry name="Rage Against the Machine" reach="211307" counter="1"/>
+    <entry name="Spock's Beard" reach="11996" counter="1"/>
+    <entry name="The Shadows" reach="10776" counter="1"/>
+    <entry name="The Who" reach="178882" counter="1"/>
+    <entry name="The Surfaris" reach="6151" counter="1"/>
+    <entry name="R.E.M." reach="244873" counter="1"/>
+    <entry name="Slamin' Gladys" reach="2" counter="1"/>
+  </chart>
+  <chart from="1145188800" to="1145793600">
+    <entry name="The Hollies" reach="27092" counter="29"/>
+    <entry name="Chris Isaak" reach="42299" counter="13"/>
+    <entry name="Gnarls barkley" reach="127705" counter="12"/>
+    <entry name="Supreme Beings of Leisure" reach="12245" counter="11"/>
+    <entry name="3 Doors Down" reach="149733" counter="10"/>
+    <entry name="AC/DC" reach="184478" counter="4"/>
+    <entry name="Burt Bacharach" reach="7715" counter="2"/>
+    <entry name="Nick Drake" reach="141266" counter="1"/>
+    <entry name="David Bowie" reach="266681" counter="1"/>
+    <entry name="The Doors" reach="200829" counter="1"/>
+    <entry name="Beck" reach="274076" counter="1"/>
+    <entry name="The Rolling Stones" reach="234465" counter="1"/>
+    <entry name="Main" reach="1738" counter="1"/>
+    <entry name="Oasis" reach="260174" counter="1"/>
+    <entry name="Pearl Jam" reach="181119" counter="1"/>
+    <entry name="Black Rebel Motorcycle Club" reach="62463" counter="1"/>
+    <entry name="Fleetwood Mac" reach="91312" counter="1"/>
+    <entry name="Tenacious D" reach="124988" counter="1"/>
+    <entry name="Counting Crows" reach="164594" counter="1"/>
+    <entry name="Bad Religion" reach="107297" counter="1"/>
+    <entry name="Tears for Fears" reach="81029" counter="1"/>
+    <entry name="The Flying Burrito Brothers" reach="9534" counter="1"/>
+    <entry name="The Lucky Ones" reach="354" counter="1"/>
+  </chart>
+  <chart from="1145793600" to="1146398400">
+    <entry name="Stevie Ray Vaughan" reach="35541" counter="20"/>
+    <entry name="3 Doors Down" reach="149733" counter="6"/>
+    <entry name="Herbie Hancock" reach="55831" counter="3"/>
+    <entry name="Cat Stevens" reach="80895" counter="3"/>
+    <entry name="Miles Davis" reach="112575" counter="2"/>
+    <entry name="Nina Simone" reach="84712" counter="2"/>
+    <entry name="Weather Report" reach="20702" counter="2"/>
+    <entry name="System of a Down" reach="282978" counter="2"/>
+    <entry name="Aimee Mann" reach="80205" counter="2"/>
+    <entry name="Metallica" reach="266807" counter="2"/>
+    <entry name="Counting Crows" reach="164594" counter="2"/>
+    <entry name="The Smashing Pumpkins" reach="254247" counter="2"/>
+    <entry name="Calexico" reach="62228" counter="1"/>
+    <entry name="Bob Dylan" reach="216724" counter="1"/>
+    <entry name="Jimi Hendrix" reach="194662" counter="1"/>
+    <entry name="Joni Mitchell" reach="58320" counter="1"/>
+    <entry name="Red Hot Chili Peppers" reach="378227" counter="1"/>
+    <entry name="Moby" reach="227841" counter="1"/>
+    <entry name="Dream Theater" reach="101541" counter="1"/>
+    <entry name="Simon &amp; Garfunkel" reach="180231" counter="1"/>
+    <entry name="The Jimi Hendrix Experience" reach="51969" counter="1"/>
+    <entry name="Rammstein" reach="189092" counter="1"/>
+    <entry name="The Prodigy" reach="184887" counter="1"/>
+    <entry name="Aerosmith" reach="176751" counter="1"/>
+    <entry name="Foo Fighters" reach="260254" counter="1"/>
+    <entry name="Bruce Springsteen" reach="116008" counter="1"/>
+    <entry name="Goo Goo Dolls" reach="138963" counter="1"/>
+    <entry name="Kaskade" reach="12959" counter="1"/>
+    <entry name="Aqualung" reach="54664" counter="1"/>
+    <entry name="Aretha Franklin" reach="75733" counter="1"/>
+    <entry name="Hothouse Flowers" reach="3176" counter="1"/>
+    <entry name="Level 42" reach="13112" counter="1"/>
+    <entry name="Rage Against the Machine" reach="211307" counter="1"/>
+    <entry name="Noam Chomsky" reach="2516" counter="1"/>
+    <entry name="Erik Satie" reach="25464" counter="1"/>
+    <entry name="Jameroquai - Canned Heat" reach="4" counter="1"/>
+    <entry name="The Blues Brothers" reach="36716" counter="1"/>
+    <entry name="The Royal Philharmonic Orchestra" reach="5528" counter="1"/>
+    <entry name="R.E.M." reach="244873" counter="1"/>
+    <entry name="David Hudson And Friends" reach="8" counter="1"/>
+    <entry name="Gnarls barkley" reach="127705" counter="1"/>
+  </chart>
+  <chart from="1146398400" to="1147003200"/>
+  <chart from="1147003200" to="1147608000"/>
+  <chart from="1147608000" to="1148212800"/>
+  <chart from="1148212800" to="1148817600"/>
+  <chart from="1148817600" to="1149422400"/>
+  <chart from="1149422400" to="1150027200"/>
+  <chart from="1150027200" to="1150632000"/>
+  <chart from="1150632000" to="1151236800"/>
+  <chart from="1151236800" to="1151841600"/>
+  <chart from="1151841600" to="1152446400"/>
+  <chart from="1152446400" to="1153051200"/>
+  <chart from="1153051200" to="1153656000"/>
+  <chart from="1153656000" to="1154260800">
+    <entry name="Snoop Dogg" reach="114532" counter="34"/>
+    <entry name="Dream Theater" reach="101541" counter="26"/>
+    <entry name="Ice Cube" reach="49767" counter="20"/>
+    <entry name="Beastie Boys" reach="192975" counter="1"/>
+    <entry name="Outkast" reach="187057" counter="1"/>
+    <entry name="Busta Rhymes" reach="76606" counter="1"/>
+    <entry name="Missy Elliott" reach="94629" counter="1"/>
+    <entry name="Nelly" reach="96426" counter="1"/>
+    <entry name="The Roots" reach="92897" counter="1"/>
+    <entry name="Fabolous" reach="37248" counter="1"/>
+    <entry name="Xzibit" reach="44281" counter="1"/>
+    <entry name="Arrested Development" reach="19246" counter="1"/>
+    <entry name="Big Punisher" reach="15781" counter="1"/>
+    <entry name="Warren G" reach="22080" counter="1"/>
+    <entry name="Black Eyed Peas" reach="215742" counter="1"/>
+    <entry name="D12" reach="55783" counter="1"/>
+    <entry name="Notorious B.I.G." reach="70337" counter="1"/>
+    <entry name="Cam'Ron" reach="30990" counter="1"/>
+    <entry name="Wyclef Jean" reach="45425" counter="1"/>
+    <entry name="Jay-Z" reach="122265" counter="1"/>
+    <entry name="Maroon 5" reach="159107" counter="1"/>
+    <entry name="N*E*R*D" reach="87776" counter="1"/>
+    <entry name="Obie Trice" reach="25841" counter="1"/>
+    <entry name="Mase" reach="18604" counter="1"/>
+    <entry name="Amerie" reach="31642" counter="1"/>
+    <entry name="Kanye West" reach="169067" counter="1"/>
+    <entry name="Gwen Stefani" reach="118754" counter="1"/>
+    <entry name="Lil Jon &amp; The East Side Boyz" reach="42654" counter="1"/>
+    <entry name="213" reach="8428" counter="1"/>
+  </chart>
+  <chart from="1154260800" to="1154865600">
+    <entry name="The Herbaliser" reach="45805" counter="18"/>
+    <entry name="Rage Against the Machine" reach="211307" counter="12"/>
+    <entry name="Faith No More" reach="90026" counter="11"/>
+    <entry name="Supreme Beings of Leisure" reach="12245" counter="11"/>
+    <entry name="Jane's Addiction" reach="62108" counter="6"/>
+    <entry name="Talib Kweli" reach="47743" counter="2"/>
+  </chart>
+  <chart from="1154865600" to="1155470400">
+    <entry name="Counting Crows" reach="164594" counter="25"/>
+    <entry name="King's X" reach="3838" counter="16"/>
+    <entry name="Kid Rock" reach="33647" counter="14"/>
+    <entry name="Echo &amp; The Bunnymen" reach="65691" counter="13"/>
+    <entry name="Guns N' Roses" reach="212600" counter="11"/>
+    <entry name="Jane's Addiction" reach="62108" counter="6"/>
+    <entry name="The Blues Brothers" reach="36716" counter="5"/>
+    <entry name="Depeche Mode" reach="223593" counter="2"/>
+    <entry name="Ella Fitzgerald" reach="62714" counter="2"/>
+    <entry name="U2" reach="293030" counter="2"/>
+    <entry name="Fink" reach="8278" counter="2"/>
+    <entry name="Aerosmith" reach="176751" counter="2"/>
+    <entry name="Toto" reach="46247" counter="2"/>
+    <entry name="Franz Ferdinand" reach="261711" counter="2"/>
+    <entry name="Björk" reach="190245" counter="1"/>
+    <entry name="Tortoise" reach="48338" counter="1"/>
+    <entry name="Pink Floyd" reach="286659" counter="1"/>
+    <entry name="Phoenix" reach="70470" counter="1"/>
+    <entry name="Calexico" reach="62228" counter="1"/>
+    <entry name="Anouar Brahem" reach="4645" counter="1"/>
+    <entry name="The Cure" reach="261709" counter="1"/>
+    <entry name="Talking Heads" reach="127707" counter="1"/>
+    <entry name="Pavement" reach="109123" counter="1"/>
+    <entry name="Blur" reach="197004" counter="1"/>
+    <entry name="Various Artists" reach="71795" counter="1"/>
+    <entry name="Leonard Cohen" reach="73606" counter="1"/>
+    <entry name="The Rolling Stones" reach="234465" counter="1"/>
+    <entry name="DJ Vadim" reach="20164" counter="1"/>
+    <entry name="Missy Elliott" reach="94629" counter="1"/>
+    <entry name="Cowboy Junkies" reach="26713" counter="1"/>
+    <entry name="Method Man" reach="32099" counter="1"/>
+    <entry name="Randy Brecker" reach="2395" counter="1"/>
+    <entry name="Barry White" reach="45305" counter="1"/>
+    <entry name="Ben Folds Five" reach="113861" counter="1"/>
+    <entry name="Radiohead" reach="386158" counter="1"/>
+    <entry name="Supergrass" reach="70101" counter="1"/>
+    <entry name="Big Star" reach="26652" counter="1"/>
+    <entry name="Damien Rice" reach="132933" counter="1"/>
+    <entry name="Doves" reach="104317" counter="1"/>
+    <entry name="Muddy Waters" reach="31354" counter="1"/>
+    <entry name="Queen" reach="267576" counter="1"/>
+    <entry name="Ron Sexsmith" reach="15176" counter="1"/>
+    <entry name="Supertramp" reach="56738" counter="1"/>
+    <entry name="The Stranglers" reach="45869" counter="1"/>
+    <entry name="The White Stripes" reach="304856" counter="1"/>
+    <entry name="Buena Vista Social Club" reach="41913" counter="1"/>
+    <entry name="Koop" reach="24084" counter="1"/>
+    <entry name="Thievery Corporation" reach="120128" counter="1"/>
+    <entry name="Santana" reach="94955" counter="1"/>
+    <entry name="Garbage" reach="164086" counter="1"/>
+    <entry name="James Taylor" reach="56418" counter="1"/>
+    <entry name="Stone Temple Pilots" reach="89261" counter="1"/>
+    <entry name="Weezer" reach="277948" counter="1"/>
+    <entry name="Pearl Jam" reach="181119" counter="1"/>
+    <entry name="Dream Theater" reach="101541" counter="1"/>
+    <entry name="Eels" reach="144570" counter="1"/>
+    <entry name="Jennifer Lopez" reach="68239" counter="1"/>
+    <entry name="Simon &amp; Garfunkel" reach="180231" counter="1"/>
+    <entry name="The Living End" reach="30861" counter="1"/>
+    <entry name="The Beatles" reach="379325" counter="1"/>
+    <entry name="Muse" reach="259277" counter="1"/>
+    <entry name="Guano Apes" reach="59918" counter="1"/>
+    <entry name="AC/DC" reach="184478" counter="1"/>
+    <entry name="Jason Mraz" reach="66396" counter="1"/>
+    <entry name="Ash" reach="65384" counter="1"/>
+    <entry name="Johnny Cash" reach="217866" counter="1"/>
+    <entry name="Chicago" reach="48207" counter="1"/>
+    <entry name="Crowded House" reach="52046" counter="1"/>
+    <entry name="Bruce Springsteen" reach="116008" counter="1"/>
+    <entry name="Sarah McLachlan" reach="108927" counter="1"/>
+    <entry name="Days of the New" reach="12832" counter="1"/>
+    <entry name="The Strokes" reach="222326" counter="1"/>
+    <entry name="Bob Seger" reach="26384" counter="1"/>
+    <entry name="Avril Lavigne" reach="143657" counter="1"/>
+    <entry name="Kim Wilde" reach="22749" counter="1"/>
+    <entry name="The Smashing Pumpkins" reach="254247" counter="1"/>
+    <entry name="Starsailor" reach="49548" counter="1"/>
+    <entry name="The Darkness" reach="100044" counter="1"/>
+    <entry name="Vanessa Carlton" reach="56830" counter="1"/>
+    <entry name="Steppenwolf" reach="41929" counter="1"/>
+    <entry name="Richard Ashcroft" reach="31924" counter="1"/>
+    <entry name="Steve Vai" reach="31819" counter="1"/>
+    <entry name="Tom Petty and the Heartbreakers" reach="63279" counter="1"/>
+    <entry name="William Shatner" reach="24783" counter="1"/>
+    <entry name="Maroon 5" reach="159107" counter="1"/>
+    <entry name="N*E*R*D" reach="87776" counter="1"/>
+    <entry name="Zakir Hussain" reach="2470" counter="1"/>
+    <entry name="Freddie Mercury" reach="14428" counter="1"/>
+    <entry name="Tom Browne" reach="1851" counter="1"/>
+    <entry name="Level 42" reach="13112" counter="1"/>
+    <entry name="Archie Shepp" reach="5953" counter="1"/>
+    <entry name="Richard Bona" reach="3067" counter="1"/>
+    <entry name="Grassskirt" reach="1003" counter="1"/>
+    <entry name="John Legend" reach="39358" counter="1"/>
+    <entry name="Sufjan Stevens" reach="154382" counter="1"/>
+    <entry name="The American Analog Set" reach="39495" counter="1"/>
+    <entry name="The Shins" reach="215998" counter="1"/>
+    <entry name="Razorlight" reach="72291" counter="1"/>
+    <entry name="The Zutons" reach="57445" counter="1"/>
+    <entry name="The Killers" reach="265854" counter="1"/>
+    <entry name="Brazilian Girls" reach="14719" counter="1"/>
+    <entry name="Tom Vek" reach="20744" counter="1"/>
+    <entry name="Hard-Fi" reach="55593" counter="1"/>
+    <entry name="Groovenik" reach="306" counter="1"/>
+  </chart>
+  <chart from="1155470400" to="1156075200">
+    <entry name="Cat Stevens" reach="80895" counter="29"/>
+    <entry name="Dream Theater" reach="101541" counter="28"/>
+    <entry name="Deep Purple" reach="112105" counter="26"/>
+    <entry name="Dan Reed Network" reach="494" counter="26"/>
+    <entry name="Nine Inch Nails" reach="214207" counter="25"/>
+    <entry name="Buckcherry" reach="18530" counter="25"/>
+    <entry name="Something Corporate" reach="94074" counter="14"/>
+    <entry name="Steve Vai" reach="31819" counter="14"/>
+    <entry name="Fun Lovin' Criminals" reach="37232" counter="13"/>
+    <entry name="Skid Row" reach="29839" counter="12"/>
+    <entry name="The Doors" reach="200829" counter="11"/>
+    <entry name="Silverchair" reach="74722" counter="11"/>
+    <entry name="Slamin' Gladys" reach="2" counter="11"/>
+    <entry name="Faith No More" reach="90026" counter="10"/>
+    <entry name="Skunk Anansie" reach="40959" counter="10"/>
+    <entry name="Frank Zappa" reach="72604" counter="8"/>
+    <entry name="Rachael Yamagata" reach="24370" counter="8"/>
+    <entry name="Finley Quaye" reach="15856" counter="7"/>
+    <entry name="Bruce Springsteen" reach="116008" counter="4"/>
+    <entry name="The Blues Brothers" reach="36716" counter="2"/>
+    <entry name="Status Quo" reach="29070" counter="1"/>
+    <entry name="Guns N' Roses" reach="212600" counter="1"/>
+    <entry name="REM &amp; Natalie Merchant" reach="97" counter="1"/>
+  </chart>
+  <chart from="1156075200" to="1156680000">
+    <entry name="Collective Soul" reach="59166" counter="25"/>
+    <entry name="Nina Simone" reach="84712" counter="14"/>
+    <entry name="Nat King Cole" reach="42571" counter="12"/>
+    <entry name="Led Zeppelin" reach="269243" counter="10"/>
+    <entry name="Courtney Pine" reach="4566" counter="6"/>
+    <entry name="Rage Against the Machine" reach="211307" counter="5"/>
+    <entry name="Echo &amp; The Bunnymen" reach="65691" counter="3"/>
+    <entry name="The Cranberries" reach="138331" counter="3"/>
+    <entry name="The Moody Blues" reach="27882" counter="2"/>
+    <entry name="Art Pepper" reach="4144" counter="1"/>
+    <entry name="Dire Straits" reach="117606" counter="1"/>
+    <entry name="Fun Lovin' Criminals" reach="37232" counter="1"/>
+  </chart>
+  <chart from="1156680000" to="1157284800">
+    <entry name="Mr. Big" reach="20737" counter="35"/>
+    <entry name="Aretha Franklin" reach="75733" counter="23"/>
+    <entry name="PJ Harvey" reach="104107" counter="15"/>
+    <entry name="Otis Redding" reach="57691" counter="11"/>
+    <entry name="Pearl Jam" reach="181119" counter="11"/>
+    <entry name="Muse" reach="259277" counter="11"/>
+    <entry name="Slamin' Gladys" reach="2" counter="11"/>
+    <entry name="Supreme Beings of Leisure" reach="12245" counter="8"/>
+    <entry name="The Hollies" reach="27092" counter="8"/>
+    <entry name="Joni Mitchell &amp; James Taylor" reach="641" counter="8"/>
+    <entry name="Liquid Tension Experiment" reach="23582" counter="7"/>
+    <entry name="Miles Davis" reach="112575" counter="6"/>
+    <entry name="Aerosmith" reach="176751" counter="4"/>
+    <entry name="Bob Seger" reach="26384" counter="4"/>
+    <entry name="Jools Holland" reach="2144" counter="4"/>
+    <entry name="Stevie Wonder" reach="110126" counter="3"/>
+    <entry name="Prince" reach="110661" counter="3"/>
+    <entry name="Chet Baker" reach="31696" counter="2"/>
+    <entry name="Dexter Gordon" reach="15024" counter="2"/>
+    <entry name="Sonny Rollins" reach="17966" counter="2"/>
+    <entry name="Kenny Burrell" reach="8204" counter="2"/>
+    <entry name="Stanley Turrentine" reach="2821" counter="2"/>
+    <entry name="The Jimi Hendrix Experience" reach="51969" counter="2"/>
+    <entry name="The Moody Blues" reach="27882" counter="2"/>
+    <entry name="Ike Quebec" reach="662" counter="2"/>
+    <entry name="Rachael Yamagata" reach="24370" counter="2"/>
+    <entry name="John Coltrane" reach="63200" counter="1"/>
+    <entry name="Wayne Shorter" reach="14345" counter="1"/>
+    <entry name="Donald Byrd" reach="10745" counter="1"/>
+    <entry name="Coleman Hawkins" reach="5741" counter="1"/>
+    <entry name="U2" reach="293030" counter="1"/>
+    <entry name="Red Hot Chili Peppers" reach="378227" counter="1"/>
+    <entry name="The Black Crowes" reach="39864" counter="1"/>
+    <entry name="Madonna" reach="215412" counter="1"/>
+    <entry name="King Crimson" reach="46384" counter="1"/>
+    <entry name="Cannonball Adderley" reach="18300" counter="1"/>
+    <entry name="Nigel Kennedy" reach="5311" counter="1"/>
+    <entry name="Hank Mobley" reach="3925" counter="1"/>
+    <entry name="Weezer" reach="277948" counter="1"/>
+    <entry name="Art Pepper" reach="4144" counter="1"/>
+    <entry name="Stevie Ray Vaughan" reach="35541" counter="1"/>
+    <entry name="Alice Cooper" reach="75962" counter="1"/>
+    <entry name="Incubus" reach="211929" counter="1"/>
+    <entry name="röyksopp" reach="111094" counter="1"/>
+    <entry name="Roger McGuinn" reach="1799" counter="1"/>
+    <entry name="Gentle Giant" reach="13061" counter="1"/>
+    <entry name="Run-D.M.C." reach="61943" counter="1"/>
+    <entry name="Michael Andrews" reach="36641" counter="1"/>
+    <entry name="Wes Montgomery" reach="14294" counter="1"/>
+    <entry name="Adrian Belew" reach="3636" counter="1"/>
+    <entry name="Grant Green" reach="10674" counter="1"/>
+    <entry name="George Shearing" reach="2458" counter="1"/>
+    <entry name="Richie Sambora" reach="2029" counter="1"/>
+    <entry name="Zoot Sims" reach="2823" counter="1"/>
+    <entry name="The Marshall Tucker Band" reach="4920" counter="1"/>
+    <entry name="REM &amp; Natalie Merchant" reach="97" counter="1"/>
+    <entry name="R.E.M." reach="244873" counter="1"/>
+    <entry name="The Horace Silver Quintet" reach="751" counter="1"/>
+    <entry name="Schaffer The Darklord" reach="169" counter="1"/>
+  </chart>
+  <chart from="1157284800" to="1157889600">
+    <entry name="3 Doors Down" reach="149733" counter="37"/>
+    <entry name="Bad Religion" reach="107297" counter="24"/>
+    <entry name="James Brown" reach="89801" counter="15"/>
+    <entry name="matchbox twenty" reach="82092" counter="12"/>
+    <entry name="Herbie Hancock" reach="55831" counter="11"/>
+    <entry name="Tok Tok Tok" reach="1692" counter="11"/>
+    <entry name="De La Soul" reach="68852" counter="10"/>
+    <entry name="Rage Against the Machine" reach="211307" counter="10"/>
+    <entry name="Bran Van 3000" reach="22662" counter="9"/>
+    <entry name="AC/DC" reach="184478" counter="8"/>
+    <entry name="Michael Jackson" reach="159965" counter="8"/>
+    <entry name="Level 42" reach="13112" counter="6"/>
+    <entry name="The Blues Brothers" reach="36716" counter="6"/>
+    <entry name="Jane's Addiction" reach="62108" counter="5"/>
+    <entry name="Nine Inch Nails" reach="214207" counter="4"/>
+    <entry name="The Police" reach="136911" counter="2"/>
+    <entry name="Art Pepper" reach="4144" counter="2"/>
+    <entry name="The Moody Blues" reach="27882" counter="2"/>
+    <entry name="Apocalyptica" reach="95575" counter="2"/>
+    <entry name="Bobby Brown" reach="9385" counter="2"/>
+    <entry name="Benny Goodman Orchestra" reach="229" counter="2"/>
+    <entry name="Benny Goodman &amp; Peggy Lee" reach="455" counter="2"/>
+    <entry name="Joni Mitchell &amp; James Taylor" reach="641" counter="2"/>
+    <entry name="Ben Webster" reach="5025" counter="1"/>
+    <entry name="Mr. Bungle" reach="35314" counter="1"/>
+    <entry name="Stanley Turrentine" reach="2821" counter="1"/>
+    <entry name="Modern Jazz Quartet" reach="9067" counter="1"/>
+    <entry name="Benny Goodman &amp; His Orchestra" reach="1766" counter="1"/>
+  </chart>
+  <chart from="1157889600" to="1158494400">
+    <entry name="Eva Cassidy" reach="39225" counter="43"/>
+    <entry name="Buckcherry" reach="18530" counter="25"/>
+    <entry name="Firebird" reach="452" counter="14"/>
+    <entry name="Bob Marley &amp; The Wailers" reach="97240" counter="10"/>
+    <entry name="Counting Crows" reach="164594" counter="7"/>
+    <entry name="Rob Dougan" reach="43331" counter="3"/>
+    <entry name="Sublime" reach="139792" counter="2"/>
+    <entry name="Chet Baker" reach="31696" counter="2"/>
+    <entry name="Dexter Gordon" reach="15024" counter="2"/>
+    <entry name="Sonny Rollins" reach="17966" counter="2"/>
+    <entry name="Kenny Burrell" reach="8204" counter="2"/>
+    <entry name="Oasis" reach="260174" counter="2"/>
+    <entry name="Deftones" reach="142925" counter="2"/>
+    <entry name="Rage Against the Machine" reach="211307" counter="2"/>
+    <entry name="Grant Green" reach="10674" counter="2"/>
+    <entry name="Ike Quebec" reach="662" counter="2"/>
+    <entry name="Miles Davis" reach="112575" counter="1"/>
+    <entry name="John Coltrane" reach="63200" counter="1"/>
+    <entry name="Wayne Shorter" reach="14345" counter="1"/>
+    <entry name="Donald Byrd" reach="10745" counter="1"/>
+    <entry name="Stevie Wonder" reach="110126" counter="1"/>
+    <entry name="Nirvana" reach="319018" counter="1"/>
+    <entry name="Coleman Hawkins" reach="5741" counter="1"/>
+    <entry name="U2" reach="293030" counter="1"/>
+    <entry name="Soundgarden" reach="108620" counter="1"/>
+    <entry name="Marvin Gaye" reach="96434" counter="1"/>
+    <entry name="The Clash" reach="202486" counter="1"/>
+    <entry name="Cannonball Adderley" reach="18300" counter="1"/>
+    <entry name="Garbage" reach="164086" counter="1"/>
+    <entry name="Alanis Morissette" reach="148093" counter="1"/>
+    <entry name="Hank Mobley" reach="3925" counter="1"/>
+    <entry name="Stanley Turrentine" reach="2821" counter="1"/>
+    <entry name="Eagles" reach="125137" counter="1"/>
+    <entry name="Art Pepper" reach="4144" counter="1"/>
+    <entry name="Sum 41" reach="135155" counter="1"/>
+    <entry name="System of a Down" reach="282978" counter="1"/>
+    <entry name="Tenacious D" reach="124988" counter="1"/>
+    <entry name="Lynyrd Skynyrd" reach="107247" counter="1"/>
+    <entry name="Silverchair" reach="74722" counter="1"/>
+    <entry name="Fugees" reach="70795" counter="1"/>
+    <entry name="Michael Jackson" reach="159965" counter="1"/>
+    <entry name="The Strokes" reach="222326" counter="1"/>
+    <entry name="Barenaked Ladies" reach="89696" counter="1"/>
+    <entry name="311" reach="79348" counter="1"/>
+    <entry name="Wes Montgomery" reach="14294" counter="1"/>
+    <entry name="Edguy" reach="27857" counter="1"/>
+    <entry name="Boozoo Bajou" reach="14702" counter="1"/>
+    <entry name="George Shearing" reach="2458" counter="1"/>
+    <entry name="Renaissance" reach="4234" counter="1"/>
+    <entry name="Zoot Sims" reach="2823" counter="1"/>
+    <entry name="Franz Ferdinand" reach="261711" counter="1"/>
+    <entry name="The Shins" reach="215998" counter="1"/>
+    <entry name="The Surfaris" reach="6151" counter="1"/>
+    <entry name="The Horace Silver Quintet" reach="751" counter="1"/>
+    <entry name="Arctic Monkeys" reach="155432" counter="1"/>
+    <entry name="Tor Norbye, Carl Quinn, Dick Wall" reach="8" counter="1"/>
+  </chart>
+  <chart from="1158494400" to="1159099200">
+    <entry name="Dan Reed Network" reach="494" counter="20"/>
+    <entry name="Firebird" reach="452" counter="19"/>
+    <entry name="[unknown]" reach="237508" counter="15"/>
+    <entry name="Frankie Goes to Hollywood" reach="31602" counter="11"/>
+    <entry name="Herbie Hancock" reach="55831" counter="10"/>
+    <entry name="Bob Marley &amp; The Wailers" reach="97240" counter="10"/>
+    <entry name="Rob Dougan" reach="43331" counter="7"/>
+    <entry name="Marvin Gaye" reach="96434" counter="4"/>
+    <entry name="Level 42" reach="13112" counter="4"/>
+    <entry name="Red Hot Chili Peppers" reach="378227" counter="2"/>
+    <entry name="Weezer" reach="277948" counter="2"/>
+    <entry name="311" reach="79348" counter="2"/>
+    <entry name="Two Lone Swordsmen" reach="16765" counter="1"/>
+    <entry name="Miles Davis" reach="112575" counter="1"/>
+    <entry name="Nina Simone" reach="84712" counter="1"/>
+    <entry name="Leonard Cohen" reach="73606" counter="1"/>
+    <entry name="Lou Reed" reach="89878" counter="1"/>
+    <entry name="Depeche Mode" reach="223593" counter="1"/>
+    <entry name="Dr. John" reach="14818" counter="1"/>
+    <entry name="Norah Jones" reach="134604" counter="1"/>
+    <entry name="Bob Dylan" reach="216724" counter="1"/>
+    <entry name="Stevie Wonder" reach="110126" counter="1"/>
+    <entry name="Van Halen" reach="89716" counter="1"/>
+    <entry name="Dido" reach="128724" counter="1"/>
+    <entry name="U2" reach="293030" counter="1"/>
+    <entry name="Jimi Hendrix" reach="194662" counter="1"/>
+    <entry name="Joni Mitchell" reach="58320" counter="1"/>
+    <entry name="Travis" reach="111082" counter="1"/>
+    <entry name="Queen" reach="267576" counter="1"/>
+    <entry name="Sonny Clark" reach="3570" counter="1"/>
+    <entry name="The Black Crowes" reach="39864" counter="1"/>
+    <entry name="Koop" reach="24084" counter="1"/>
+    <entry name="Garbage" reach="164086" counter="1"/>
+    <entry name="Stone Temple Pilots" reach="89261" counter="1"/>
+    <entry name="RJD2" reach="70231" counter="1"/>
+    <entry name="Reel Big Fish" reach="82084" counter="1"/>
+    <entry name="Dire Straits" reach="117606" counter="1"/>
+    <entry name="Goo Goo Dolls" reach="138963" counter="1"/>
+    <entry name="The Cranberries" reach="138331" counter="1"/>
+    <entry name="Jack Johnson" reach="189053" counter="1"/>
+    <entry name="Kellie Coffey" reach="1014" counter="1"/>
+    <entry name="Vince Guaraldi Trio" reach="10806" counter="1"/>
+    <entry name="Jethro Tull" reach="58495" counter="1"/>
+    <entry name="The Dirty Dozen Brass Band" reach="2736" counter="1"/>
+    <entry name="John Mayall &amp; The Bluesbreakers" reach="7602" counter="1"/>
+    <entry name="David Hudson And Friends" reach="8" counter="1"/>
+    <entry name="Elnog" reach="2" counter="1"/>
+  </chart>
+  <chart from="1159099200" to="1159704000">
+    <entry name="Free" reach="19589" counter="27"/>
+    <entry name="Aimee Mann" reach="80205" counter="7"/>
+    <entry name="Deep Purple" reach="112105" counter="6"/>
+    <entry name="Dream Theater" reach="101541" counter="6"/>
+    <entry name="Dire Straits" reach="117606" counter="4"/>
+    <entry name="Children of Bodom" reach="93234" counter="3"/>
+    <entry name="Miles Davis" reach="112575" counter="2"/>
+    <entry name="Nick Drake" reach="141266" counter="2"/>
+    <entry name="Coldplay" reach="391887" counter="2"/>
+    <entry name="Queen" reach="267576" counter="2"/>
+    <entry name="Red Hot Chili Peppers" reach="378227" counter="2"/>
+    <entry name="The White Stripes" reach="304856" counter="2"/>
+    <entry name="McCoy Tyner" reach="10953" counter="2"/>
+    <entry name="Metallica" reach="266807" counter="2"/>
+    <entry name="Bruce Springsteen" reach="116008" counter="2"/>
+    <entry name="Rush" reach="64853" counter="2"/>
+    <entry name="The Smashing Pumpkins" reach="254247" counter="2"/>
+    <entry name="Aretha Franklin" reach="75733" counter="2"/>
+    <entry name="Nightmares on Wax" reach="53753" counter="1"/>
+    <entry name="Pink Floyd" reach="286659" counter="1"/>
+    <entry name="Stereolab" reach="71385" counter="1"/>
+    <entry name="The Cure" reach="261709" counter="1"/>
+    <entry name="Keith Jarrett" reach="20878" counter="1"/>
+    <entry name="John Coltrane" reach="63200" counter="1"/>
+    <entry name="Primus" reach="57213" counter="1"/>
+    <entry name="Chick Corea" reach="18528" counter="1"/>
+    <entry name="Wayne Shorter" reach="14345" counter="1"/>
+    <entry name="Herbie Hancock" reach="55831" counter="1"/>
+    <entry name="The Rolling Stones" reach="234465" counter="1"/>
+    <entry name="Cassandra Wilson" reach="14589" counter="1"/>
+    <entry name="Bud Powell" reach="6776" counter="1"/>
+    <entry name="Count Basie" reach="23659" counter="1"/>
+    <entry name="Duke Ellington" reach="35443" counter="1"/>
+    <entry name="Dexter Gordon" reach="15024" counter="1"/>
+    <entry name="Horace Silver" reach="12068" counter="1"/>
+    <entry name="Art Tatum" reach="10499" counter="1"/>
+    <entry name="Goldfinger" reach="85151" counter="1"/>
+    <entry name="Norah Jones" reach="134604" counter="1"/>
+    <entry name="Sonny Rollins" reach="17966" counter="1"/>
+    <entry name="Thelonious Monk" reach="34676" counter="1"/>
+    <entry name="Weather Report" reach="20702" counter="1"/>
+    <entry name="Nine Inch Nails" reach="214207" counter="1"/>
+    <entry name="Dennis Brown" reach="11429" counter="1"/>
+    <entry name="Radiohead" reach="386158" counter="1"/>
+    <entry name="Stan Getz" reach="24675" counter="1"/>
+    <entry name="Mongo Santamaria" reach="5345" counter="1"/>
+    <entry name="Pete Jolly" reach="1640" counter="1"/>
+    <entry name="Toots Thielemans" reach="3005" counter="1"/>
+    <entry name="Kenny Burrell" reach="8204" counter="1"/>
+    <entry name="Elliott Smith" reach="177802" counter="1"/>
+    <entry name="Lenny Kravitz" reach="113154" counter="1"/>
+    <entry name="U2" reach="293030" counter="1"/>
+    <entry name="Oscar Peterson" reach="17307" counter="1"/>
+    <entry name="Pat Metheny Group" reach="13800" counter="1"/>
+    <entry name="Tori Amos" reach="122068" counter="1"/>
+    <entry name="Manic Street Preachers" reach="66569" counter="1"/>
+    <entry name="The Clash" reach="202486" counter="1"/>
+    <entry name="Eric Clapton" reach="155361" counter="1"/>
+    <entry name="Lou Donaldson" reach="4164" counter="1"/>
+    <entry name="Tower of Power" reach="12448" counter="1"/>
+    <entry name="Jeff Beck" reach="20980" counter="1"/>
+    <entry name="Bill Evans" reach="23591" counter="1"/>
+    <entry name="Edwin Starr" reach="19278" counter="1"/>
+    <entry name="Garbage" reach="164086" counter="1"/>
+    <entry name="Wild Cherry" reach="14202" counter="1"/>
+    <entry name="James Brown" reach="89801" counter="1"/>
+    <entry name="Slayer" reach="100146" counter="1"/>
+    <entry name="Alanis Morissette" reach="148093" counter="1"/>
+    <entry name="The Donnas" reach="39865" counter="1"/>
+    <entry name="The Yardbirds" reach="25483" counter="1"/>
+    <entry name="Pat Metheny" reach="21474" counter="1"/>
+    <entry name="Weezer" reach="277948" counter="1"/>
+    <entry name="Def Leppard" reach="52539" counter="1"/>
+    <entry name="Eels" reach="144570" counter="1"/>
+    <entry name="John Scofield" reach="14642" counter="1"/>
+    <entry name="Diana Krall" reach="41442" counter="1"/>
+    <entry name="The Undertones" reach="32087" counter="1"/>
+    <entry name="A Perfect Circle" reach="161610" counter="1"/>
+    <entry name="Iron Maiden" reach="147518" counter="1"/>
+    <entry name="Eve 6" reach="65821" counter="1"/>
+    <entry name="Silverchair" reach="74722" counter="1"/>
+    <entry name="Backstreet Boys" reach="71042" counter="1"/>
+    <entry name="Crowded House" reach="52046" counter="1"/>
+    <entry name="Sarah McLachlan" reach="108927" counter="1"/>
+    <entry name="Andy Williams" reach="12576" counter="1"/>
+    <entry name="Basement Jaxx" reach="109592" counter="1"/>
+    <entry name="Dick Dale" reach="13764" counter="1"/>
+    <entry name="Avril Lavigne" reach="143657" counter="1"/>
+    <entry name="Belle and Sebastian" reach="192183" counter="1"/>
+    <entry name="Apocalyptica" reach="95575" counter="1"/>
+    <entry name="Steely Dan" reach="43053" counter="1"/>
+    <entry name="Jack Johnson" reach="189053" counter="1"/>
+    <entry name="The Darkness" reach="100044" counter="1"/>
+    <entry name="Vanessa Carlton" reach="56830" counter="1"/>
+    <entry name="Belly" reach="14032" counter="1"/>
+    <entry name="Ray Charles" reach="82503" counter="1"/>
+    <entry name="Queensrÿche" reach="35677" counter="1"/>
+    <entry name="George Benson" reach="17944" counter="1"/>
+    <entry name="Joshua Redman" reach="5671" counter="1"/>
+    <entry name="Iced Earth" reach="53045" counter="1"/>
+    <entry name="Steve Vai" reach="31819" counter="1"/>
+    <entry name="Ted Leo and The Pharmacists" reach="64915" counter="1"/>
+    <entry name="Stevie Ray Vaughan and Double Trouble" reach="20517" counter="1"/>
+    <entry name="Jay-Z" reach="122265" counter="1"/>
+    <entry name="Ahmad Jamal" reach="4284" counter="1"/>
+    <entry name="Maroon 5" reach="159107" counter="1"/>
+    <entry name="Bomfunk MC's" reach="36508" counter="1"/>
+    <entry name="Bedlam" reach="3892" counter="1"/>
+    <entry name="Dar Williams" reach="19419" counter="1"/>
+    <entry name="Al Di Meola" reach="8722" counter="1"/>
+    <entry name="Sparks" reach="16802" counter="1"/>
+    <entry name="David Lee Roth" reach="12692" counter="1"/>
+    <entry name="Eric Dolphy" reach="8020" counter="1"/>
+    <entry name="Wes Montgomery" reach="14294" counter="1"/>
+    <entry name="Joe Pass" reach="6585" counter="1"/>
+    <entry name="Adriano Celentano" reach="7688" counter="1"/>
+    <entry name="Steve Morse" reach="2340" counter="1"/>
+    <entry name="Lionel Hampton" reach="5340" counter="1"/>
+    <entry name="Drive-By Truckers" reach="14229" counter="1"/>
+    <entry name="Elmore James" reach="7934" counter="1"/>
+    <entry name="Maroons" reach="818" counter="1"/>
+    <entry name="Stacey Kent" reach="5903" counter="1"/>
+    <entry name="Gerry Mulligan" reach="4030" counter="1"/>
+    <entry name="Spock's Beard" reach="11996" counter="1"/>
+    <entry name="David Guetta" reach="28920" counter="1"/>
+    <entry name="Hubert Laws" reach="1078" counter="1"/>
+    <entry name="Keiko Lee" reach="655" counter="1"/>
+    <entry name="Roy Hargrove" reach="2979" counter="1"/>
+    <entry name="Sly &amp; The Family Stone" reach="36576" counter="1"/>
+    <entry name="The Blues Brothers" reach="36716" counter="1"/>
+    <entry name="Charlie Rouse" reach="789" counter="1"/>
+    <entry name="Tom Jones feat. Blue &amp; Keith Airey" reach="74" counter="1"/>
+    <entry name="Percy Faith &amp; His Orchestra" reach="592" counter="1"/>
+    <entry name="The Glenn Miller Orchestra" reach="2155" counter="1"/>
+    <entry name="The Spencer Davis Group" reach="10041" counter="1"/>
+    <entry name="Illinois Jacquet with Joe Defrancesco" reach="12" counter="1"/>
+    <entry name="R.E.M." reach="244873" counter="1"/>
+    <entry name="Mel Tormé" reach="6266" counter="1"/>
+    <entry name="Lucie Silvas" reach="13478" counter="1"/>
+  </chart>
+  <chart from="1159704000" to="1160308800">
+    <entry name="Dream Theater" reach="101541" counter="57"/>
+    <entry name="Kid Rock" reach="33647" counter="14"/>
+    <entry name="King's X" reach="3838" counter="14"/>
+    <entry name="Bran Van 3000" reach="22662" counter="8"/>
+    <entry name="Dave Matthews Band" reach="126646" counter="7"/>
+    <entry name="King Crimson" reach="46384" counter="5"/>
+    <entry name="CAKE" reach="153261" counter="4"/>
+    <entry name="Iron &amp; Wine" reach="153068" counter="3"/>
+    <entry name="Duke Ellington" reach="35443" counter="2"/>
+    <entry name="Goo Goo Dolls" reach="138963" counter="2"/>
+    <entry name="Neu!" reach="23702" counter="2"/>
+    <entry name="Mel Tormé" reach="6266" counter="2"/>
+    <entry name="Stan Getz" reach="24675" counter="1"/>
+    <entry name="Pete Jolly" reach="1640" counter="1"/>
+    <entry name="Toots Thielemans" reach="3005" counter="1"/>
+    <entry name="Jimi Hendrix" reach="194662" counter="1"/>
+    <entry name="Cypress Hill" reach="83375" counter="1"/>
+    <entry name="McCoy Tyner" reach="10953" counter="1"/>
+    <entry name="Carmen McRae" reach="6351" counter="1"/>
+    <entry name="Nancy Sinatra" reach="72153" counter="1"/>
+    <entry name="Counting Crows" reach="164594" counter="1"/>
+    <entry name="Motörhead" reach="78793" counter="1"/>
+    <entry name="Madness" reach="52918" counter="1"/>
+    <entry name="Andy Williams" reach="12576" counter="1"/>
+    <entry name="Aretha Franklin" reach="75733" counter="1"/>
+    <entry name="George Benson" reach="17944" counter="1"/>
+    <entry name="Isaac Hayes" reach="39203" counter="1"/>
+    <entry name="Ahmad Jamal" reach="4284" counter="1"/>
+    <entry name="Coolio" reach="39860" counter="1"/>
+    <entry name="Mary Chapin Carpenter" reach="8472" counter="1"/>
+    <entry name="Gerry Mulligan" reach="4030" counter="1"/>
+    <entry name="Tom Scott" reach="1961" counter="1"/>
+    <entry name="A+" reach="1073" counter="1"/>
+    <entry name="The 5.6.7.8's" reach="44882" counter="1"/>
+    <entry name="Percy Faith &amp; His Orchestra" reach="592" counter="1"/>
+    <entry name="Julie Dreyfus" reach="1162" counter="1"/>
+    <entry name="The Glenn Miller Orchestra" reach="2155" counter="1"/>
+    <entry name="Ellis Marsalis" reach="299" counter="1"/>
+    <entry name="布袋寅泰" reach="37292" counter="1"/>
+    <entry name="Illinois Jacquet with Joe Defrancesco" reach="12" counter="1"/>
+    <entry name="Betty Carter &amp; Ray Bryant" reach="25" counter="1"/>
+  </chart>
+</resource>

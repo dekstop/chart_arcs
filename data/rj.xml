@@ -1,0 +1,891 @@
+
+Notice: Undefined offset:  1 in /web/site/www.staging.last.fm/lib/charts/charts.class.php on line 291
+
+Notice: Undefined offset:  1 in /web/site/www.staging.last.fm/lib/charts/charts.class.php on line 292
+
+Notice: Undefined offset:  2 in /web/site/www.staging.last.fm/lib/charts/charts.class.php on line 293
+
+Notice: Undefined offset:  1 in /web/site/www.staging.last.fm/lib/charts/charts.class.php on line 291
+
+Notice: Undefined offset:  1 in /web/site/www.staging.last.fm/lib/charts/charts.class.php on line 292
+
+Notice: Undefined offset:  2 in /web/site/www.staging.last.fm/lib/charts/charts.class.php on line 293
+
+Notice: Undefined offset:  1 in /web/site/www.staging.last.fm/lib/charts/charts.class.php on line 291
+
+Notice: Undefined offset:  1 in /web/site/www.staging.last.fm/lib/charts/charts.class.php on line 292
+
+Notice: Undefined offset:  2 in /web/site/www.staging.last.fm/lib/charts/charts.class.php on line 293
+
+Notice: Undefined offset:  1 in /web/site/www.staging.last.fm/lib/charts/charts.class.php on line 291
+
+Notice: Undefined offset:  1 in /web/site/www.staging.last.fm/lib/charts/charts.class.php on line 292
+
+Notice: Undefined offset:  2 in /web/site/www.staging.last.fm/lib/charts/charts.class.php on line 293
+
+Notice: Undefined offset:  1 in /web/site/www.staging.last.fm/lib/charts/charts.class.php on line 291
+
+Notice: Undefined offset:  1 in /web/site/www.staging.last.fm/lib/charts/charts.class.php on line 292
+
+Notice: Undefined offset:  2 in /web/site/www.staging.last.fm/lib/charts/charts.class.php on line 293
+
+Notice: Undefined offset:  1 in /web/site/www.staging.last.fm/lib/charts/charts.class.php on line 291
+
+Notice: Undefined offset:  1 in /web/site/www.staging.last.fm/lib/charts/charts.class.php on line 292
+
+Notice: Undefined offset:  2 in /web/site/www.staging.last.fm/lib/charts/charts.class.php on line 293
+
+Notice: Undefined offset:  1 in /web/site/www.staging.last.fm/lib/charts/charts.class.php on line 291
+
+Notice: Undefined offset:  1 in /web/site/www.staging.last.fm/lib/charts/charts.class.php on line 292
+
+Notice: Undefined offset:  2 in /web/site/www.staging.last.fm/lib/charts/charts.class.php on line 293
+
+Notice: Undefined offset:  1 in /web/site/www.staging.last.fm/lib/charts/charts.class.php on line 291
+
+Notice: Undefined offset:  1 in /web/site/www.staging.last.fm/lib/charts/charts.class.php on line 292
+
+Notice: Undefined offset:  2 in /web/site/www.staging.last.fm/lib/charts/charts.class.php on line 293
+
+Notice: Undefined offset:  1 in /web/site/www.staging.last.fm/lib/charts/charts.class.php on line 291
+
+Notice: Undefined offset:  1 in /web/site/www.staging.last.fm/lib/charts/charts.class.php on line 292
+
+Notice: Undefined offset:  2 in /web/site/www.staging.last.fm/lib/charts/charts.class.php on line 293
+
+Notice: Undefined offset:  1 in /web/site/www.staging.last.fm/lib/charts/charts.class.php on line 291
+
+Notice: Undefined offset:  1 in /web/site/www.staging.last.fm/lib/charts/charts.class.php on line 292
+
+Notice: Undefined offset:  2 in /web/site/www.staging.last.fm/lib/charts/charts.class.php on line 293
+
+Notice: Undefined offset:  1 in /web/site/www.staging.last.fm/lib/charts/charts.class.php on line 291
+
+Notice: Undefined offset:  1 in /web/site/www.staging.last.fm/lib/charts/charts.class.php on line 292
+
+Notice: Undefined offset:  2 in /web/site/www.staging.last.fm/lib/charts/charts.class.php on line 293
+
+Notice: Undefined offset:  1 in /web/site/www.staging.last.fm/lib/charts/charts.class.php on line 291
+
+Notice: Undefined offset:  1 in /web/site/www.staging.last.fm/lib/charts/charts.class.php on line 292
+
+Notice: Undefined offset:  2 in /web/site/www.staging.last.fm/lib/charts/charts.class.php on line 293
+<?xml version="1.0" encoding="UTF-8"?>
+<resource name="RJ" restype="4" id="1000002">
+  <chart from="1143979202" to="1144584000">
+    <entry name="Nina Simone" counter="19"/>
+    <entry name="Collective Soul" counter="17"/>
+    <entry name="Rachael Yamagata" counter="17"/>
+    <entry name="Jack Johnson" counter="15"/>
+    <entry name="Metallica" counter="11"/>
+    <entry name="Red Hot Chili Peppers" counter="7"/>
+    <entry name="Dream Theater" counter="6"/>
+    <entry name="Herbie Hancock" counter="5"/>
+    <entry name="Weather Report" counter="5"/>
+    <entry name="PJ Harvey" counter="5"/>
+    <entry name="Bruce Springsteen" counter="5"/>
+    <entry name="The Smashing Pumpkins" counter="5"/>
+    <entry name="Calexico" counter="4"/>
+    <entry name="Jimi Hendrix" counter="4"/>
+    <entry name="Joe Satriani" counter="4"/>
+    <entry name="Goo Goo Dolls" counter="4"/>
+    <entry name="Dan Reed Network" counter="4"/>
+    <entry name="Noam Chomsky" counter="4"/>
+    <entry name="James Brown" counter="3"/>
+    <entry name="James Taylor" counter="3"/>
+    <entry name="Pat Metheny" counter="3"/>
+    <entry name="Cat Stevens" counter="3"/>
+    <entry name="Hothouse Flowers" counter="3"/>
+    <entry name="Jameroquai - Canned Heat" counter="3"/>
+    <entry name="Bob Dylan" counter="2"/>
+    <entry name="Nine Inch Nails" counter="2"/>
+    <entry name="Stevie Wonder" counter="2"/>
+    <entry name="Lenny Kravitz" counter="2"/>
+    <entry name="Tower of Power" counter="2"/>
+    <entry name="matchbox twenty" counter="2"/>
+    <entry name="Tracy Chapman" counter="2"/>
+    <entry name="Gorillaz" counter="2"/>
+    <entry name="Lit" counter="2"/>
+    <entry name="Foo Fighters" counter="2"/>
+    <entry name="Counting Crows" counter="2"/>
+    <entry name="Crash Test Dummies" counter="2"/>
+    <entry name="The Cranberries" counter="2"/>
+    <entry name="The Moody Blues" counter="2"/>
+    <entry name="The Classic Chill Out Album" counter="2"/>
+    <entry name="Aretha Franklin" counter="2"/>
+    <entry name="Crosby, Stills &amp; Nash" counter="2"/>
+    <entry name="Level 42" counter="2"/>
+    <entry name="Kings of Leon" counter="2"/>
+    <entry name="Spock's Beard" counter="2"/>
+    <entry name="Neal Morse" counter="2"/>
+    <entry name="The Blues Brothers" counter="2"/>
+    <entry name="The Kleptones" counter="2"/>
+    <entry name="Massive Attack" counter="1"/>
+    <entry name="Miles Davis" counter="1"/>
+    <entry name="Dido" counter="1"/>
+    <entry name="Frank Sinatra" counter="1"/>
+    <entry name="U2" counter="1"/>
+    <entry name="John Barry" counter="1"/>
+    <entry name="The Verve" counter="1"/>
+    <entry name="Madonna" counter="1"/>
+    <entry name="Marvin Gaye" counter="1"/>
+    <entry name="Moby" counter="1"/>
+    <entry name="Deep Purple" counter="1"/>
+    <entry name="Nat King Cole" counter="1"/>
+    <entry name="Weezer" counter="1"/>
+    <entry name="Eels" counter="1"/>
+    <entry name="Frank Zappa" counter="1"/>
+    <entry name="Nickelback" counter="1"/>
+    <entry name="Simon &amp; Garfunkel" counter="1"/>
+    <entry name="Courtney Pine" counter="1"/>
+    <entry name="Nancy Sinatra" counter="1"/>
+    <entry name="The Jimi Hendrix Experience" counter="1"/>
+    <entry name="Rammstein" counter="1"/>
+    <entry name="Aerosmith" counter="1"/>
+    <entry name="Silverchair" counter="1"/>
+    <entry name="Fun Lovin' Criminals" counter="1"/>
+    <entry name="Guns N' Roses" counter="1"/>
+    <entry name="Cutting Crew" counter="1"/>
+    <entry name="Spin Doctors" counter="1"/>
+    <entry name="Beth Gibbons" counter="1"/>
+    <entry name="Aqualung" counter="1"/>
+    <entry name="Enya" counter="1"/>
+    <entry name="Ricky Martin" counter="1"/>
+    <entry name="The Troggs" counter="1"/>
+    <entry name="The Darkness" counter="1"/>
+    <entry name="John Mayer" counter="1"/>
+    <entry name="Ronnie Scott's Quintet" counter="1"/>
+    <entry name="Prince" counter="1"/>
+    <entry name="Mr. Big" counter="1"/>
+    <entry name="Natalie Merchant" counter="1"/>
+    <entry name="Jaco Pastorius" counter="1"/>
+    <entry name="Michael Andrews" counter="1"/>
+    <entry name="Emiliana Torrini" counter="1"/>
+    <entry name="Rage Against the Machine" counter="1"/>
+    <entry name="Erik Satie" counter="1"/>
+    <entry name="Meanwhile, Back In Communist Russia..." counter="1"/>
+    <entry name="John Patitucci" counter="1"/>
+    <entry name="duel" counter="1"/>
+    <entry name="The Who" counter="1"/>
+    <entry name="Suzie Higgie" counter="1"/>
+    <entry name="Frédéric Chopin" counter="1"/>
+    <entry name="José Carreras" counter="1"/>
+    <entry name="R.E.M." counter="1"/>
+    <entry name="Benny Goodman &amp; Peggy Lee" counter="1"/>
+    <entry name="David Hudson And Friends" counter="1"/>
+    <entry name="Slamin' Gladys" counter="1"/>
+    <entry name="Jools Holland &amp; His Rhythm Blues Orchestra" counter="1"/>
+  </chart>
+  <chart from="1144584000" to="1145188800">
+    <entry name="Red Hot Chili Peppers" counter="21"/>
+    <entry name="Rachael Yamagata" counter="16"/>
+    <entry name="Razorlight" counter="14"/>
+    <entry name="Spin Doctors" counter="10"/>
+    <entry name="Tok Tok Tok" counter="10"/>
+    <entry name="Rammstein" counter="7"/>
+    <entry name="Foo Fighters" counter="4"/>
+    <entry name="Goo Goo Dolls" counter="4"/>
+    <entry name="Hothouse Flowers" counter="4"/>
+    <entry name="Frank Sinatra" counter="3"/>
+    <entry name="Queen" counter="3"/>
+    <entry name="The Jimi Hendrix Experience" counter="3"/>
+    <entry name="Joe Satriani" counter="3"/>
+    <entry name="Bruce Springsteen" counter="3"/>
+    <entry name="Crash Test Dummies" counter="3"/>
+    <entry name="Aretha Franklin" counter="3"/>
+    <entry name="Joe Walsh" counter="3"/>
+    <entry name="Natalie Merchant" counter="3"/>
+    <entry name="Noam Chomsky" counter="3"/>
+    <entry name="Herbie Hancock" counter="2"/>
+    <entry name="Norah Jones" counter="2"/>
+    <entry name="Weather Report" counter="2"/>
+    <entry name="Lenny Kravitz" counter="2"/>
+    <entry name="Marvin Gaye" counter="2"/>
+    <entry name="Tower of Power" counter="2"/>
+    <entry name="The Wallflowers" counter="2"/>
+    <entry name="Frank Zappa" counter="2"/>
+    <entry name="Courtney Pine" counter="2"/>
+    <entry name="Diana Krall" counter="2"/>
+    <entry name="Status Quo" counter="2"/>
+    <entry name="Metallica" counter="2"/>
+    <entry name="Counting Crows" counter="2"/>
+    <entry name="Dire Straits" counter="2"/>
+    <entry name="The Smashing Pumpkins" counter="2"/>
+    <entry name="Chuck Berry" counter="2"/>
+    <entry name="The Classic Chill Out Album" counter="2"/>
+    <entry name="Collective Soul" counter="2"/>
+    <entry name="Fiona Apple" counter="2"/>
+    <entry name="Michael Andrews" counter="2"/>
+    <entry name="David Lee Roth" counter="2"/>
+    <entry name="Suzie Higgie" counter="2"/>
+    <entry name="Desert Sessions" counter="2"/>
+    <entry name="The Kleptones" counter="2"/>
+    <entry name="Jools Holland &amp; His Rhythm Blues Orchestra" counter="2"/>
+    <entry name="Calexico" counter="1"/>
+    <entry name="Blur" counter="1"/>
+    <entry name="Miles Davis" counter="1"/>
+    <entry name="David Bowie" counter="1"/>
+    <entry name="The Doors" counter="1"/>
+    <entry name="Nine Inch Nails" counter="1"/>
+    <entry name="Eddie Cochran" counter="1"/>
+    <entry name="Coldplay" counter="1"/>
+    <entry name="Dido" counter="1"/>
+    <entry name="Jimi Hendrix" counter="1"/>
+    <entry name="John Barry" counter="1"/>
+    <entry name="Joni Mitchell" counter="1"/>
+    <entry name="The Kinks" counter="1"/>
+    <entry name="Jamiroquai" counter="1"/>
+    <entry name="Madonna" counter="1"/>
+    <entry name="The Clash" counter="1"/>
+    <entry name="Moby" counter="1"/>
+    <entry name="Bad Company" counter="1"/>
+    <entry name="Deep Purple" counter="1"/>
+    <entry name="James Taylor" counter="1"/>
+    <entry name="Weezer" counter="1"/>
+    <entry name="Stevie Ray Vaughan" counter="1"/>
+    <entry name="Paul McCartney" counter="1"/>
+    <entry name="Whitesnake" counter="1"/>
+    <entry name="Black Sabbath" counter="1"/>
+    <entry name="Def Leppard" counter="1"/>
+    <entry name="Dream Theater" counter="1"/>
+    <entry name="Eels" counter="1"/>
+    <entry name="Fatboy Slim" counter="1"/>
+    <entry name="Fleetwood Mac" counter="1"/>
+    <entry name="Ludwig van Beethoven" counter="1"/>
+    <entry name="Lynyrd Skynyrd" counter="1"/>
+    <entry name="Lit" counter="1"/>
+    <entry name="Cream" counter="1"/>
+    <entry name="Robbie Williams" counter="1"/>
+    <entry name="Motörhead" counter="1"/>
+    <entry name="Wheatus" counter="1"/>
+    <entry name="Free" counter="1"/>
+    <entry name="Guns N' Roses" counter="1"/>
+    <entry name="Madness" counter="1"/>
+    <entry name="Kaskade" counter="1"/>
+    <entry name="The Cranberries" counter="1"/>
+    <entry name="The Troggs" counter="1"/>
+    <entry name="Thin Lizzy" counter="1"/>
+    <entry name="Something Corporate" counter="1"/>
+    <entry name="John Mayer" counter="1"/>
+    <entry name="Boston" counter="1"/>
+    <entry name="Rainbow" counter="1"/>
+    <entry name="Jeff Beck with Terry Bozzio &amp; Tony Hymas" counter="1"/>
+    <entry name="Natalie Imbruglia" counter="1"/>
+    <entry name="ZZ Top" counter="1"/>
+    <entry name="T. Rex" counter="1"/>
+    <entry name="Mr. Big" counter="1"/>
+    <entry name="Derek and The Dominos" counter="1"/>
+    <entry name="Run-D.M.C." counter="1"/>
+    <entry name="Level 42" counter="1"/>
+    <entry name="Rage Against the Machine" counter="1"/>
+    <entry name="Spock's Beard" counter="1"/>
+    <entry name="The Shadows" counter="1"/>
+    <entry name="The Who" counter="1"/>
+    <entry name="The Surfaris" counter="1"/>
+    <entry name="R.E.M." counter="1"/>
+    <entry name="Slamin' Gladys" counter="1"/>
+  </chart>
+  <chart from="1145188800" to="1145793600">
+    <entry name="The Hollies" counter="29"/>
+    <entry name="Chris Isaak" counter="13"/>
+    <entry name="Gnarls barkley" counter="12"/>
+    <entry name="Supreme Beings of Leisure" counter="11"/>
+    <entry name="3 Doors Down" counter="10"/>
+    <entry name="AC/DC" counter="4"/>
+    <entry name="Burt Bacharach" counter="2"/>
+    <entry name="Nick Drake" counter="1"/>
+    <entry name="David Bowie" counter="1"/>
+    <entry name="The Doors" counter="1"/>
+    <entry name="Beck" counter="1"/>
+    <entry name="The Rolling Stones" counter="1"/>
+    <entry name="Main" counter="1"/>
+    <entry name="Oasis" counter="1"/>
+    <entry name="Pearl Jam" counter="1"/>
+    <entry name="Black Rebel Motorcycle Club" counter="1"/>
+    <entry name="Fleetwood Mac" counter="1"/>
+    <entry name="Tenacious D" counter="1"/>
+    <entry name="Counting Crows" counter="1"/>
+    <entry name="Bad Religion" counter="1"/>
+    <entry name="Tears for Fears" counter="1"/>
+    <entry name="The Flying Burrito Brothers" counter="1"/>
+    <entry name="The Lucky Ones" counter="1"/>
+  </chart>
+  <chart from="1145793600" to="1146398400">
+    <entry name="Stevie Ray Vaughan" counter="20"/>
+    <entry name="3 Doors Down" counter="6"/>
+    <entry name="Herbie Hancock" counter="3"/>
+    <entry name="Cat Stevens" counter="3"/>
+    <entry name="Miles Davis" counter="2"/>
+    <entry name="Nina Simone" counter="2"/>
+    <entry name="Weather Report" counter="2"/>
+    <entry name="System of a Down" counter="2"/>
+    <entry name="Aimee Mann" counter="2"/>
+    <entry name="Metallica" counter="2"/>
+    <entry name="Counting Crows" counter="2"/>
+    <entry name="The Smashing Pumpkins" counter="2"/>
+    <entry name="Calexico" counter="1"/>
+    <entry name="Bob Dylan" counter="1"/>
+    <entry name="Jimi Hendrix" counter="1"/>
+    <entry name="Joni Mitchell" counter="1"/>
+    <entry name="Red Hot Chili Peppers" counter="1"/>
+    <entry name="Moby" counter="1"/>
+    <entry name="Dream Theater" counter="1"/>
+    <entry name="Simon &amp; Garfunkel" counter="1"/>
+    <entry name="The Jimi Hendrix Experience" counter="1"/>
+    <entry name="Rammstein" counter="1"/>
+    <entry name="The Prodigy" counter="1"/>
+    <entry name="Aerosmith" counter="1"/>
+    <entry name="Foo Fighters" counter="1"/>
+    <entry name="Bruce Springsteen" counter="1"/>
+    <entry name="Goo Goo Dolls" counter="1"/>
+    <entry name="Kaskade" counter="1"/>
+    <entry name="Aqualung" counter="1"/>
+    <entry name="Aretha Franklin" counter="1"/>
+    <entry name="Hothouse Flowers" counter="1"/>
+    <entry name="Level 42" counter="1"/>
+    <entry name="Rage Against the Machine" counter="1"/>
+    <entry name="Noam Chomsky" counter="1"/>
+    <entry name="Erik Satie" counter="1"/>
+    <entry name="Jameroquai - Canned Heat" counter="1"/>
+    <entry name="The Blues Brothers" counter="1"/>
+    <entry name="The Royal Philharmonic Orchestra" counter="1"/>
+    <entry name="R.E.M." counter="1"/>
+    <entry name="David Hudson And Friends" counter="1"/>
+    <entry name="Gnarls barkley" counter="1"/>
+  </chart>
+  <chart from="1146398400" to="1147003200"/>
+  <chart from="1147003200" to="1147608000"/>
+  <chart from="1147608000" to="1148212800"/>
+  <chart from="1148212800" to="1148817600"/>
+  <chart from="1148817600" to="1149422400"/>
+  <chart from="1149422400" to="1150027200"/>
+  <chart from="1150027200" to="1150632000"/>
+  <chart from="1150632000" to="1151236800"/>
+  <chart from="1151236800" to="1151841600"/>
+  <chart from="1151841600" to="1152446400"/>
+  <chart from="1152446400" to="1153051200"/>
+  <chart from="1153051200" to="1153656000"/>
+  <chart from="1153656000" to="1154260800">
+    <entry name="Snoop Dogg" counter="34"/>
+    <entry name="Dream Theater" counter="26"/>
+    <entry name="Ice Cube" counter="20"/>
+    <entry name="Beastie Boys" counter="1"/>
+    <entry name="Outkast" counter="1"/>
+    <entry name="Busta Rhymes" counter="1"/>
+    <entry name="Missy Elliott" counter="1"/>
+    <entry name="Nelly" counter="1"/>
+    <entry name="The Roots" counter="1"/>
+    <entry name="Fabolous" counter="1"/>
+    <entry name="Xzibit" counter="1"/>
+    <entry name="Arrested Development" counter="1"/>
+    <entry name="Big Punisher" counter="1"/>
+    <entry name="Warren G" counter="1"/>
+    <entry name="Black Eyed Peas" counter="1"/>
+    <entry name="D12" counter="1"/>
+    <entry name="Notorious B.I.G." counter="1"/>
+    <entry name="Cam'Ron" counter="1"/>
+    <entry name="Wyclef Jean" counter="1"/>
+    <entry name="Jay-Z" counter="1"/>
+    <entry name="Maroon 5" counter="1"/>
+    <entry name="N*E*R*D" counter="1"/>
+    <entry name="Obie Trice" counter="1"/>
+    <entry name="Mase" counter="1"/>
+    <entry name="Amerie" counter="1"/>
+    <entry name="Kanye West" counter="1"/>
+    <entry name="Gwen Stefani" counter="1"/>
+    <entry name="Lil Jon &amp; The East Side Boyz" counter="1"/>
+    <entry name="213" counter="1"/>
+  </chart>
+  <chart from="1154260800" to="1154865600">
+    <entry name="The Herbaliser" counter="18"/>
+    <entry name="Rage Against the Machine" counter="12"/>
+    <entry name="Faith No More" counter="11"/>
+    <entry name="Supreme Beings of Leisure" counter="11"/>
+    <entry name="Jane's Addiction" counter="6"/>
+    <entry name="Talib Kweli" counter="2"/>
+  </chart>
+  <chart from="1154865600" to="1155470400">
+    <entry name="Counting Crows" counter="25"/>
+    <entry name="King's X" counter="16"/>
+    <entry name="Kid Rock" counter="14"/>
+    <entry name="Echo &amp; The Bunnymen" counter="13"/>
+    <entry name="Guns N' Roses" counter="11"/>
+    <entry name="Jane's Addiction" counter="6"/>
+    <entry name="The Blues Brothers" counter="5"/>
+    <entry name="Depeche Mode" counter="2"/>
+    <entry name="Ella Fitzgerald" counter="2"/>
+    <entry name="U2" counter="2"/>
+    <entry name="Fink" counter="2"/>
+    <entry name="Aerosmith" counter="2"/>
+    <entry name="Toto" counter="2"/>
+    <entry name="Franz Ferdinand" counter="2"/>
+    <entry name="Björk" counter="1"/>
+    <entry name="Tortoise" counter="1"/>
+    <entry name="Pink Floyd" counter="1"/>
+    <entry name="Phoenix" counter="1"/>
+    <entry name="Calexico" counter="1"/>
+    <entry name="Anouar Brahem" counter="1"/>
+    <entry name="The Cure" counter="1"/>
+    <entry name="Talking Heads" counter="1"/>
+    <entry name="Pavement" counter="1"/>
+    <entry name="Blur" counter="1"/>
+    <entry name="Various Artists" counter="1"/>
+    <entry name="Leonard Cohen" counter="1"/>
+    <entry name="The Rolling Stones" counter="1"/>
+    <entry name="DJ Vadim" counter="1"/>
+    <entry name="Missy Elliott" counter="1"/>
+    <entry name="Cowboy Junkies" counter="1"/>
+    <entry name="Method Man" counter="1"/>
+    <entry name="Randy Brecker" counter="1"/>
+    <entry name="Barry White" counter="1"/>
+    <entry name="Ben Folds Five" counter="1"/>
+    <entry name="Radiohead" counter="1"/>
+    <entry name="Supergrass" counter="1"/>
+    <entry name="Big Star" counter="1"/>
+    <entry name="Damien Rice" counter="1"/>
+    <entry name="Doves" counter="1"/>
+    <entry name="Muddy Waters" counter="1"/>
+    <entry name="Queen" counter="1"/>
+    <entry name="Ron Sexsmith" counter="1"/>
+    <entry name="Supertramp" counter="1"/>
+    <entry name="The Stranglers" counter="1"/>
+    <entry name="The White Stripes" counter="1"/>
+    <entry name="Buena Vista Social Club" counter="1"/>
+    <entry name="Koop" counter="1"/>
+    <entry name="Thievery Corporation" counter="1"/>
+    <entry name="Santana" counter="1"/>
+    <entry name="Garbage" counter="1"/>
+    <entry name="James Taylor" counter="1"/>
+    <entry name="Stone Temple Pilots" counter="1"/>
+    <entry name="Weezer" counter="1"/>
+    <entry name="Pearl Jam" counter="1"/>
+    <entry name="Dream Theater" counter="1"/>
+    <entry name="Eels" counter="1"/>
+    <entry name="Jennifer Lopez" counter="1"/>
+    <entry name="Simon &amp; Garfunkel" counter="1"/>
+    <entry name="The Living End" counter="1"/>
+    <entry name="The Beatles" counter="1"/>
+    <entry name="Muse" counter="1"/>
+    <entry name="Guano Apes" counter="1"/>
+    <entry name="AC/DC" counter="1"/>
+    <entry name="Jason Mraz" counter="1"/>
+    <entry name="Ash" counter="1"/>
+    <entry name="Johnny Cash" counter="1"/>
+    <entry name="Chicago" counter="1"/>
+    <entry name="Crowded House" counter="1"/>
+    <entry name="Bruce Springsteen" counter="1"/>
+    <entry name="Sarah McLachlan" counter="1"/>
+    <entry name="Days of the New" counter="1"/>
+    <entry name="The Strokes" counter="1"/>
+    <entry name="Bob Seger" counter="1"/>
+    <entry name="Avril Lavigne" counter="1"/>
+    <entry name="Kim Wilde" counter="1"/>
+    <entry name="The Smashing Pumpkins" counter="1"/>
+    <entry name="Starsailor" counter="1"/>
+    <entry name="The Darkness" counter="1"/>
+    <entry name="Vanessa Carlton" counter="1"/>
+    <entry name="Steppenwolf" counter="1"/>
+    <entry name="Richard Ashcroft" counter="1"/>
+    <entry name="Steve Vai" counter="1"/>
+    <entry name="Tom Petty and the Heartbreakers" counter="1"/>
+    <entry name="William Shatner" counter="1"/>
+    <entry name="Maroon 5" counter="1"/>
+    <entry name="N*E*R*D" counter="1"/>
+    <entry name="Zakir Hussain" counter="1"/>
+    <entry name="Freddie Mercury" counter="1"/>
+    <entry name="Tom Browne" counter="1"/>
+    <entry name="Level 42" counter="1"/>
+    <entry name="Archie Shepp" counter="1"/>
+    <entry name="Richard Bona" counter="1"/>
+    <entry name="Grassskirt" counter="1"/>
+    <entry name="John Legend" counter="1"/>
+    <entry name="Sufjan Stevens" counter="1"/>
+    <entry name="The American Analog Set" counter="1"/>
+    <entry name="The Shins" counter="1"/>
+    <entry name="Razorlight" counter="1"/>
+    <entry name="The Zutons" counter="1"/>
+    <entry name="The Killers" counter="1"/>
+    <entry name="Brazilian Girls" counter="1"/>
+    <entry name="Tom Vek" counter="1"/>
+    <entry name="Hard-Fi" counter="1"/>
+    <entry name="Groovenik" counter="1"/>
+  </chart>
+  <chart from="1155470400" to="1156075200">
+    <entry name="Cat Stevens" counter="29"/>
+    <entry name="Dream Theater" counter="28"/>
+    <entry name="Deep Purple" counter="26"/>
+    <entry name="Dan Reed Network" counter="26"/>
+    <entry name="Nine Inch Nails" counter="25"/>
+    <entry name="Buckcherry" counter="25"/>
+    <entry name="Something Corporate" counter="14"/>
+    <entry name="Steve Vai" counter="14"/>
+    <entry name="Fun Lovin' Criminals" counter="13"/>
+    <entry name="Skid Row" counter="12"/>
+    <entry name="The Doors" counter="11"/>
+    <entry name="Silverchair" counter="11"/>
+    <entry name="Slamin' Gladys" counter="11"/>
+    <entry name="Faith No More" counter="10"/>
+    <entry name="Skunk Anansie" counter="10"/>
+    <entry name="Frank Zappa" counter="8"/>
+    <entry name="Rachael Yamagata" counter="8"/>
+    <entry name="Finley Quaye" counter="7"/>
+    <entry name="Bruce Springsteen" counter="4"/>
+    <entry name="The Blues Brothers" counter="2"/>
+    <entry name="Status Quo" counter="1"/>
+    <entry name="Guns N' Roses" counter="1"/>
+    <entry name="REM &amp; Natalie Merchant" counter="1"/>
+  </chart>
+  <chart from="1156075200" to="1156680000">
+    <entry name="Collective Soul" counter="25"/>
+    <entry name="Nina Simone" counter="14"/>
+    <entry name="Nat King Cole" counter="12"/>
+    <entry name="Led Zeppelin" counter="10"/>
+    <entry name="Courtney Pine" counter="6"/>
+    <entry name="Rage Against the Machine" counter="5"/>
+    <entry name="Echo &amp; The Bunnymen" counter="3"/>
+    <entry name="The Cranberries" counter="3"/>
+    <entry name="The Moody Blues" counter="2"/>
+    <entry name="Art Pepper" counter="1"/>
+    <entry name="Dire Straits" counter="1"/>
+    <entry name="Fun Lovin' Criminals" counter="1"/>
+  </chart>
+  <chart from="1156680000" to="1157284800">
+    <entry name="Mr. Big" counter="35"/>
+    <entry name="Aretha Franklin" counter="23"/>
+    <entry name="PJ Harvey" counter="15"/>
+    <entry name="Otis Redding" counter="11"/>
+    <entry name="Pearl Jam" counter="11"/>
+    <entry name="Muse" counter="11"/>
+    <entry name="Slamin' Gladys" counter="11"/>
+    <entry name="Supreme Beings of Leisure" counter="8"/>
+    <entry name="The Hollies" counter="8"/>
+    <entry name="Joni Mitchell &amp; James Taylor" counter="8"/>
+    <entry name="Liquid Tension Experiment" counter="7"/>
+    <entry name="Miles Davis" counter="6"/>
+    <entry name="Aerosmith" counter="4"/>
+    <entry name="Bob Seger" counter="4"/>
+    <entry name="Jools Holland" counter="4"/>
+    <entry name="Stevie Wonder" counter="3"/>
+    <entry name="Prince" counter="3"/>
+    <entry name="Chet Baker" counter="2"/>
+    <entry name="Dexter Gordon" counter="2"/>
+    <entry name="Sonny Rollins" counter="2"/>
+    <entry name="Kenny Burrell" counter="2"/>
+    <entry name="Stanley Turrentine" counter="2"/>
+    <entry name="The Jimi Hendrix Experience" counter="2"/>
+    <entry name="The Moody Blues" counter="2"/>
+    <entry name="Ike Quebec" counter="2"/>
+    <entry name="Rachael Yamagata" counter="2"/>
+    <entry name="John Coltrane" counter="1"/>
+    <entry name="Wayne Shorter" counter="1"/>
+    <entry name="Donald Byrd" counter="1"/>
+    <entry name="Coleman Hawkins" counter="1"/>
+    <entry name="U2" counter="1"/>
+    <entry name="Red Hot Chili Peppers" counter="1"/>
+    <entry name="The Black Crowes" counter="1"/>
+    <entry name="Madonna" counter="1"/>
+    <entry name="King Crimson" counter="1"/>
+    <entry name="Cannonball Adderley" counter="1"/>
+    <entry name="Nigel Kennedy" counter="1"/>
+    <entry name="Hank Mobley" counter="1"/>
+    <entry name="Weezer" counter="1"/>
+    <entry name="Art Pepper" counter="1"/>
+    <entry name="Stevie Ray Vaughan" counter="1"/>
+    <entry name="Alice Cooper" counter="1"/>
+    <entry name="Incubus" counter="1"/>
+    <entry name="röyksopp" counter="1"/>
+    <entry name="Roger McGuinn" counter="1"/>
+    <entry name="Gentle Giant" counter="1"/>
+    <entry name="Run-D.M.C." counter="1"/>
+    <entry name="Michael Andrews" counter="1"/>
+    <entry name="Wes Montgomery" counter="1"/>
+    <entry name="Adrian Belew" counter="1"/>
+    <entry name="Grant Green" counter="1"/>
+    <entry name="George Shearing" counter="1"/>
+    <entry name="Richie Sambora" counter="1"/>
+    <entry name="Zoot Sims" counter="1"/>
+    <entry name="The Marshall Tucker Band" counter="1"/>
+    <entry name="REM &amp; Natalie Merchant" counter="1"/>
+    <entry name="R.E.M." counter="1"/>
+    <entry name="The Horace Silver Quintet" counter="1"/>
+    <entry name="Schaffer The Darklord" counter="1"/>
+  </chart>
+  <chart from="1157284800" to="1157889600">
+    <entry name="3 Doors Down" counter="37"/>
+    <entry name="Bad Religion" counter="24"/>
+    <entry name="James Brown" counter="15"/>
+    <entry name="matchbox twenty" counter="12"/>
+    <entry name="Herbie Hancock" counter="11"/>
+    <entry name="Tok Tok Tok" counter="11"/>
+    <entry name="De La Soul" counter="10"/>
+    <entry name="Rage Against the Machine" counter="10"/>
+    <entry name="Bran Van 3000" counter="9"/>
+    <entry name="AC/DC" counter="8"/>
+    <entry name="Michael Jackson" counter="8"/>
+    <entry name="Level 42" counter="6"/>
+    <entry name="The Blues Brothers" counter="6"/>
+    <entry name="Jane's Addiction" counter="5"/>
+    <entry name="Nine Inch Nails" counter="4"/>
+    <entry name="The Police" counter="2"/>
+    <entry name="Art Pepper" counter="2"/>
+    <entry name="The Moody Blues" counter="2"/>
+    <entry name="Apocalyptica" counter="2"/>
+    <entry name="Bobby Brown" counter="2"/>
+    <entry name="Benny Goodman Orchestra" counter="2"/>
+    <entry name="Benny Goodman &amp; Peggy Lee" counter="2"/>
+    <entry name="Joni Mitchell &amp; James Taylor" counter="2"/>
+    <entry name="Ben Webster" counter="1"/>
+    <entry name="Mr. Bungle" counter="1"/>
+    <entry name="Stanley Turrentine" counter="1"/>
+    <entry name="Modern Jazz Quartet" counter="1"/>
+    <entry name="Benny Goodman &amp; His Orchestra" counter="1"/>
+  </chart>
+  <chart from="1157889600" to="1158494400">
+    <entry name="Eva Cassidy" counter="43"/>
+    <entry name="Buckcherry" counter="25"/>
+    <entry name="Firebird" counter="14"/>
+    <entry name="Bob Marley &amp; The Wailers" counter="10"/>
+    <entry name="Counting Crows" counter="7"/>
+    <entry name="Rob Dougan" counter="3"/>
+    <entry name="Sublime" counter="2"/>
+    <entry name="Chet Baker" counter="2"/>
+    <entry name="Dexter Gordon" counter="2"/>
+    <entry name="Sonny Rollins" counter="2"/>
+    <entry name="Kenny Burrell" counter="2"/>
+    <entry name="Oasis" counter="2"/>
+    <entry name="Deftones" counter="2"/>
+    <entry name="Rage Against the Machine" counter="2"/>
+    <entry name="Grant Green" counter="2"/>
+    <entry name="Ike Quebec" counter="2"/>
+    <entry name="Miles Davis" counter="1"/>
+    <entry name="John Coltrane" counter="1"/>
+    <entry name="Wayne Shorter" counter="1"/>
+    <entry name="Donald Byrd" counter="1"/>
+    <entry name="Stevie Wonder" counter="1"/>
+    <entry name="Nirvana" counter="1"/>
+    <entry name="Coleman Hawkins" counter="1"/>
+    <entry name="U2" counter="1"/>
+    <entry name="Soundgarden" counter="1"/>
+    <entry name="Marvin Gaye" counter="1"/>
+    <entry name="The Clash" counter="1"/>
+    <entry name="Cannonball Adderley" counter="1"/>
+    <entry name="Garbage" counter="1"/>
+    <entry name="Alanis Morissette" counter="1"/>
+    <entry name="Hank Mobley" counter="1"/>
+    <entry name="Stanley Turrentine" counter="1"/>
+    <entry name="Eagles" counter="1"/>
+    <entry name="Art Pepper" counter="1"/>
+    <entry name="Sum 41" counter="1"/>
+    <entry name="System of a Down" counter="1"/>
+    <entry name="Tenacious D" counter="1"/>
+    <entry name="Lynyrd Skynyrd" counter="1"/>
+    <entry name="Silverchair" counter="1"/>
+    <entry name="Fugees" counter="1"/>
+    <entry name="Michael Jackson" counter="1"/>
+    <entry name="The Strokes" counter="1"/>
+    <entry name="Barenaked Ladies" counter="1"/>
+    <entry name="311" counter="1"/>
+    <entry name="Wes Montgomery" counter="1"/>
+    <entry name="Edguy" counter="1"/>
+    <entry name="Boozoo Bajou" counter="1"/>
+    <entry name="George Shearing" counter="1"/>
+    <entry name="Renaissance" counter="1"/>
+    <entry name="Zoot Sims" counter="1"/>
+    <entry name="Franz Ferdinand" counter="1"/>
+    <entry name="The Shins" counter="1"/>
+    <entry name="The Surfaris" counter="1"/>
+    <entry name="The Horace Silver Quintet" counter="1"/>
+    <entry name="Arctic Monkeys" counter="1"/>
+    <entry name="Tor Norbye, Carl Quinn, Dick Wall" counter="1"/>
+  </chart>
+  <chart from="1158494400" to="1159099200">
+    <entry name="Dan Reed Network" counter="20"/>
+    <entry name="Firebird" counter="19"/>
+    <entry name="[unknown]" counter="15"/>
+    <entry name="Frankie Goes to Hollywood" counter="11"/>
+    <entry name="Herbie Hancock" counter="10"/>
+    <entry name="Bob Marley &amp; The Wailers" counter="10"/>
+    <entry name="Rob Dougan" counter="7"/>
+    <entry name="Marvin Gaye" counter="4"/>
+    <entry name="Level 42" counter="4"/>
+    <entry name="Red Hot Chili Peppers" counter="2"/>
+    <entry name="Weezer" counter="2"/>
+    <entry name="311" counter="2"/>
+    <entry name="Two Lone Swordsmen" counter="1"/>
+    <entry name="Miles Davis" counter="1"/>
+    <entry name="Nina Simone" counter="1"/>
+    <entry name="Leonard Cohen" counter="1"/>
+    <entry name="Lou Reed" counter="1"/>
+    <entry name="Depeche Mode" counter="1"/>
+    <entry name="Dr. John" counter="1"/>
+    <entry name="Norah Jones" counter="1"/>
+    <entry name="Bob Dylan" counter="1"/>
+    <entry name="Stevie Wonder" counter="1"/>
+    <entry name="Van Halen" counter="1"/>
+    <entry name="Dido" counter="1"/>
+    <entry name="U2" counter="1"/>
+    <entry name="Jimi Hendrix" counter="1"/>
+    <entry name="Joni Mitchell" counter="1"/>
+    <entry name="Travis" counter="1"/>
+    <entry name="Queen" counter="1"/>
+    <entry name="Sonny Clark" counter="1"/>
+    <entry name="The Black Crowes" counter="1"/>
+    <entry name="Koop" counter="1"/>
+    <entry name="Garbage" counter="1"/>
+    <entry name="Stone Temple Pilots" counter="1"/>
+    <entry name="RJD2" counter="1"/>
+    <entry name="Reel Big Fish" counter="1"/>
+    <entry name="Dire Straits" counter="1"/>
+    <entry name="Goo Goo Dolls" counter="1"/>
+    <entry name="The Cranberries" counter="1"/>
+    <entry name="Jack Johnson" counter="1"/>
+    <entry name="Kellie Coffey" counter="1"/>
+    <entry name="Vince Guaraldi Trio" counter="1"/>
+    <entry name="Jethro Tull" counter="1"/>
+    <entry name="The Dirty Dozen Brass Band" counter="1"/>
+    <entry name="John Mayall &amp; The Bluesbreakers" counter="1"/>
+    <entry name="David Hudson And Friends" counter="1"/>
+    <entry name="Elnog" counter="1"/>
+  </chart>
+  <chart from="1159099200" to="1159704000">
+    <entry name="Free" counter="27"/>
+    <entry name="Aimee Mann" counter="7"/>
+    <entry name="Deep Purple" counter="6"/>
+    <entry name="Dream Theater" counter="6"/>
+    <entry name="Dire Straits" counter="4"/>
+    <entry name="Children of Bodom" counter="3"/>
+    <entry name="Miles Davis" counter="2"/>
+    <entry name="Nick Drake" counter="2"/>
+    <entry name="Coldplay" counter="2"/>
+    <entry name="Queen" counter="2"/>
+    <entry name="Red Hot Chili Peppers" counter="2"/>
+    <entry name="The White Stripes" counter="2"/>
+    <entry name="McCoy Tyner" counter="2"/>
+    <entry name="Metallica" counter="2"/>
+    <entry name="Bruce Springsteen" counter="2"/>
+    <entry name="Rush" counter="2"/>
+    <entry name="The Smashing Pumpkins" counter="2"/>
+    <entry name="Aretha Franklin" counter="2"/>
+    <entry name="Nightmares on Wax" counter="1"/>
+    <entry name="Pink Floyd" counter="1"/>
+    <entry name="Stereolab" counter="1"/>
+    <entry name="The Cure" counter="1"/>
+    <entry name="Keith Jarrett" counter="1"/>
+    <entry name="John Coltrane" counter="1"/>
+    <entry name="Primus" counter="1"/>
+    <entry name="Chick Corea" counter="1"/>
+    <entry name="Wayne Shorter" counter="1"/>
+    <entry name="Herbie Hancock" counter="1"/>
+    <entry name="The Rolling Stones" counter="1"/>
+    <entry name="Cassandra Wilson" counter="1"/>
+    <entry name="Bud Powell" counter="1"/>
+    <entry name="Count Basie" counter="1"/>
+    <entry name="Duke Ellington" counter="1"/>
+    <entry name="Dexter Gordon" counter="1"/>
+    <entry name="Horace Silver" counter="1"/>
+    <entry name="Art Tatum" counter="1"/>
+    <entry name="Goldfinger" counter="1"/>
+    <entry name="Norah Jones" counter="1"/>
+    <entry name="Sonny Rollins" counter="1"/>
+    <entry name="Thelonious Monk" counter="1"/>
+    <entry name="Weather Report" counter="1"/>
+    <entry name="Nine Inch Nails" counter="1"/>
+    <entry name="Dennis Brown" counter="1"/>
+    <entry name="Radiohead" counter="1"/>
+    <entry name="Stan Getz" counter="1"/>
+    <entry name="Mongo Santamaria" counter="1"/>
+    <entry name="Pete Jolly" counter="1"/>
+    <entry name="Toots Thielemans" counter="1"/>
+    <entry name="Kenny Burrell" counter="1"/>
+    <entry name="Elliott Smith" counter="1"/>
+    <entry name="Lenny Kravitz" counter="1"/>
+    <entry name="U2" counter="1"/>
+    <entry name="Oscar Peterson" counter="1"/>
+    <entry name="Pat Metheny Group" counter="1"/>
+    <entry name="Tori Amos" counter="1"/>
+    <entry name="Manic Street Preachers" counter="1"/>
+    <entry name="The Clash" counter="1"/>
+    <entry name="Eric Clapton" counter="1"/>
+    <entry name="Lou Donaldson" counter="1"/>
+    <entry name="Tower of Power" counter="1"/>
+    <entry name="Jeff Beck" counter="1"/>
+    <entry name="Bill Evans" counter="1"/>
+    <entry name="Edwin Starr" counter="1"/>
+    <entry name="Garbage" counter="1"/>
+    <entry name="Wild Cherry" counter="1"/>
+    <entry name="James Brown" counter="1"/>
+    <entry name="Slayer" counter="1"/>
+    <entry name="Alanis Morissette" counter="1"/>
+    <entry name="The Donnas" counter="1"/>
+    <entry name="The Yardbirds" counter="1"/>
+    <entry name="Pat Metheny" counter="1"/>
+    <entry name="Weezer" counter="1"/>
+    <entry name="Def Leppard" counter="1"/>
+    <entry name="Eels" counter="1"/>
+    <entry name="John Scofield" counter="1"/>
+    <entry name="Diana Krall" counter="1"/>
+    <entry name="The Undertones" counter="1"/>
+    <entry name="A Perfect Circle" counter="1"/>
+    <entry name="Iron Maiden" counter="1"/>
+    <entry name="Eve 6" counter="1"/>
+    <entry name="Silverchair" counter="1"/>
+    <entry name="Backstreet Boys" counter="1"/>
+    <entry name="Crowded House" counter="1"/>
+    <entry name="Sarah McLachlan" counter="1"/>
+    <entry name="Andy Williams" counter="1"/>
+    <entry name="Basement Jaxx" counter="1"/>
+    <entry name="Dick Dale" counter="1"/>
+    <entry name="Avril Lavigne" counter="1"/>
+    <entry name="Belle and Sebastian" counter="1"/>
+    <entry name="Apocalyptica" counter="1"/>
+    <entry name="Steely Dan" counter="1"/>
+    <entry name="Jack Johnson" counter="1"/>
+    <entry name="The Darkness" counter="1"/>
+    <entry name="Vanessa Carlton" counter="1"/>
+    <entry name="Belly" counter="1"/>
+    <entry name="Ray Charles" counter="1"/>
+    <entry name="Queensrÿche" counter="1"/>
+    <entry name="George Benson" counter="1"/>
+    <entry name="Joshua Redman" counter="1"/>
+    <entry name="Iced Earth" counter="1"/>
+    <entry name="Steve Vai" counter="1"/>
+    <entry name="Ted Leo and The Pharmacists" counter="1"/>
+    <entry name="Stevie Ray Vaughan and Double Trouble" counter="1"/>
+    <entry name="Jay-Z" counter="1"/>
+    <entry name="Ahmad Jamal" counter="1"/>
+    <entry name="Maroon 5" counter="1"/>
+    <entry name="Bomfunk MC's" counter="1"/>
+    <entry name="Bedlam" counter="1"/>
+    <entry name="Dar Williams" counter="1"/>
+    <entry name="Al Di Meola" counter="1"/>
+    <entry name="Sparks" counter="1"/>
+    <entry name="David Lee Roth" counter="1"/>
+    <entry name="Eric Dolphy" counter="1"/>
+    <entry name="Wes Montgomery" counter="1"/>
+    <entry name="Joe Pass" counter="1"/>
+    <entry name="Adriano Celentano" counter="1"/>
+    <entry name="Steve Morse" counter="1"/>
+    <entry name="Lionel Hampton" counter="1"/>
+    <entry name="Drive-By Truckers" counter="1"/>
+    <entry name="Elmore James" counter="1"/>
+    <entry name="Maroons" counter="1"/>
+    <entry name="Stacey Kent" counter="1"/>
+    <entry name="Gerry Mulligan" counter="1"/>
+    <entry name="Spock's Beard" counter="1"/>
+    <entry name="David Guetta" counter="1"/>
+    <entry name="Hubert Laws" counter="1"/>
+    <entry name="Keiko Lee" counter="1"/>
+    <entry name="Roy Hargrove" counter="1"/>
+    <entry name="Sly &amp; The Family Stone" counter="1"/>
+    <entry name="The Blues Brothers" counter="1"/>
+    <entry name="Charlie Rouse" counter="1"/>
+    <entry name="Tom Jones feat. Blue &amp; Keith Airey" counter="1"/>
+    <entry name="Percy Faith &amp; His Orchestra" counter="1"/>
+    <entry name="The Glenn Miller Orchestra" counter="1"/>
+    <entry name="The Spencer Davis Group" counter="1"/>
+    <entry name="Illinois Jacquet with Joe Defrancesco" counter="1"/>
+    <entry name="R.E.M." counter="1"/>
+    <entry name="Mel Tormé" counter="1"/>
+    <entry name="Lucie Silvas" counter="1"/>
+  </chart>
+</resource>

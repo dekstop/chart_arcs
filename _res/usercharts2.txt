@@ -1,0 +1,2525 @@
+$entries = $charts->getWeeklyArtists($chartsize, $week['range']);
+
+resourcelist Object
+(
+    [_data] => Array
+        (
+            [0] => Array
+                (
+                    [self] => 1009250
+                    [id] => 59
+                    [counter] => 29
+                    [position] => 1
+                    [pc] => 100
+                )
+
+            [1] => Array
+                (
+                    [self] => 1009250
+                    [id] => 1268720
+                    [counter] => 25
+                    [position] => 2
+                    [pc] => 86
+                )
+
+            [2] => Array
+                (
+                    [self] => 1009250
+                    [id] => 234
+                    [counter] => 23
+                    [position] => 3
+                    [pc] => 79
+                )
+
+            [3] => Array
+                (
+                    [self] => 1009250
+                    [id] => 1105360
+                    [counter] => 20
+                    [position] => 4
+                    [pc] => 69
+                )
+
+            [4] => Array
+                (
+                    [self] => 1009250
+                    [id] => 352
+                    [counter] => 16
+                    [position] => 5
+                    [pc] => 55
+                )
+
+            [5] => Array
+                (
+                    [self] => 1009250
+                    [id] => 1
+                    [counter] => 14
+                    [position] => 6
+                    [pc] => 48
+                )
+
+            [6] => Array
+                (
+                    [self] => 1009250
+                    [id] => 1002220
+                    [counter] => 14
+                    [position] => 6
+                    [pc] => 48
+                )
+
+            [7] => Array
+                (
+                    [self] => 1009250
+                    [id] => 1003352
+                    [counter] => 14
+                    [position] => 6
+                    [pc] => 48
+                )
+
+            [8] => Array
+                (
+                    [self] => 1009250
+                    [id] => 1231740
+                    [counter] => 14
+                    [position] => 6
+                    [pc] => 48
+                )
+
+            [9] => Array
+                (
+                    [self] => 1009250
+                    [id] => 1413
+                    [counter] => 13
+                    [position] => 10
+                    [pc] => 45
+                )
+
+            [10] => Array
+                (
+                    [self] => 1009250
+                    [id] => 2823
+                    [counter] => 13
+                    [position] => 10
+                    [pc] => 45
+                )
+
+            [11] => Array
+                (
+                    [self] => 1009250
+                    [id] => 1160349
+                    [counter] => 13
+                    [position] => 10
+                    [pc] => 45
+                )
+
+            [12] => Array
+                (
+                    [self] => 1009250
+                    [id] => 1254198
+                    [counter] => 13
+                    [position] => 10
+                    [pc] => 45
+                )
+
+            [13] => Array
+                (
+                    [self] => 1009250
+                    [id] => 1234027
+                    [counter] => 12
+                    [position] => 14
+                    [pc] => 41
+                )
+
+            [14] => Array
+                (
+                    [self] => 1009250
+                    [id] => 2037
+                    [counter] => 11
+                    [position] => 15
+                    [pc] => 38
+                )
+
+            [15] => Array
+                (
+                    [self] => 1009250
+                    [id] => 1003430
+                    [counter] => 11
+                    [position] => 15
+                    [pc] => 38
+                )
+
+            [16] => Array
+                (
+                    [self] => 1009250
+                    [id] => 4241
+                    [counter] => 8
+                    [position] => 17
+                    [pc] => 28
+                )
+
+            [17] => Array
+                (
+                    [self] => 1009250
+                    [id] => 1270639
+                    [counter] => 7
+                    [position] => 18
+                    [pc] => 24
+                )
+
+            [18] => Array
+                (
+                    [self] => 1009250
+                    [id] => 1148
+                    [counter] => 6
+                    [position] => 19
+                    [pc] => 21
+                )
+
+            [19] => Array
+                (
+                    [self] => 1009250
+                    [id] => 1007641
+                    [counter] => 4
+                    [position] => 20
+                    [pc] => 14
+                )
+
+            [20] => Array
+                (
+                    [self] => 1009250
+                    [id] => 9991454
+                    [counter] => 4
+                    [position] => 20
+                    [pc] => 14
+                )
+
+            [21] => Array
+                (
+                    [self] => 1009250
+                    [id] => 121
+                    [counter] => 3
+                    [position] => 22
+                    [pc] => 10
+                )
+
+            [22] => Array
+                (
+                    [self] => 1009250
+                    [id] => 15
+                    [counter] => 2
+                    [position] => 23
+                    [pc] => 7
+                )
+
+            [23] => Array
+                (
+                    [self] => 1009250
+                    [id] => 63
+                    [counter] => 2
+                    [position] => 23
+                    [pc] => 7
+                )
+
+            [24] => Array
+                (
+                    [self] => 1009250
+                    [id] => 206
+                    [counter] => 2
+                    [position] => 23
+                    [pc] => 7
+                )
+
+            [25] => Array
+                (
+                    [self] => 1009250
+                    [id] => 302
+                    [counter] => 2
+                    [position] => 23
+                    [pc] => 7
+                )
+
+            [26] => Array
+                (
+                    [self] => 1009250
+                    [id] => 742
+                    [counter] => 2
+                    [position] => 23
+                    [pc] => 7
+                )
+
+            [27] => Array
+                (
+                    [self] => 1009250
+                    [id] => 1158
+                    [counter] => 2
+                    [position] => 23
+                    [pc] => 7
+                )
+
+            [28] => Array
+                (
+                    [self] => 1009250
+                    [id] => 4623
+                    [counter] => 2
+                    [position] => 23
+                    [pc] => 7
+                )
+
+            [29] => Array
+                (
+                    [self] => 1009250
+                    [id] => 1000996
+                    [counter] => 2
+                    [position] => 23
+                    [pc] => 7
+                )
+
+            [30] => Array
+                (
+                    [self] => 1009250
+                    [id] => 1001134
+                    [counter] => 2
+                    [position] => 23
+                    [pc] => 7
+                )
+
+            [31] => Array
+                (
+                    [self] => 1009250
+                    [id] => 1001443
+                    [counter] => 2
+                    [position] => 23
+                    [pc] => 7
+                )
+
+            [32] => Array
+                (
+                    [self] => 1009250
+                    [id] => 1001531
+                    [counter] => 2
+                    [position] => 23
+                    [pc] => 7
+                )
+
+            [33] => Array
+                (
+                    [self] => 1009250
+                    [id] => 1001550
+                    [counter] => 2
+                    [position] => 23
+                    [pc] => 7
+                )
+
+            [34] => Array
+                (
+                    [self] => 1009250
+                    [id] => 1003342
+                    [counter] => 2
+                    [position] => 23
+                    [pc] => 7
+                )
+
+            [35] => Array
+                (
+                    [self] => 1009250
+                    [id] => 1004701
+                    [counter] => 2
+                    [position] => 23
+                    [pc] => 7
+                )
+
+            [36] => Array
+                (
+                    [self] => 1009250
+                    [id] => 1021089
+                    [counter] => 2
+                    [position] => 23
+                    [pc] => 7
+                )
+
+            [37] => Array
+                (
+                    [self] => 1009250
+                    [id] => 1036611
+                    [counter] => 2
+                    [position] => 23
+                    [pc] => 7
+                )
+
+            [38] => Array
+                (
+                    [self] => 1009250
+                    [id] => 1233770
+                    [counter] => 2
+                    [position] => 23
+                    [pc] => 7
+                )
+
+            [39] => Array
+                (
+                    [self] => 1009250
+                    [id] => 13683431
+                    [counter] => 2
+                    [position] => 23
+                    [pc] => 7
+                )
+
+            [40] => Array
+                (
+                    [self] => 1009250
+                    [id] => 15453066
+                    [counter] => 2
+                    [position] => 23
+                    [pc] => 7
+                )
+
+            [41] => Array
+                (
+                    [self] => 1009250
+                    [id] => 2
+                    [counter] => 1
+                    [position] => 42
+                    [pc] => 3
+                )
+
+            [42] => Array
+                (
+                    [self] => 1009250
+                    [id] => 70
+                    [counter] => 1
+                    [position] => 42
+                    [pc] => 3
+                )
+
+            [43] => Array
+                (
+                    [self] => 1009250
+                    [id] => 90
+                    [counter] => 1
+                    [position] => 42
+                    [pc] => 3
+                )
+
+            [44] => Array
+                (
+                    [self] => 1009250
+                    [id] => 106
+                    [counter] => 1
+                    [position] => 42
+                    [pc] => 3
+                )
+
+            [45] => Array
+                (
+                    [self] => 1009250
+                    [id] => 118
+                    [counter] => 1
+                    [position] => 42
+                    [pc] => 3
+                )
+
+            [46] => Array
+                (
+                    [self] => 1009250
+                    [id] => 122
+                    [counter] => 1
+                    [position] => 42
+                    [pc] => 3
+                )
+
+            [47] => Array
+                (
+                    [self] => 1009250
+                    [id] => 151
+                    [counter] => 1
+                    [position] => 42
+                    [pc] => 3
+                )
+
+            [48] => Array
+                (
+                    [self] => 1009250
+                    [id] => 231
+                    [counter] => 1
+                    [position] => 42
+                    [pc] => 3
+                )
+
+            [49] => Array
+                (
+                    [self] => 1009250
+                    [id] => 232
+                    [counter] => 1
+                    [position] => 42
+                    [pc] => 3
+                )
+
+            [50] => Array
+                (
+                    [self] => 1009250
+                    [id] => 237
+                    [counter] => 1
+                    [position] => 42
+                    [pc] => 3
+                )
+
+            [51] => Array
+                (
+                    [self] => 1009250
+                    [id] => 238
+                    [counter] => 1
+                    [position] => 42
+                    [pc] => 3
+                )
+
+            [52] => Array
+                (
+                    [self] => 1009250
+                    [id] => 300
+                    [counter] => 1
+                    [position] => 42
+                    [pc] => 3
+                )
+
+            [53] => Array
+                (
+                    [self] => 1009250
+                    [id] => 452
+                    [counter] => 1
+                    [position] => 42
+                    [pc] => 3
+                )
+
+            [54] => Array
+                (
+                    [self] => 1009250
+                    [id] => 463
+                    [counter] => 1
+                    [position] => 42
+                    [pc] => 3
+                )
+
+            [55] => Array
+                (
+                    [self] => 1009250
+                    [id] => 530
+                    [counter] => 1
+                    [position] => 42
+                    [pc] => 3
+                )
+
+            [56] => Array
+                (
+                    [self] => 1009250
+                    [id] => 699
+                    [counter] => 1
+                    [position] => 42
+                    [pc] => 3
+                )
+
+            [57] => Array
+                (
+                    [self] => 1009250
+                    [id] => 708
+                    [counter] => 1
+                    [position] => 42
+                    [pc] => 3
+                )
+
+            [58] => Array
+                (
+                    [self] => 1009250
+                    [id] => 848
+                    [counter] => 1
+                    [position] => 42
+                    [pc] => 3
+                )
+
+            [59] => Array
+                (
+                    [self] => 1009250
+                    [id] => 857
+                    [counter] => 1
+                    [position] => 42
+                    [pc] => 3
+                )
+
+            [60] => Array
+                (
+                    [self] => 1009250
+                    [id] => 891
+                    [counter] => 1
+                    [position] => 42
+                    [pc] => 3
+                )
+
+            [61] => Array
+                (
+                    [self] => 1009250
+                    [id] => 911
+                    [counter] => 1
+                    [position] => 42
+                    [pc] => 3
+                )
+
+            [62] => Array
+                (
+                    [self] => 1009250
+                    [id] => 964
+                    [counter] => 1
+                    [position] => 42
+                    [pc] => 3
+                )
+
+            [63] => Array
+                (
+                    [self] => 1009250
+                    [id] => 1159
+                    [counter] => 1
+                    [position] => 42
+                    [pc] => 3
+                )
+
+            [64] => Array
+                (
+                    [self] => 1009250
+                    [id] => 1168
+                    [counter] => 1
+                    [position] => 42
+                    [pc] => 3
+                )
+
+            [65] => Array
+                (
+                    [self] => 1009250
+                    [id] => 1171
+                    [counter] => 1
+                    [position] => 42
+                    [pc] => 3
+                )
+
+            [66] => Array
+                (
+                    [self] => 1009250
+                    [id] => 1172
+                    [counter] => 1
+                    [position] => 42
+                    [pc] => 3
+                )
+
+            [67] => Array
+                (
+                    [self] => 1009250
+                    [id] => 1177
+                    [counter] => 1
+                    [position] => 42
+                    [pc] => 3
+                )
+
+            [68] => Array
+                (
+                    [self] => 1009250
+                    [id] => 1181
+                    [counter] => 1
+                    [position] => 42
+                    [pc] => 3
+                )
+
+            [69] => Array
+                (
+                    [self] => 1009250
+                    [id] => 1186
+                    [counter] => 1
+                    [position] => 42
+                    [pc] => 3
+                )
+
+            [70] => Array
+                (
+                    [self] => 1009250
+                    [id] => 1192
+                    [counter] => 1
+                    [position] => 42
+                    [pc] => 3
+                )
+
+            [71] => Array
+                (
+                    [self] => 1009250
+                    [id] => 1212
+                    [counter] => 1
+                    [position] => 42
+                    [pc] => 3
+                )
+
+            [72] => Array
+                (
+                    [self] => 1009250
+                    [id] => 1252
+                    [counter] => 1
+                    [position] => 42
+                    [pc] => 3
+                )
+
+            [73] => Array
+                (
+                    [self] => 1009250
+                    [id] => 1259
+                    [counter] => 1
+                    [position] => 42
+                    [pc] => 3
+                )
+
+            [74] => Array
+                (
+                    [self] => 1009250
+                    [id] => 1262
+                    [counter] => 1
+                    [position] => 42
+                    [pc] => 3
+                )
+
+            [75] => Array
+                (
+                    [self] => 1009250
+                    [id] => 1270
+                    [counter] => 1
+                    [position] => 42
+                    [pc] => 3
+                )
+
+            [76] => Array
+                (
+                    [self] => 1009250
+                    [id] => 1273
+                    [counter] => 1
+                    [position] => 42
+                    [pc] => 3
+                )
+
+            [77] => Array
+                (
+                    [self] => 1009250
+                    [id] => 1301
+                    [counter] => 1
+                    [position] => 42
+                    [pc] => 3
+                )
+
+            [78] => Array
+                (
+                    [self] => 1009250
+                    [id] => 1303
+                    [counter] => 1
+                    [position] => 42
+                    [pc] => 3
+                )
+
+            [79] => Array
+                (
+                    [self] => 1009250
+                    [id] => 1306
+                    [counter] => 1
+                    [position] => 42
+                    [pc] => 3
+                )
+
+            [80] => Array
+                (
+                    [self] => 1009250
+                    [id] => 1307
+                    [counter] => 1
+                    [position] => 42
+                    [pc] => 3
+                )
+
+            [81] => Array
+                (
+                    [self] => 1009250
+                    [id] => 1319
+                    [counter] => 1
+                    [position] => 42
+                    [pc] => 3
+                )
+
+            [82] => Array
+                (
+                    [self] => 1009250
+                    [id] => 1839
+                    [counter] => 1
+                    [position] => 42
+                    [pc] => 3
+                )
+
+            [83] => Array
+                (
+                    [self] => 1009250
+                    [id] => 1863
+                    [counter] => 1
+                    [position] => 42
+                    [pc] => 3
+                )
+
+            [84] => Array
+                (
+                    [self] => 1009250
+                    [id] => 1870
+                    [counter] => 1
+                    [position] => 42
+                    [pc] => 3
+                )
+
+            [85] => Array
+                (
+                    [self] => 1009250
+                    [id] => 1967
+                    [counter] => 1
+                    [position] => 42
+                    [pc] => 3
+                )
+
+            [86] => Array
+                (
+                    [self] => 1009250
+                    [id] => 2101
+                    [counter] => 1
+                    [position] => 42
+                    [pc] => 3
+                )
+
+            [87] => Array
+                (
+                    [self] => 1009250
+                    [id] => 2115
+                    [counter] => 1
+                    [position] => 42
+                    [pc] => 3
+                )
+
+            [88] => Array
+                (
+                    [self] => 1009250
+                    [id] => 2178
+                    [counter] => 1
+                    [position] => 42
+                    [pc] => 3
+                )
+
+            [89] => Array
+                (
+                    [self] => 1009250
+                    [id] => 2180
+                    [counter] => 1
+                    [position] => 42
+                    [pc] => 3
+                )
+
+            [90] => Array
+                (
+                    [self] => 1009250
+                    [id] => 2666
+                    [counter] => 1
+                    [position] => 42
+                    [pc] => 3
+                )
+
+            [91] => Array
+                (
+                    [self] => 1009250
+                    [id] => 2737
+                    [counter] => 1
+                    [position] => 42
+                    [pc] => 3
+                )
+
+            [92] => Array
+                (
+                    [self] => 1009250
+                    [id] => 2856
+                    [counter] => 1
+                    [position] => 42
+                    [pc] => 3
+                )
+
+            [93] => Array
+                (
+                    [self] => 1009250
+                    [id] => 3325
+                    [counter] => 1
+                    [position] => 42
+                    [pc] => 3
+                )
+
+            [94] => Array
+                (
+                    [self] => 1009250
+                    [id] => 3329
+                    [counter] => 1
+                    [position] => 42
+                    [pc] => 3
+                )
+
+            [95] => Array
+                (
+                    [self] => 1009250
+                    [id] => 3446
+                    [counter] => 1
+                    [position] => 42
+                    [pc] => 3
+                )
+
+            [96] => Array
+                (
+                    [self] => 1009250
+                    [id] => 3727
+                    [counter] => 1
+                    [position] => 42
+                    [pc] => 3
+                )
+
+            [97] => Array
+                (
+                    [self] => 1009250
+                    [id] => 3876
+                    [counter] => 1
+                    [position] => 42
+                    [pc] => 3
+                )
+
+            [98] => Array
+                (
+                    [self] => 1009250
+                    [id] => 4010
+                    [counter] => 1
+                    [position] => 42
+                    [pc] => 3
+                )
+
+            [99] => Array
+                (
+                    [self] => 1009250
+                    [id] => 4135
+                    [counter] => 1
+                    [position] => 42
+                    [pc] => 3
+                )
+
+            [100] => Array
+                (
+                    [self] => 1009250
+                    [id] => 4156
+                    [counter] => 1
+                    [position] => 42
+                    [pc] => 3
+                )
+
+            [101] => Array
+                (
+                    [self] => 1009250
+                    [id] => 4207
+                    [counter] => 1
+                    [position] => 42
+                    [pc] => 3
+                )
+
+            [102] => Array
+                (
+                    [self] => 1009250
+                    [id] => 4221
+                    [counter] => 1
+                    [position] => 42
+                    [pc] => 3
+                )
+
+            [103] => Array
+                (
+                    [self] => 1009250
+                    [id] => 4225
+                    [counter] => 1
+                    [position] => 42
+                    [pc] => 3
+                )
+
+            [104] => Array
+                (
+                    [self] => 1009250
+                    [id] => 4267
+                    [counter] => 1
+                    [position] => 42
+                    [pc] => 3
+                )
+
+            [105] => Array
+                (
+                    [self] => 1009250
+                    [id] => 4465
+                    [counter] => 1
+                    [position] => 42
+                    [pc] => 3
+                )
+
+            [106] => Array
+                (
+                    [self] => 1009250
+                    [id] => 4475
+                    [counter] => 1
+                    [position] => 42
+                    [pc] => 3
+                )
+
+            [107] => Array
+                (
+                    [self] => 1009250
+                    [id] => 4497
+                    [counter] => 1
+                    [position] => 42
+                    [pc] => 3
+                )
+
+            [108] => Array
+                (
+                    [self] => 1009250
+                    [id] => 4569
+                    [counter] => 1
+                    [position] => 42
+                    [pc] => 3
+                )
+
+            [109] => Array
+                (
+                    [self] => 1009250
+                    [id] => 5144
+                    [counter] => 1
+                    [position] => 42
+                    [pc] => 3
+                )
+
+            [110] => Array
+                (
+                    [self] => 1009250
+                    [id] => 5433
+                    [counter] => 1
+                    [position] => 42
+                    [pc] => 3
+                )
+
+            [111] => Array
+                (
+                    [self] => 1009250
+                    [id] => 5698
+                    [counter] => 1
+                    [position] => 42
+                    [pc] => 3
+                )
+
+            [112] => Array
+                (
+                    [self] => 1009250
+                    [id] => 5789
+                    [counter] => 1
+                    [position] => 42
+                    [pc] => 3
+                )
+
+            [113] => Array
+                (
+                    [self] => 1009250
+                    [id] => 5805
+                    [counter] => 1
+                    [position] => 42
+                    [pc] => 3
+                )
+
+            [114] => Array
+                (
+                    [self] => 1009250
+                    [id] => 5820
+                    [counter] => 1
+                    [position] => 42
+                    [pc] => 3
+                )
+
+            [115] => Array
+                (
+                    [self] => 1009250
+                    [id] => 5837
+                    [counter] => 1
+                    [position] => 42
+                    [pc] => 3
+                )
+
+            [116] => Array
+                (
+                    [self] => 1009250
+                    [id] => 1000052
+                    [counter] => 1
+                    [position] => 42
+                    [pc] => 3
+                )
+
+            [117] => Array
+                (
+                    [self] => 1009250
+                    [id] => 1000113
+                    [counter] => 1
+                    [position] => 42
+                    [pc] => 3
+                )
+
+            [118] => Array
+                (
+                    [self] => 1009250
+                    [id] => 1000233
+                    [counter] => 1
+                    [position] => 42
+                    [pc] => 3
+                )
+
+            [119] => Array
+                (
+                    [self] => 1009250
+                    [id] => 1000313
+                    [counter] => 1
+                    [position] => 42
+                    [pc] => 3
+                )
+
+            [120] => Array
+                (
+                    [self] => 1009250
+                    [id] => 1000384
+                    [counter] => 1
+                    [position] => 42
+                    [pc] => 3
+                )
+
+            [121] => Array
+                (
+                    [self] => 1009250
+                    [id] => 1000388
+                    [counter] => 1
+                    [position] => 42
+                    [pc] => 3
+                )
+
+            [122] => Array
+                (
+                    [self] => 1009250
+                    [id] => 1000506
+                    [counter] => 1
+                    [position] => 42
+                    [pc] => 3
+                )
+
+            [123] => Array
+                (
+                    [self] => 1009250
+                    [id] => 1000624
+                    [counter] => 1
+                    [position] => 42
+                    [pc] => 3
+                )
+
+            [124] => Array
+                (
+                    [self] => 1009250
+                    [id] => 1000658
+                    [counter] => 1
+                    [position] => 42
+                    [pc] => 3
+                )
+
+            [125] => Array
+                (
+                    [self] => 1009250
+                    [id] => 1000660
+                    [counter] => 1
+                    [position] => 42
+                    [pc] => 3
+                )
+
+            [126] => Array
+                (
+                    [self] => 1009250
+                    [id] => 1000737
+                    [counter] => 1
+                    [position] => 42
+                    [pc] => 3
+                )
+
+            [127] => Array
+                (
+                    [self] => 1009250
+                    [id] => 1000931
+                    [counter] => 1
+                    [position] => 42
+                    [pc] => 3
+                )
+
+            [128] => Array
+                (
+                    [self] => 1009250
+                    [id] => 1001148
+                    [counter] => 1
+                    [position] => 42
+                    [pc] => 3
+                )
+
+            [129] => Array
+                (
+                    [self] => 1009250
+                    [id] => 1001169
+                    [counter] => 1
+                    [position] => 42
+                    [pc] => 3
+                )
+
+            [130] => Array
+                (
+                    [self] => 1009250
+                    [id] => 1001198
+                    [counter] => 1
+                    [position] => 42
+                    [pc] => 3
+                )
+
+            [131] => Array
+                (
+                    [self] => 1009250
+                    [id] => 1001278
+                    [counter] => 1
+                    [position] => 42
+                    [pc] => 3
+                )
+
+            [132] => Array
+                (
+                    [self] => 1009250
+                    [id] => 1001354
+                    [counter] => 1
+                    [position] => 42
+                    [pc] => 3
+                )
+
+            [133] => Array
+                (
+                    [self] => 1009250
+                    [id] => 1001362
+                    [counter] => 1
+                    [position] => 42
+                    [pc] => 3
+                )
+
+            [134] => Array
+                (
+                    [self] => 1009250
+                    [id] => 1001363
+                    [counter] => 1
+                    [position] => 42
+                    [pc] => 3
+                )
+
+            [135] => Array
+                (
+                    [self] => 1009250
+                    [id] => 1001365
+                    [counter] => 1
+                    [position] => 42
+                    [pc] => 3
+                )
+
+            [136] => Array
+                (
+                    [self] => 1009250
+                    [id] => 1001428
+                    [counter] => 1
+                    [position] => 42
+                    [pc] => 3
+                )
+
+            [137] => Array
+                (
+                    [self] => 1009250
+                    [id] => 1001529
+                    [counter] => 1
+                    [position] => 42
+                    [pc] => 3
+                )
+
+            [138] => Array
+                (
+                    [self] => 1009250
+                    [id] => 1001592
+                    [counter] => 1
+                    [position] => 42
+                    [pc] => 3
+                )
+
+            [139] => Array
+                (
+                    [self] => 1009250
+                    [id] => 1001741
+                    [counter] => 1
+                    [position] => 42
+                    [pc] => 3
+                )
+
+            [140] => Array
+                (
+                    [self] => 1009250
+                    [id] => 1001770
+                    [counter] => 1
+                    [position] => 42
+                    [pc] => 3
+                )
+
+            [141] => Array
+                (
+                    [self] => 1009250
+                    [id] => 1001887
+                    [counter] => 1
+                    [position] => 42
+                    [pc] => 3
+                )
+
+            [142] => Array
+                (
+                    [self] => 1009250
+                    [id] => 1001898
+                    [counter] => 1
+                    [position] => 42
+                    [pc] => 3
+                )
+
+            [143] => Array
+                (
+                    [self] => 1009250
+                    [id] => 1002097
+                    [counter] => 1
+                    [position] => 42
+                    [pc] => 3
+                )
+
+            [144] => Array
+                (
+                    [self] => 1009250
+                    [id] => 1002262
+                    [counter] => 1
+                    [position] => 42
+                    [pc] => 3
+                )
+
+            [145] => Array
+                (
+                    [self] => 1009250
+                    [id] => 1002457
+                    [counter] => 1
+                    [position] => 42
+                    [pc] => 3
+                )
+
+            [146] => Array
+                (
+                    [self] => 1009250
+                    [id] => 1002465
+                    [counter] => 1
+                    [position] => 42
+                    [pc] => 3
+                )
+
+            [147] => Array
+                (
+                    [self] => 1009250
+                    [id] => 1002818
+                    [counter] => 1
+                    [position] => 42
+                    [pc] => 3
+                )
+
+            [148] => Array
+                (
+                    [self] => 1009250
+                    [id] => 1003154
+                    [counter] => 1
+                    [position] => 42
+                    [pc] => 3
+                )
+
+            [149] => Array
+                (
+                    [self] => 1009250
+                    [id] => 1003538
+                    [counter] => 1
+                    [position] => 42
+                    [pc] => 3
+                )
+
+            [150] => Array
+                (
+                    [self] => 1009250
+                    [id] => 1003870
+                    [counter] => 1
+                    [position] => 42
+                    [pc] => 3
+                )
+
+            [151] => Array
+                (
+                    [self] => 1009250
+                    [id] => 1003886
+                    [counter] => 1
+                    [position] => 42
+                    [pc] => 3
+                )
+
+            [152] => Array
+                (
+                    [self] => 1009250
+                    [id] => 1004997
+                    [counter] => 1
+                    [position] => 42
+                    [pc] => 3
+                )
+
+            [153] => Array
+                (
+                    [self] => 1009250
+                    [id] => 1006062
+                    [counter] => 1
+                    [position] => 42
+                    [pc] => 3
+                )
+
+            [154] => Array
+                (
+                    [self] => 1009250
+                    [id] => 1006065
+                    [counter] => 1
+                    [position] => 42
+                    [pc] => 3
+                )
+
+            [155] => Array
+                (
+                    [self] => 1009250
+                    [id] => 1006124
+                    [counter] => 1
+                    [position] => 42
+                    [pc] => 3
+                )
+
+            [156] => Array
+                (
+                    [self] => 1009250
+                    [id] => 1006177
+                    [counter] => 1
+                    [position] => 42
+                    [pc] => 3
+                )
+
+            [157] => Array
+                (
+                    [self] => 1009250
+                    [id] => 1006245
+                    [counter] => 1
+                    [position] => 42
+                    [pc] => 3
+                )
+
+            [158] => Array
+                (
+                    [self] => 1009250
+                    [id] => 1006427
+                    [counter] => 1
+                    [position] => 42
+                    [pc] => 3
+                )
+
+            [159] => Array
+                (
+                    [self] => 1009250
+                    [id] => 1006924
+                    [counter] => 1
+                    [position] => 42
+                    [pc] => 3
+                )
+
+            [160] => Array
+                (
+                    [self] => 1009250
+                    [id] => 1007187
+                    [counter] => 1
+                    [position] => 42
+                    [pc] => 3
+                )
+
+            [161] => Array
+                (
+                    [self] => 1009250
+                    [id] => 1007558
+                    [counter] => 1
+                    [position] => 42
+                    [pc] => 3
+                )
+
+            [162] => Array
+                (
+                    [self] => 1009250
+                    [id] => 1007991
+                    [counter] => 1
+                    [position] => 42
+                    [pc] => 3
+                )
+
+            [163] => Array
+                (
+                    [self] => 1009250
+                    [id] => 1008053
+                    [counter] => 1
+                    [position] => 42
+                    [pc] => 3
+                )
+
+            [164] => Array
+                (
+                    [self] => 1009250
+                    [id] => 1008337
+                    [counter] => 1
+                    [position] => 42
+                    [pc] => 3
+                )
+
+            [165] => Array
+                (
+                    [self] => 1009250
+                    [id] => 1008426
+                    [counter] => 1
+                    [position] => 42
+                    [pc] => 3
+                )
+
+            [166] => Array
+                (
+                    [self] => 1009250
+                    [id] => 1008663
+                    [counter] => 1
+                    [position] => 42
+                    [pc] => 3
+                )
+
+            [167] => Array
+                (
+                    [self] => 1009250
+                    [id] => 1010030
+                    [counter] => 1
+                    [position] => 42
+                    [pc] => 3
+                )
+
+            [168] => Array
+                (
+                    [self] => 1009250
+                    [id] => 1010370
+                    [counter] => 1
+                    [position] => 42
+                    [pc] => 3
+                )
+
+            [169] => Array
+                (
+                    [self] => 1009250
+                    [id] => 1010433
+                    [counter] => 1
+                    [position] => 42
+                    [pc] => 3
+                )
+
+            [170] => Array
+                (
+                    [self] => 1009250
+                    [id] => 1010442
+                    [counter] => 1
+                    [position] => 42
+                    [pc] => 3
+                )
+
+            [171] => Array
+                (
+                    [self] => 1009250
+                    [id] => 1010499
+                    [counter] => 1
+                    [position] => 42
+                    [pc] => 3
+                )
+
+            [172] => Array
+                (
+                    [self] => 1009250
+                    [id] => 1010953
+                    [counter] => 1
+                    [position] => 42
+                    [pc] => 3
+                )
+
+            [173] => Array
+                (
+                    [self] => 1009250
+                    [id] => 1011231
+                    [counter] => 1
+                    [position] => 42
+                    [pc] => 3
+                )
+
+            [174] => Array
+                (
+                    [self] => 1009250
+                    [id] => 1011761
+                    [counter] => 1
+                    [position] => 42
+                    [pc] => 3
+                )
+
+            [175] => Array
+                (
+                    [self] => 1009250
+                    [id] => 1012261
+                    [counter] => 1
+                    [position] => 42
+                    [pc] => 3
+                )
+
+            [176] => Array
+                (
+                    [self] => 1009250
+                    [id] => 1013062
+                    [counter] => 1
+                    [position] => 42
+                    [pc] => 3
+                )
+
+            [177] => Array
+                (
+                    [self] => 1009250
+                    [id] => 1013657
+                    [counter] => 1
+                    [position] => 42
+                    [pc] => 3
+                )
+
+            [178] => Array
+                (
+                    [self] => 1009250
+                    [id] => 1013931
+                    [counter] => 1
+                    [position] => 42
+                    [pc] => 3
+                )
+
+            [179] => Array
+                (
+                    [self] => 1009250
+                    [id] => 1015918
+                    [counter] => 1
+                    [position] => 42
+                    [pc] => 3
+                )
+
+            [180] => Array
+                (
+                    [self] => 1009250
+                    [id] => 1016851
+                    [counter] => 1
+                    [position] => 42
+                    [pc] => 3
+                )
+
+            [181] => Array
+                (
+                    [self] => 1009250
+                    [id] => 1017196
+                    [counter] => 1
+                    [position] => 42
+                    [pc] => 3
+                )
+
+            [182] => Array
+                (
+                    [self] => 1009250
+                    [id] => 1017591
+                    [counter] => 1
+                    [position] => 42
+                    [pc] => 3
+                )
+
+            [183] => Array
+                (
+                    [self] => 1009250
+                    [id] => 1018655
+                    [counter] => 1
+                    [position] => 42
+                    [pc] => 3
+                )
+
+            [184] => Array
+                (
+                    [self] => 1009250
+                    [id] => 1018994
+                    [counter] => 1
+                    [position] => 42
+                    [pc] => 3
+                )
+
+            [185] => Array
+                (
+                    [self] => 1009250
+                    [id] => 1019186
+                    [counter] => 1
+                    [position] => 42
+                    [pc] => 3
+                )
+
+            [186] => Array
+                (
+                    [self] => 1009250
+                    [id] => 1019977
+                    [counter] => 1
+                    [position] => 42
+                    [pc] => 3
+                )
+
+            [187] => Array
+                (
+                    [self] => 1009250
+                    [id] => 1020086
+                    [counter] => 1
+                    [position] => 42
+                    [pc] => 3
+                )
+
+            [188] => Array
+                (
+                    [self] => 1009250
+                    [id] => 1023028
+                    [counter] => 1
+                    [position] => 42
+                    [pc] => 3
+                )
+
+            [189] => Array
+                (
+                    [self] => 1009250
+                    [id] => 1024015
+                    [counter] => 1
+                    [position] => 42
+                    [pc] => 3
+                )
+
+            [190] => Array
+                (
+                    [self] => 1009250
+                    [id] => 1024778
+                    [counter] => 1
+                    [position] => 42
+                    [pc] => 3
+                )
+
+            [191] => Array
+                (
+                    [self] => 1009250
+                    [id] => 1027866
+                    [counter] => 1
+                    [position] => 42
+                    [pc] => 3
+                )
+
+            [192] => Array
+                (
+                    [self] => 1009250
+                    [id] => 1028418
+                    [counter] => 1
+                    [position] => 42
+                    [pc] => 3
+                )
+
+            [193] => Array
+                (
+                    [self] => 1009250
+                    [id] => 1032956
+                    [counter] => 1
+                    [position] => 42
+                    [pc] => 3
+                )
+
+            [194] => Array
+                (
+                    [self] => 1009250
+                    [id] => 1041339
+                    [counter] => 1
+                    [position] => 42
+                    [pc] => 3
+                )
+
+            [195] => Array
+                (
+                    [self] => 1009250
+                    [id] => 1049764
+                    [counter] => 1
+                    [position] => 42
+                    [pc] => 3
+                )
+
+            [196] => Array
+                (
+                    [self] => 1009250
+                    [id] => 1073822
+                    [counter] => 1
+                    [position] => 42
+                    [pc] => 3
+                )
+
+            [197] => Array
+                (
+                    [self] => 1009250
+                    [id] => 1087395
+                    [counter] => 1
+                    [position] => 42
+                    [pc] => 3
+                )
+
+            [198] => Array
+                (
+                    [self] => 1009250
+                    [id] => 1087828
+                    [counter] => 1
+                    [position] => 42
+                    [pc] => 3
+                )
+
+            [199] => Array
+                (
+                    [self] => 1009250
+                    [id] => 1089274
+                    [counter] => 1
+                    [position] => 42
+                    [pc] => 3
+                )
+
+            [200] => Array
+                (
+                    [self] => 1009250
+                    [id] => 1089553
+                    [counter] => 1
+                    [position] => 42
+                    [pc] => 3
+                )
+
+            [201] => Array
+                (
+                    [self] => 1009250
+                    [id] => 1119460
+                    [counter] => 1
+                    [position] => 42
+                    [pc] => 3
+                )
+
+            [202] => Array
+                (
+                    [self] => 1009250
+                    [id] => 1123191
+                    [counter] => 1
+                    [position] => 42
+                    [pc] => 3
+                )
+
+            [203] => Array
+                (
+                    [self] => 1009250
+                    [id] => 1210562
+                    [counter] => 1
+                    [position] => 42
+                    [pc] => 3
+                )
+
+            [204] => Array
+                (
+                    [self] => 1009250
+                    [id] => 1233130
+                    [counter] => 1
+                    [position] => 42
+                    [pc] => 3
+                )
+
+            [205] => Array
+                (
+                    [self] => 1009250
+                    [id] => 1233217
+                    [counter] => 1
+                    [position] => 42
+                    [pc] => 3
+                )
+
+            [206] => Array
+                (
+                    [self] => 1009250
+                    [id] => 1233313
+                    [counter] => 1
+                    [position] => 42
+                    [pc] => 3
+                )
+
+            [207] => Array
+                (
+                    [self] => 1009250
+                    [id] => 1233516
+                    [counter] => 1
+                    [position] => 42
+                    [pc] => 3
+                )
+
+            [208] => Array
+                (
+                    [self] => 1009250
+                    [id] => 1233975
+                    [counter] => 1
+                    [position] => 42
+                    [pc] => 3
+                )
+
+            [209] => Array
+                (
+                    [self] => 1009250
+                    [id] => 1234472
+                    [counter] => 1
+                    [position] => 42
+                    [pc] => 3
+                )
+
+            [210] => Array
+                (
+                    [self] => 1009250
+                    [id] => 1234867
+                    [counter] => 1
+                    [position] => 42
+                    [pc] => 3
+                )
+
+            [211] => Array
+                (
+                    [self] => 1009250
+                    [id] => 1235129
+                    [counter] => 1
+                    [position] => 42
+                    [pc] => 3
+                )
+
+            [212] => Array
+                (
+                    [self] => 1009250
+                    [id] => 1236902
+                    [counter] => 1
+                    [position] => 42
+                    [pc] => 3
+                )
+
+            [213] => Array
+                (
+                    [self] => 1009250
+                    [id] => 1238542
+                    [counter] => 1
+                    [position] => 42
+                    [pc] => 3
+                )
+
+            [214] => Array
+                (
+                    [self] => 1009250
+                    [id] => 1240103
+                    [counter] => 1
+                    [position] => 42
+                    [pc] => 3
+                )
+
+            [215] => Array
+                (
+                    [self] => 1009250
+                    [id] => 1240266
+                    [counter] => 1
+                    [position] => 42
+                    [pc] => 3
+                )
+
+            [216] => Array
+                (
+                    [self] => 1009250
+                    [id] => 1245557
+                    [counter] => 1
+                    [position] => 42
+                    [pc] => 3
+                )
+
+            [217] => Array
+                (
+                    [self] => 1009250
+                    [id] => 1248276
+                    [counter] => 1
+                    [position] => 42
+                    [pc] => 3
+                )
+
+            [218] => Array
+                (
+                    [self] => 1009250
+                    [id] => 1250233
+                    [counter] => 1
+                    [position] => 42
+                    [pc] => 3
+                )
+
+            [219] => Array
+                (
+                    [self] => 1009250
+                    [id] => 1252363
+                    [counter] => 1
+                    [position] => 42
+                    [pc] => 3
+                )
+
+            [220] => Array
+                (
+                    [self] => 1009250
+                    [id] => 1253792
+                    [counter] => 1
+                    [position] => 42
+                    [pc] => 3
+                )
+
+            [221] => Array
+                (
+                    [self] => 1009250
+                    [id] => 1255886
+                    [counter] => 1
+                    [position] => 42
+                    [pc] => 3
+                )
+
+            [222] => Array
+                (
+                    [self] => 1009250
+                    [id] => 1258438
+                    [counter] => 1
+                    [position] => 42
+                    [pc] => 3
+                )
+
+            [223] => Array
+                (
+                    [self] => 1009250
+                    [id] => 1284116
+                    [counter] => 1
+                    [position] => 42
+                    [pc] => 3
+                )
+
+            [224] => Array
+                (
+                    [self] => 1009250
+                    [id] => 1290484
+                    [counter] => 1
+                    [position] => 42
+                    [pc] => 3
+                )
+
+            [225] => Array
+                (
+                    [self] => 1009250
+                    [id] => 1294191
+                    [counter] => 1
+                    [position] => 42
+                    [pc] => 3
+                )
+
+            [226] => Array
+                (
+                    [self] => 1009250
+                    [id] => 1300905
+                    [counter] => 1
+                    [position] => 42
+                    [pc] => 3
+                )
+
+            [227] => Array
+                (
+                    [self] => 1009250
+                    [id] => 1314223
+                    [counter] => 1
+                    [position] => 42
+                    [pc] => 3
+                )
+
+            [228] => Array
+                (
+                    [self] => 1009250
+                    [id] => 2075828
+                    [counter] => 1
+                    [position] => 42
+                    [pc] => 3
+                )
+
+            [229] => Array
+                (
+                    [self] => 1009250
+                    [id] => 2092760
+                    [counter] => 1
+                    [position] => 42
+                    [pc] => 3
+                )
+
+            [230] => Array
+                (
+                    [self] => 1009250
+                    [id] => 2129380
+                    [counter] => 1
+                    [position] => 42
+                    [pc] => 3
+                )
+
+            [231] => Array
+                (
+                    [self] => 1009250
+                    [id] => 6656471
+                    [counter] => 1
+                    [position] => 42
+                    [pc] => 3
+                )
+
+            [232] => Array
+                (
+                    [self] => 1009250
+                    [id] => 6853841
+                    [counter] => 1
+                    [position] => 42
+                    [pc] => 3
+                )
+
+            [233] => Array
+                (
+                    [self] => 1009250
+                    [id] => 6853867
+                    [counter] => 1
+                    [position] => 42
+                    [pc] => 3
+                )
+
+            [234] => Array
+                (
+                    [self] => 1009250
+                    [id] => 6987917
+                    [counter] => 1
+                    [position] => 42
+                    [pc] => 3
+                )
+
+            [235] => Array
+                (
+                    [self] => 1009250
+                    [id] => 12704180
+                    [counter] => 1
+                    [position] => 42
+                    [pc] => 3
+                )
+
+            [236] => Array
+                (
+                    [self] => 1009250
+                    [id] => 12705014
+                    [counter] => 1
+                    [position] => 42
+                    [pc] => 3
+                )
+
+            [237] => Array
+                (
+                    [self] => 1009250
+                    [id] => 13637135
+                    [counter] => 1
+                    [position] => 42
+                    [pc] => 3
+                )
+
+            [238] => Array
+                (
+                    [self] => 1009250
+                    [id] => 13697352
+                    [counter] => 1
+                    [position] => 42
+                    [pc] => 3
+                )
+
+            [239] => Array
+                (
+                    [self] => 1009250
+                    [id] => 13697471
+                    [counter] => 1
+                    [position] => 42
+                    [pc] => 3
+                )
+
+            [240] => Array
+                (
+                    [self] => 1009250
+                    [id] => 13697507
+                    [counter] => 1
+                    [position] => 42
+                    [pc] => 3
+                )
+
+            [241] => Array
+                (
+                    [self] => 1009250
+                    [id] => 13697530
+                    [counter] => 1
+                    [position] => 42
+                    [pc] => 3
+                )
+
+            [242] => Array
+                (
+                    [self] => 1009250
+                    [id] => 13889228
+                    [counter] => 1
+                    [position] => 42
+                    [pc] => 3
+                )
+
+            [243] => Array
+                (
+                    [self] => 1009250
+                    [id] => 16061331
+                    [counter] => 1
+                    [position] => 42
+                    [pc] => 3
+                )
+
+        )
+
+    [_converted] => Array
+        (
+        )
+
+    [_size] => 244
+    [_datatype] => 1
+    [_metadata] => Array
+        (
+            [from] => date Object
+                (
+                    [year] => 2006
+                    [month] => 10
+                    [day] => 01
+                    [hour] => 12
+                    [minute] => 00
+                    [second] => 00
+                    [partsecond] => 0
+                    [tz] => date_timezone Object
+                        (
+                            [id] => GMT
+                            [longname] => Greenwich Mean Time
+                            [shortname] => GMT
+                            [hasdst] => 
+                            [dstlongname] => Greenwich Mean Time
+                            [dstshortname] => GMT
+                            [offset] => 0
+                            [default] => 
+                        )
+
+                )
+
+            [to] => date Object
+                (
+                    [year] => 2006
+                    [month] => 10
+                    [day] => 08
+                    [hour] => 12
+                    [minute] => 00
+                    [second] => 00
+                    [partsecond] => 0
+                    [tz] => date_timezone Object
+                        (
+                            [id] => GMT
+                            [longname] => Greenwich Mean Time
+                            [shortname] => GMT
+                            [hasdst] => 
+                            [dstlongname] => Greenwich Mean Time
+                            [dstshortname] => GMT
+                            [offset] => 0
+                            [default] => 
+                        )
+
+                )
+
+        )
+
+    [_dbconstant] => 
+    [_iterated] => 0
+    [_wrapperimages] => 0
+    [_listid] => 
+    [_allowDuplicates] => 
+    [_feeds] => Array
+        (
+        )
+
+    [_page] => 0
+    [_perpage] => 0
+    [_pagedone] => 0
+    [_listrestype] => 6
+    [_type] => 
+    [_getmode] => 1
+    [_idhash] => Array
+        (
+            [59] => 0
+            [1268720] => 1
+            [234] => 2
+            [1105360] => 3
+            [352] => 4
+            [1] => 5
+            [1002220] => 6
+            [1003352] => 7
+            [1231740] => 8
+            [1413] => 9
+            [2823] => 10
+            [1160349] => 11
+            [1254198] => 12
+            [1234027] => 13
+            [2037] => 14
+            [1003430] => 15
+            [4241] => 16
+            [1270639] => 17
+            [1148] => 18
+            [1007641] => 19
+            [9991454] => 20
+            [121] => 21
+            [15] => 22
+            [63] => 23
+            [206] => 24
+            [302] => 25
+            [742] => 26
+            [1158] => 27
+            [4623] => 28
+            [1000996] => 29
+            [1001134] => 30
+            [1001443] => 31
+            [1001531] => 32
+            [1001550] => 33
+            [1003342] => 34
+            [1004701] => 35
+            [1021089] => 36
+            [1036611] => 37
+            [1233770] => 38
+            [13683431] => 39
+            [15453066] => 40
+            [2] => 41
+            [70] => 42
+            [90] => 43
+            [106] => 44
+            [118] => 45
+            [122] => 46
+            [151] => 47
+            [231] => 48
+            [232] => 49
+            [237] => 50
+            [238] => 51
+            [300] => 52
+            [452] => 53
+            [463] => 54
+            [530] => 55
+            [699] => 56
+            [708] => 57
+            [848] => 58
+            [857] => 59
+            [891] => 60
+            [911] => 61
+            [964] => 62
+            [1159] => 63
+            [1168] => 64
+            [1171] => 65
+            [1172] => 66
+            [1177] => 67
+            [1181] => 68
+            [1186] => 69
+            [1192] => 70
+            [1212] => 71
+            [1252] => 72
+            [1259] => 73
+            [1262] => 74
+            [1270] => 75
+            [1273] => 76
+            [1301] => 77
+            [1303] => 78
+            [1306] => 79
+            [1307] => 80
+            [1319] => 81
+            [1839] => 82
+            [1863] => 83
+            [1870] => 84
+            [1967] => 85
+            [2101] => 86
+            [2115] => 87
+            [2178] => 88
+            [2180] => 89
+            [2666] => 90
+            [2737] => 91
+            [2856] => 92
+            [3325] => 93
+            [3329] => 94
+            [3446] => 95
+            [3727] => 96
+            [3876] => 97
+            [4010] => 98
+            [4135] => 99
+            [4156] => 100
+            [4207] => 101
+            [4221] => 102
+            [4225] => 103
+            [4267] => 104
+            [4465] => 105
+            [4475] => 106
+            [4497] => 107
+            [4569] => 108
+            [5144] => 109
+            [5433] => 110
+            [5698] => 111
+            [5789] => 112
+            [5805] => 113
+            [5820] => 114
+            [5837] => 115
+            [1000052] => 116
+            [1000113] => 117
+            [1000233] => 118
+            [1000313] => 119
+            [1000384] => 120
+            [1000388] => 121
+            [1000506] => 122
+            [1000624] => 123
+            [1000658] => 124
+            [1000660] => 125
+            [1000737] => 126
+            [1000931] => 127
+            [1001148] => 128
+            [1001169] => 129
+            [1001198] => 130
+            [1001278] => 131
+            [1001354] => 132
+            [1001362] => 133
+            [1001363] => 134
+            [1001365] => 135
+            [1001428] => 136
+            [1001529] => 137
+            [1001592] => 138
+            [1001741] => 139
+            [1001770] => 140
+            [1001887] => 141
+            [1001898] => 142
+            [1002097] => 143
+            [1002262] => 144
+            [1002457] => 145
+            [1002465] => 146
+            [1002818] => 147
+            [1003154] => 148
+            [1003538] => 149
+            [1003870] => 150
+            [1003886] => 151
+            [1004997] => 152
+            [1006062] => 153
+            [1006065] => 154
+            [1006124] => 155
+            [1006177] => 156
+            [1006245] => 157
+            [1006427] => 158
+            [1006924] => 159
+            [1007187] => 160
+            [1007558] => 161
+            [1007991] => 162
+            [1008053] => 163
+            [1008337] => 164
+            [1008426] => 165
+            [1008663] => 166
+            [1010030] => 167
+            [1010370] => 168
+            [1010433] => 169
+            [1010442] => 170
+            [1010499] => 171
+            [1010953] => 172
+            [1011231] => 173
+            [1011761] => 174
+            [1012261] => 175
+            [1013062] => 176
+            [1013657] => 177
+            [1013931] => 178
+            [1015918] => 179
+            [1016851] => 180
+            [1017196] => 181
+            [1017591] => 182
+            [1018655] => 183
+            [1018994] => 184
+            [1019186] => 185
+            [1019977] => 186
+            [1020086] => 187
+            [1023028] => 188
+            [1024015] => 189
+            [1024778] => 190
+            [1027866] => 191
+            [1028418] => 192
+            [1032956] => 193
+            [1041339] => 194
+            [1049764] => 195
+            [1073822] => 196
+            [1087395] => 197
+            [1087828] => 198
+            [1089274] => 199
+            [1089553] => 200
+            [1119460] => 201
+            [1123191] => 202
+            [1210562] => 203
+            [1233130] => 204
+            [1233217] => 205
+            [1233313] => 206
+            [1233516] => 207
+            [1233975] => 208
+            [1234472] => 209
+            [1234867] => 210
+            [1235129] => 211
+            [1236902] => 212
+            [1238542] => 213
+            [1240103] => 214
+            [1240266] => 215
+            [1245557] => 216
+            [1248276] => 217
+            [1250233] => 218
+            [1252363] => 219
+            [1253792] => 220
+            [1255886] => 221
+            [1258438] => 222
+            [1284116] => 223
+            [1290484] => 224
+            [1294191] => 225
+            [1300905] => 226
+            [1314223] => 227
+            [2075828] => 228
+            [2092760] => 229
+            [2129380] => 230
+            [6656471] => 231
+            [6853841] => 232
+            [6853867] => 233
+            [6987917] => 234
+            [12704180] => 235
+            [12705014] => 236
+            [13637135] => 237
+            [13697352] => 238
+            [13697471] => 239
+            [13697507] => 240
+            [13697530] => 241
+            [13889228] => 242
+            [16061331] => 243
+        )
+
+    [_id] => 1:/charts/?resid=1009250&subject=user&charttype=artist&mode=weekly&daterange=1159704000-1160308800
+)

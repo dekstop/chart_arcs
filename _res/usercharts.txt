@@ -1,0 +1,67 @@
+array_pop($weeks)
+
+Array(       
+    [range] => 92    
+    [to] => 1159704000    
+    [from] => 1159099200    
+    [plays] => 271    
+    [tracks] => 176    
+    [albums] => 14    
+    [artists] => 33
+)
+
+
+$charts->getWeeklyArtistsData(10, $lastweek['range']);
+
+Array(    
+[10299196] => Array        (            
+    [artist] => 10299196            
+    [counter] => 60         )    
+[53] => Array        (            
+    [artist] => 53              
+    [counter] => 37         )    
+[1045212] => Array        (            
+    [artist] => 1045212            
+    [counter] => 26         )    
+[1005210] => Array        (            
+    [artist] => 1005210            
+    [counter] => 22         )    
+[6706868] => Array        (            
+    [artist] => 6706868            
+    [counter] => 17         )
+
+...)
+
+
+$artists = $charts->getWeeklyArtists(10, $lastweek['range']);
+Array(    
+[0] => artist Object        (            
+    [_restype] => 6            
+    [id] => 10299196            
+    [parent] =>            
+    [children] => Array                
+        (                
+        )            
+    [numchildren] =>            
+    [content] =>            
+    [_changed] =>            
+    [name] => The Chess Cadet Allstars            
+    [basedir] =>            
+    [mbid] =>            
+    [clean] =>            
+    [lastfm] => t            
+    [forum] =>            
+    [rankhistory] =>            
+    [resolution] =>            
+    [name_english] =>            
+    [literal] =>            
+    [allinfo] => no            
+    [extraData] => Array                
+    (                    
+        [artist] => 10299196                    
+        [counter] => 60                
+    )               
+    [counter] => 60        
+)       
+[1] => artist Object        (            
+... etc)

@@ -1,0 +1,653 @@
+
+Notice: Undefined offset:  1 in /web/site/www.staging.last.fm/lib/charts/charts.class.php on line 291
+
+Notice: Undefined offset:  1 in /web/site/www.staging.last.fm/lib/charts/charts.class.php on line 292
+
+Notice: Undefined offset:  2 in /web/site/www.staging.last.fm/lib/charts/charts.class.php on line 293
+
+Notice: Undefined offset:  1 in /web/site/www.staging.last.fm/lib/charts/charts.class.php on line 291
+
+Notice: Undefined offset:  1 in /web/site/www.staging.last.fm/lib/charts/charts.class.php on line 292
+
+Notice: Undefined offset:  2 in /web/site/www.staging.last.fm/lib/charts/charts.class.php on line 293
+
+Notice: Undefined offset:  1 in /web/site/www.staging.last.fm/lib/charts/charts.class.php on line 291
+
+Notice: Undefined offset:  1 in /web/site/www.staging.last.fm/lib/charts/charts.class.php on line 292
+
+Notice: Undefined offset:  2 in /web/site/www.staging.last.fm/lib/charts/charts.class.php on line 293
+
+Notice: Undefined offset:  1 in /web/site/www.staging.last.fm/lib/charts/charts.class.php on line 291
+
+Notice: Undefined offset:  1 in /web/site/www.staging.last.fm/lib/charts/charts.class.php on line 292
+
+Notice: Undefined offset:  2 in /web/site/www.staging.last.fm/lib/charts/charts.class.php on line 293
+
+Notice: Undefined offset:  1 in /web/site/www.staging.last.fm/lib/charts/charts.class.php on line 291
+
+Notice: Undefined offset:  1 in /web/site/www.staging.last.fm/lib/charts/charts.class.php on line 292
+
+Notice: Undefined offset:  2 in /web/site/www.staging.last.fm/lib/charts/charts.class.php on line 293
+
+Notice: Undefined offset:  1 in /web/site/www.staging.last.fm/lib/charts/charts.class.php on line 291
+
+Notice: Undefined offset:  1 in /web/site/www.staging.last.fm/lib/charts/charts.class.php on line 292
+
+Notice: Undefined offset:  2 in /web/site/www.staging.last.fm/lib/charts/charts.class.php on line 293
+
+Notice: Undefined offset:  1 in /web/site/www.staging.last.fm/lib/charts/charts.class.php on line 291
+
+Notice: Undefined offset:  1 in /web/site/www.staging.last.fm/lib/charts/charts.class.php on line 292
+
+Notice: Undefined offset:  2 in /web/site/www.staging.last.fm/lib/charts/charts.class.php on line 293
+
+Notice: Undefined offset:  1 in /web/site/www.staging.last.fm/lib/charts/charts.class.php on line 291
+
+Notice: Undefined offset:  1 in /web/site/www.staging.last.fm/lib/charts/charts.class.php on line 292
+
+Notice: Undefined offset:  2 in /web/site/www.staging.last.fm/lib/charts/charts.class.php on line 293
+
+Notice: Undefined offset:  1 in /web/site/www.staging.last.fm/lib/charts/charts.class.php on line 291
+
+Notice: Undefined offset:  1 in /web/site/www.staging.last.fm/lib/charts/charts.class.php on line 292
+
+Notice: Undefined offset:  2 in /web/site/www.staging.last.fm/lib/charts/charts.class.php on line 293
+
+Notice: Undefined offset:  1 in /web/site/www.staging.last.fm/lib/charts/charts.class.php on line 291
+
+Notice: Undefined offset:  1 in /web/site/www.staging.last.fm/lib/charts/charts.class.php on line 292
+
+Notice: Undefined offset:  2 in /web/site/www.staging.last.fm/lib/charts/charts.class.php on line 293
+
+Notice: Undefined offset:  1 in /web/site/www.staging.last.fm/lib/charts/charts.class.php on line 291
+
+Notice: Undefined offset:  1 in /web/site/www.staging.last.fm/lib/charts/charts.class.php on line 292
+
+Notice: Undefined offset:  2 in /web/site/www.staging.last.fm/lib/charts/charts.class.php on line 293
+
+Notice: Undefined offset:  1 in /web/site/www.staging.last.fm/lib/charts/charts.class.php on line 291
+
+Notice: Undefined offset:  1 in /web/site/www.staging.last.fm/lib/charts/charts.class.php on line 292
+
+Notice: Undefined offset:  2 in /web/site/www.staging.last.fm/lib/charts/charts.class.php on line 293
+<?xml version="1.0" encoding="UTF-8"?>
+<resource name="joanofarctan" restype="4" id="3078961">
+  <chart from="1143979202" to="1144584000">
+    <entry name="SND" counter="29"/>
+    <entry name="Various Artists" counter="22"/>
+    <entry name="Taylor Deupree" counter="8"/>
+    <entry name="Oliver Hacke" counter="8"/>
+    <entry name="Sogar" counter="7"/>
+    <entry name="Static" counter="6"/>
+    <entry name="Alva Noto / Ryuichi Sakamoto" counter="4"/>
+    <entry name="Gabriel Ananda" counter="3"/>
+  </chart>
+  <chart from="1144584000" to="1145188800">
+    <entry name="Vincent Gallo" counter="13"/>
+    <entry name="kid606" counter="11"/>
+    <entry name="Taylor Deupree" counter="10"/>
+    <entry name="Frank Bretschneider &amp; Taylor Deupree" counter="9"/>
+    <entry name="Jan Jelinek" counter="3"/>
+    <entry name="William Basinski" counter="3"/>
+    <entry name="The Promise Ring" counter="3"/>
+    <entry name="Battles" counter="2"/>
+    <entry name="Paolo Pandolfo" counter="2"/>
+    <entry name="Oval" counter="1"/>
+    <entry name="Sutekh" counter="1"/>
+    <entry name="Icarus" counter="1"/>
+    <entry name="Hecker" counter="1"/>
+    <entry name="Gabriel Ananda" counter="1"/>
+    <entry name="10-Juergen Paape" counter="1"/>
+    <entry name="Riley Reinhold &amp; Steve Barenes" counter="1"/>
+    <entry name="Jetpack Understand" counter="1"/>
+  </chart>
+  <chart from="1145188800" to="1145793600">
+    <entry name="William Basinski" counter="6"/>
+    <entry name="Bonnie 'Prince' Billy" counter="4"/>
+    <entry name="Komeit" counter="3"/>
+    <entry name="SCSI-9" counter="3"/>
+    <entry name="The Orb" counter="2"/>
+    <entry name="superpitcher" counter="2"/>
+    <entry name="Quarks" counter="2"/>
+    <entry name="mikkel metal" counter="2"/>
+    <entry name="Wassermann" counter="2"/>
+    <entry name="Node 1" counter="2"/>
+    <entry name="Philip Sherburne" counter="2"/>
+    <entry name="Paul Nazca/Paul Nazca" counter="2"/>
+    <entry name="Wighnomy Bros. And Robag Wruhm" counter="2"/>
+    <entry name="Coh" counter="1"/>
+    <entry name="Jan Jelinek" counter="1"/>
+    <entry name="Gang of Four" counter="1"/>
+    <entry name="CM Von Hausswolff" counter="1"/>
+    <entry name="Caro" counter="1"/>
+    <entry name="naum" counter="1"/>
+    <entry name="International Pony vs. Losoul" counter="1"/>
+    <entry name="安田成美" counter="1"/>
+    <entry name="戸川純" counter="1"/>
+    <entry name="中原理恵" counter="1"/>
+    <entry name="山下久美子" counter="1"/>
+    <entry name="小池玉緒" counter="1"/>
+    <entry name="Cyclo." counter="1"/>
+    <entry name="SHEENA &amp; THE ROKKETS" counter="1"/>
+    <entry name="前川清" counter="1"/>
+    <entry name="中原香織" counter="1"/>
+    <entry name="Tasmin Little &amp; Richard Studt, violins, Robert Aldwinckle, piano, Vasari Singers, Bournemouth Symphony Orchestra, Richard Studt" counter="1"/>
+    <entry name="Daniel H. Steinberg" counter="1"/>
+  </chart>
+  <chart from="1145793600" to="1146398400">
+    <entry name="Taylor Deupree" counter="13"/>
+    <entry name="Tasmin Little &amp; Richard Studt, violins, Robert Aldwinckle, piano, Vasari Singers, Bournemouth Symphony Orchestra, Richard Studt" counter="9"/>
+    <entry name="Hecker" counter="5"/>
+    <entry name="Tetsu Inoue &amp; Taylor Deupree" counter="3"/>
+    <entry name="Aphex Twin" counter="2"/>
+    <entry name="Battles" counter="2"/>
+    <entry name="Rhythm &amp; Sound" counter="1"/>
+    <entry name="Autechre" counter="1"/>
+    <entry name="Fennesz" counter="1"/>
+    <entry name="Pole" counter="1"/>
+    <entry name="Steve Reich" counter="1"/>
+    <entry name="Ryoji Ikeda" counter="1"/>
+    <entry name="Anthony Rother" counter="1"/>
+    <entry name="Thomas Fehlmann" counter="1"/>
+    <entry name="Swayzak" counter="1"/>
+    <entry name="Ellen Allien" counter="1"/>
+    <entry name="Michael Mayer" counter="1"/>
+    <entry name="William Basinski" counter="1"/>
+    <entry name="Murcof" counter="1"/>
+    <entry name="Arvo Pärt" counter="1"/>
+    <entry name="Loscil" counter="1"/>
+    <entry name="Alexander Kowalski" counter="1"/>
+    <entry name="Robag Wruhme" counter="1"/>
+    <entry name="The Village Orchestra" counter="1"/>
+    <entry name="taylor deupree - a100study00.01.31" counter="1"/>
+  </chart>
+  <chart from="1146398400" to="1147003200"/>
+  <chart from="1147003200" to="1147608000"/>
+  <chart from="1147608000" to="1148212800"/>
+  <chart from="1148212800" to="1148817600"/>
+  <chart from="1148817600" to="1149422400"/>
+  <chart from="1149422400" to="1150027200"/>
+  <chart from="1150027200" to="1150632000"/>
+  <chart from="1150632000" to="1151236800"/>
+  <chart from="1151236800" to="1151841600"/>
+  <chart from="1151841600" to="1152446400"/>
+  <chart from="1152446400" to="1153051200"/>
+  <chart from="1153051200" to="1153656000"/>
+  <chart from="1153656000" to="1154260800">
+    <entry name="Akira Rabelais" counter="100"/>
+    <entry name="REKId" counter="52"/>
+    <entry name="Cap'n Jazz" counter="39"/>
+    <entry name="Komet" counter="32"/>
+    <entry name="SND" counter="30"/>
+    <entry name="Frank Bretschneider &amp; Peter Duimelinks" counter="24"/>
+    <entry name="Trentemøller" counter="19"/>
+    <entry name="Ryoji Ikeda" counter="15"/>
+    <entry name="Stephan Mathieu" counter="15"/>
+    <entry name="Yellow Swans" counter="9"/>
+    <entry name="Peter Rehberg" counter="9"/>
+    <entry name="Jazkamer" counter="9"/>
+    <entry name="Pole" counter="8"/>
+    <entry name="Plaid" counter="4"/>
+    <entry name="Ry Cooder" counter="4"/>
+    <entry name="Taylor Deupree" counter="4"/>
+    <entry name="Burial" counter="4"/>
+    <entry name="Scuba" counter="4"/>
+    <entry name="AEROBIC STUDIO" counter="4"/>
+    <entry name="Fennesz" counter="3"/>
+    <entry name="The Get Up Kids" counter="3"/>
+    <entry name="Braid" counter="3"/>
+    <entry name="Ida" counter="3"/>
+    <entry name="Sweep the Leg Johnny" counter="3"/>
+    <entry name="Hal Al Shedad" counter="3"/>
+    <entry name="Rainer Maria" counter="3"/>
+    <entry name="Tim Kinsella" counter="3"/>
+    <entry name="Very Secretary" counter="3"/>
+    <entry name="Compound Red" counter="3"/>
+    <entry name="Jen Wood" counter="3"/>
+    <entry name="Giants Chair" counter="3"/>
+    <entry name="A Minor Forest" counter="3"/>
+    <entry name="Lasse Marhaug" counter="3"/>
+    <entry name="Cerberus Shoal" counter="3"/>
+    <entry name="CONCEPT 1" counter="3"/>
+    <entry name="still life" counter="3"/>
+    <entry name="MDK" counter="3"/>
+    <entry name="Ethel Meserve" counter="3"/>
+    <entry name="Burning Star Core" counter="3"/>
+    <entry name="Adam Kroll" counter="3"/>
+    <entry name="Alva Noto + Ryuichi Sakamoto" counter="3"/>
+    <entry name="The Deadwood Divine" counter="3"/>
+    <entry name="Haelah" counter="3"/>
+    <entry name="Marc Houle" counter="3"/>
+    <entry name="Tractile" counter="3"/>
+    <entry name="GAISER" counter="3"/>
+    <entry name="Claude Debussy" counter="2"/>
+    <entry name="Aspera Ad Astra" counter="2"/>
+    <entry name="Tetsu Inoue &amp; Taylor Deupree" counter="2"/>
+    <entry name="Tilman Ehrhorn" counter="2"/>
+    <entry name="AME" counter="2"/>
+    <entry name="Scott Walker" counter="1"/>
+    <entry name="Basic Channel" counter="1"/>
+    <entry name="reinhard voigt" counter="1"/>
+    <entry name="Britney Spears" counter="1"/>
+    <entry name="Os Mutantes" counter="1"/>
+    <entry name="Joan of Arc" counter="1"/>
+    <entry name="Gabriel Ananda" counter="1"/>
+    <entry name="Tom Zé" counter="1"/>
+    <entry name="Dominik Eulberg" counter="1"/>
+    <entry name="Jil Jilala" counter="1"/>
+    <entry name="Alex Under" counter="1"/>
+    <entry name="Bruno Belluomini" counter="1"/>
+    <entry name="Hamid Oussama" counter="1"/>
+  </chart>
+  <chart from="1154260800" to="1154865600">
+    <entry name="Fennesz" counter="411"/>
+    <entry name="Tim Hecker" counter="35"/>
+    <entry name="Noto" counter="17"/>
+    <entry name="Scott Walker" counter="14"/>
+    <entry name="Gas" counter="10"/>
+    <entry name="Trans Am" counter="7"/>
+    <entry name="Hecker" counter="7"/>
+    <entry name="Donnacha Costello" counter="5"/>
+    <entry name="Taylor Deupree" counter="4"/>
+    <entry name="Akira Rabelais" counter="3"/>
+    <entry name="Betrieb" counter="3"/>
+    <entry name="Talking Heads" counter="2"/>
+    <entry name="PAN•AMERICAN" counter="2"/>
+    <entry name="Gold Chains" counter="1"/>
+    <entry name="Ry Cooder" counter="1"/>
+    <entry name="sascha funke" counter="1"/>
+    <entry name="Barbara Morgenstern" counter="1"/>
+    <entry name="Ellen Allien" counter="1"/>
+    <entry name="AGF" counter="1"/>
+    <entry name="Apparat" counter="1"/>
+    <entry name="Braid" counter="1"/>
+    <entry name="Covenant" counter="1"/>
+    <entry name="Ida" counter="1"/>
+    <entry name="Tim Kinsella" counter="1"/>
+    <entry name="Cap'n Jazz" counter="1"/>
+    <entry name="Very Secretary" counter="1"/>
+    <entry name="explorer" counter="1"/>
+    <entry name="Arthur Russell" counter="1"/>
+    <entry name="Richard Chartier" counter="1"/>
+    <entry name="Cerberus Shoal" counter="1"/>
+    <entry name="Aspera Ad Astra" counter="1"/>
+    <entry name="MDK" counter="1"/>
+    <entry name="OMR" counter="1"/>
+    <entry name="Vicknoise" counter="1"/>
+  </chart>
+  <chart from="1154865600" to="1155470400">
+    <entry name="Scott Walker" counter="94"/>
+    <entry name="Arthur Russell" counter="15"/>
+    <entry name="Taylor Deupree" counter="14"/>
+    <entry name="Ellen Allien" counter="11"/>
+    <entry name="Gas" counter="10"/>
+    <entry name="kid606" counter="10"/>
+    <entry name="Kompakt" counter="10"/>
+    <entry name="Klimek" counter="10"/>
+    <entry name="Triola" counter="9"/>
+    <entry name="The Orb" counter="6"/>
+    <entry name="andrew thomas" counter="6"/>
+    <entry name="ESG" counter="5"/>
+    <entry name="Markus Guentner" counter="5"/>
+    <entry name="Popnoname" counter="5"/>
+    <entry name="Pass Into Silence" counter="5"/>
+    <entry name="Sutekh" counter="4"/>
+    <entry name="Mileece" counter="4"/>
+    <entry name="Peter Grummich" counter="4"/>
+    <entry name="Kit Clayton" counter="3"/>
+    <entry name="Thomas Fehlmann" counter="3"/>
+    <entry name="ulf lohmann" counter="3"/>
+    <entry name="DJ Koze" counter="3"/>
+    <entry name="Dirk Leyers" counter="3"/>
+    <entry name="KOEHNCKE/HEIMERMANN" counter="3"/>
+    <entry name="Uli Teichmann" counter="3"/>
+    <entry name="MARKUS GUENTNER/LA GRANDE ILLU" counter="3"/>
+    <entry name="ULF LEHMANN" counter="3"/>
+    <entry name="Motion" counter="2"/>
+    <entry name="Andreas Tilliander" counter="2"/>
+    <entry name="All" counter="2"/>
+    <entry name="mikkel metal" counter="2"/>
+    <entry name="Ammoncontact" counter="2"/>
+    <entry name="secondo" counter="2"/>
+    <entry name="O.Lamm" counter="2"/>
+    <entry name="Hanne Hukkelberg" counter="2"/>
+    <entry name="tv pow" counter="2"/>
+    <entry name="REKId" counter="2"/>
+    <entry name="...Auch!" counter="2"/>
+    <entry name="Aphex Twin" counter="1"/>
+    <entry name="Hu Vibrational" counter="1"/>
+    <entry name="DNA" counter="1"/>
+    <entry name="Wobbly" counter="1"/>
+    <entry name="Ben Nevile" counter="1"/>
+    <entry name="Liquid Liquid" counter="1"/>
+    <entry name="Cameo" counter="1"/>
+    <entry name="Komet" counter="1"/>
+    <entry name="lod" counter="1"/>
+    <entry name="Konk" counter="1"/>
+    <entry name="Lizzy Mercier Descloux" counter="1"/>
+    <entry name="Doron Sadja" counter="1"/>
+    <entry name="The Dance" counter="1"/>
+    <entry name="Tim Exile" counter="1"/>
+    <entry name="Rahmelzee vs. K. Rob" counter="1"/>
+    <entry name="Aterial" counter="1"/>
+    <entry name="Zeena Parkins and Ikue Mori" counter="1"/>
+    <entry name="Dapayk" counter="1"/>
+    <entry name="Kammerflimmer" counter="1"/>
+    <entry name="A.Greenman" counter="1"/>
+  </chart>
+  <chart from="1155470400" to="1156075200">
+    <entry name="Fennesz" counter="316"/>
+    <entry name="Komet" counter="112"/>
+    <entry name="Frank Bretschneider &amp; Peter Duimelinks" counter="86"/>
+    <entry name="Alva Noto &amp; Ryuichi Sakamoto" counter="18"/>
+    <entry name="Ryoji Ikeda" counter="15"/>
+    <entry name="christopher willits" counter="14"/>
+    <entry name="Vincent Gallo" counter="13"/>
+    <entry name="Kompakt" counter="13"/>
+    <entry name="Chirstopher Willits" counter="13"/>
+    <entry name="ESG" counter="12"/>
+    <entry name="Brian Eno" counter="9"/>
+    <entry name="SND" counter="9"/>
+    <entry name="Klimek" counter="7"/>
+    <entry name="Fourcolor" counter="7"/>
+    <entry name="Gas" counter="5"/>
+    <entry name="Sutekh" counter="5"/>
+    <entry name="Taylor Deupree" counter="5"/>
+    <entry name="Talking Heads" counter="4"/>
+    <entry name="kid606" counter="4"/>
+    <entry name="Triola" counter="4"/>
+    <entry name="Doron Sadja" counter="4"/>
+    <entry name="The Orb" counter="3"/>
+    <entry name="Mouse on Mars" counter="3"/>
+    <entry name="Sogar" counter="3"/>
+    <entry name="All" counter="3"/>
+    <entry name="Popnoname" counter="3"/>
+    <entry name="andrew thomas" counter="3"/>
+    <entry name="Pass Into Silence" counter="3"/>
+    <entry name="Dirk Leyers" counter="3"/>
+    <entry name="KOEHNCKE/HEIMERMANN" counter="3"/>
+    <entry name="MARKUS GUENTNER/LA GRANDE ILLU" counter="3"/>
+    <entry name="ULF LEHMANN" counter="3"/>
+    <entry name="mikkel metal" counter="2"/>
+    <entry name="Alog" counter="2"/>
+    <entry name="Uli Teichmann" counter="2"/>
+    <entry name="Glenn Branca" counter="1"/>
+    <entry name="Defunkt" counter="1"/>
+    <entry name="Thomas Fehlmann" counter="1"/>
+    <entry name="ulf lohmann" counter="1"/>
+    <entry name="Hu Vibrational" counter="1"/>
+    <entry name="The Rip-Off Artist" counter="1"/>
+    <entry name="Jürgen Paape" counter="1"/>
+    <entry name="Markus Guentner" counter="1"/>
+    <entry name="Dan Abrams, Kenric McDowell, Christopher Willits" counter="1"/>
+    <entry name="Peter Grummich" counter="1"/>
+    <entry name="Leandro Fresco" counter="1"/>
+    <entry name="Dinosaur L" counter="1"/>
+    <entry name="Ammoncontact" counter="1"/>
+    <entry name="Bush Tetras" counter="1"/>
+    <entry name="Theoretical Girls" counter="1"/>
+    <entry name="The Bloods" counter="1"/>
+    <entry name="The Contortions" counter="1"/>
+    <entry name="少女隊" counter="1"/>
+    <entry name="PAN•AMERICAN" counter="1"/>
+    <entry name="Tu M'" counter="1"/>
+    <entry name="01-Juergen Paape" counter="1"/>
+    <entry name="10-Juergen Paape" counter="1"/>
+    <entry name="Sally Shapiro" counter="1"/>
+  </chart>
+  <chart from="1156075200" to="1156680000">
+    <entry name="Farben" counter="112"/>
+    <entry name="Kompakt" counter="38"/>
+    <entry name="Alva Noto &amp; Ryuichi Sakamoto" counter="35"/>
+    <entry name="Arthur Russell" counter="31"/>
+    <entry name="Taylor Deupree" counter="12"/>
+    <entry name="ESG" counter="8"/>
+    <entry name="Frank Bretschneider &amp; Taylor Deupree" counter="7"/>
+    <entry name="Sutekh" counter="6"/>
+    <entry name="Fourcolor" counter="5"/>
+    <entry name="Kevin Blechdom" counter="4"/>
+    <entry name="Alva Noto + Ryuichi Sakamoto" counter="4"/>
+    <entry name="Joy Division" counter="3"/>
+    <entry name="[A]pendics Shuffle" counter="3"/>
+    <entry name="Bill Evans" counter="2"/>
+    <entry name="Jan Jelinek Avec The Exposures" counter="2"/>
+    <entry name="Braid" counter="2"/>
+    <entry name="Cerberus Shoal" counter="2"/>
+    <entry name="Aspera Ad Astra" counter="2"/>
+    <entry name="Ada" counter="2"/>
+    <entry name="The Blow" counter="2"/>
+    <entry name="secondo" counter="2"/>
+    <entry name="Pass Into Silence" counter="2"/>
+    <entry name="Sally Shapiro" counter="2"/>
+    <entry name="Brian Eno" counter="1"/>
+    <entry name="Gas" counter="1"/>
+    <entry name="The Orb" counter="1"/>
+    <entry name="Autopoieses" counter="1"/>
+    <entry name="Thomas Fehlmann" counter="1"/>
+    <entry name="ulf lohmann" counter="1"/>
+    <entry name="Mileece" counter="1"/>
+    <entry name="The Get Up Kids" counter="1"/>
+    <entry name="Artist Unknown" counter="1"/>
+    <entry name="Nik Kershaw" counter="1"/>
+    <entry name="Ben Nevile" counter="1"/>
+    <entry name="Murcof" counter="1"/>
+    <entry name="Markus Guentner" counter="1"/>
+    <entry name="DJ Koze" counter="1"/>
+    <entry name="Triola" counter="1"/>
+    <entry name="Klimek" counter="1"/>
+    <entry name="Gabriel Ananda" counter="1"/>
+    <entry name="Ethel Meserve" counter="1"/>
+    <entry name="Popnoname" counter="1"/>
+    <entry name="andrew thomas" counter="1"/>
+    <entry name="PAN•AMERICAN" counter="1"/>
+    <entry name="Tommy McCook, Richard Ace, The Skatalites And Disco Height" counter="1"/>
+    <entry name="Dirk Leyers" counter="1"/>
+    <entry name="Planning to Rock" counter="1"/>
+    <entry name="Uli Teichmann" counter="1"/>
+    <entry name="MARKUS GUENTNER/LA GRANDE ILLU" counter="1"/>
+    <entry name="BBC Radio News" counter="1"/>
+  </chart>
+  <chart from="1156680000" to="1157284800">
+    <entry name="Shuttle 358" counter="28"/>
+    <entry name="Taylor Deupree" counter="13"/>
+    <entry name="Oval" counter="11"/>
+    <entry name="Taylor Deupreé" counter="8"/>
+    <entry name="Klimek" counter="6"/>
+    <entry name="Gas" counter="4"/>
+    <entry name="Pass Into Silence" counter="4"/>
+    <entry name="Cacao" counter="4"/>
+    <entry name="Thomas Köner" counter="3"/>
+    <entry name="andrew thomas" counter="3"/>
+    <entry name="The Orb" counter="2"/>
+    <entry name="Sutekh" counter="2"/>
+    <entry name="Murcof" counter="2"/>
+    <entry name="Triola" counter="2"/>
+    <entry name="Hanne Hukkelberg" counter="2"/>
+    <entry name="Dirk Leyers" counter="2"/>
+    <entry name="MARKUS GUENTNER/LA GRANDE ILLU" counter="2"/>
+    <entry name="ULF LEHMANN" counter="2"/>
+    <entry name="Leopard Leg" counter="2"/>
+    <entry name="Auch" counter="1"/>
+    <entry name="Chessie" counter="1"/>
+    <entry name="Ben Nevile" counter="1"/>
+    <entry name="DJ Koze" counter="1"/>
+    <entry name="mikkel metal" counter="1"/>
+    <entry name="lod" counter="1"/>
+    <entry name="Popnoname" counter="1"/>
+    <entry name="Yamamoto Seiichi" counter="1"/>
+    <entry name="Dapayk" counter="1"/>
+    <entry name="Kammerflimmer" counter="1"/>
+    <entry name="KOEHNCKE/HEIMERMANN" counter="1"/>
+  </chart>
+  <chart from="1157284800" to="1157889600">
+    <entry name="Shuttle 358" counter="36"/>
+    <entry name="Manitoba" counter="11"/>
+    <entry name="Klimek" counter="9"/>
+    <entry name="Taylor Deupreé" counter="8"/>
+    <entry name="Alva Noto &amp; Ryuichi Sakamoto" counter="6"/>
+    <entry name="Alva Noto / Ryuichi Sakamoto" counter="6"/>
+    <entry name="The Orb" counter="5"/>
+    <entry name="andrew thomas" counter="5"/>
+    <entry name="Aldo Ciccolini" counter="5"/>
+    <entry name="mikkel metal" counter="4"/>
+    <entry name="Popnoname" counter="4"/>
+    <entry name="Dirk Leyers" counter="4"/>
+    <entry name="KOEHNCKE/HEIMERMANN" counter="4"/>
+    <entry name="Uli Teichmann" counter="4"/>
+    <entry name="Kompakt" counter="3"/>
+    <entry name="Triola" counter="3"/>
+    <entry name="Tom Zé" counter="3"/>
+    <entry name="Pass Into Silence" counter="3"/>
+    <entry name="MARKUS GUENTNER/LA GRANDE ILLU" counter="3"/>
+    <entry name="ULF LEHMANN" counter="3"/>
+    <entry name="va replay debussy" counter="2"/>
+    <entry name="Thomas Fehlmann" counter="1"/>
+    <entry name="All" counter="1"/>
+    <entry name="Animal Collective" counter="1"/>
+    <entry name="Zeena Parkins and Ikue Mori" counter="1"/>
+    <entry name="shuttle358 - sequence" counter="1"/>
+  </chart>
+  <chart from="1157889600" to="1158494400">
+    <entry name="Shuttle 358" counter="24"/>
+    <entry name="Geeez 'N' Gosh" counter="18"/>
+    <entry name="Fennesz" counter="16"/>
+    <entry name="梶芽衣子" counter="16"/>
+    <entry name="Goem" counter="14"/>
+    <entry name="christopher willits" counter="14"/>
+    <entry name="Farben" counter="12"/>
+    <entry name="Frank Bretschneider" counter="9"/>
+    <entry name="Arthur Russell" counter="9"/>
+    <entry name="September Collective" counter="9"/>
+    <entry name="Claude Debussy" counter="7"/>
+    <entry name="Freiband" counter="6"/>
+    <entry name="Fenin" counter="6"/>
+    <entry name="Håkan Lidbo" counter="5"/>
+    <entry name="Ilpo Väisänen" counter="5"/>
+    <entry name="SND" counter="4"/>
+    <entry name="Herr Pitzelberger" counter="4"/>
+    <entry name="Haunted House" counter="3"/>
+    <entry name="Hansen &amp; DJ Daniel" counter="3"/>
+    <entry name="Kevin Blechdom" counter="2"/>
+    <entry name="Alva Noto + Ryuichi Sakamoto" counter="2"/>
+    <entry name="Hoahio" counter="1"/>
+    <entry name="Haco" counter="1"/>
+    <entry name="Gold Chains" counter="1"/>
+    <entry name="Coh" counter="1"/>
+    <entry name="Gas" counter="1"/>
+    <entry name="Sutekh" counter="1"/>
+    <entry name="Christophe Charles" counter="1"/>
+    <entry name="Hrvatski" counter="1"/>
+    <entry name="kid606" counter="1"/>
+    <entry name="Iannis Xenakis" counter="1"/>
+    <entry name="Feadz" counter="1"/>
+    <entry name="ESG" counter="1"/>
+    <entry name="William Basinski" counter="1"/>
+    <entry name="Howard Jones" counter="1"/>
+    <entry name="Felix" counter="1"/>
+    <entry name="Happiness Proof" counter="1"/>
+    <entry name="HALCALI" counter="1"/>
+    <entry name="深田恭子" counter="1"/>
+    <entry name="Full Swing" counter="1"/>
+    <entry name="Cacao" counter="1"/>
+    <entry name="GROUND-ZERO" counter="1"/>
+    <entry name="酒井司優子" counter="1"/>
+    <entry name="Frequency9 Meets Lotek Style" counter="1"/>
+    <entry name="Sylvie Marks &amp; Hal9000" counter="1"/>
+    <entry name="Improvised Music From Japan, Disc 09 - 01 - Ryoji Hojito" counter="1"/>
+    <entry name="Improvised Music From Japan, Disc 09 - 05 - Masahiko Okura" counter="1"/>
+    <entry name="Improvised Music From Japan, Disc 09 - 07 - Masahiko Okura" counter="1"/>
+    <entry name="goem - comp zeven" counter="1"/>
+    <entry name="Heilsarmee Friedenau" counter="1"/>
+    <entry name="Improvised Music From Japan, Disc 07 - 01 - Brett Larner" counter="1"/>
+    <entry name="Improvised Music From Japan, Disc 07 - 02 - Brett Larner" counter="1"/>
+    <entry name="Improvised Music From Japan, Disc 07 - 03 - Brett Larner" counter="1"/>
+    <entry name="Improvised Music From Japan, Disc 07 - 04 - Yumiko Tanaka" counter="1"/>
+    <entry name="Improvised Music From Japan, Disc 07 - 05 - Yumiko Tanaka" counter="1"/>
+    <entry name="Improvised Music From Japan, Disc 07 - 06 - Yumiko Tanaka" counter="1"/>
+    <entry name="Improvised Music From Japan, Disc 07 - 07 - Yumiko Tanaka" counter="1"/>
+    <entry name="Improvised Music From Japan, Disc 07 - 08 - Yumiko Tanaka" counter="1"/>
+    <entry name="Improvised Music From Japan, Disc 09 - 02 - Junji Hirose" counter="1"/>
+    <entry name="Improvised Music From Japan, Disc 09 - 03 - Junji Hirose" counter="1"/>
+    <entry name="Improvised Music From Japan, Disc 09 - 04 - Gnu" counter="1"/>
+    <entry name="Improvised Music From Japan, Disc 09 - 06 - Masahiko Okura" counter="1"/>
+  </chart>
+  <chart from="1158494400" to="1159099200">
+    <entry name="Tim Hecker" counter="2"/>
+    <entry name="Whirlpool Productions" counter="1"/>
+    <entry name="Alva Noto + Ryuichi Sakamoto" counter="1"/>
+  </chart>
+  <chart from="1159099200" to="1159704000">
+    <entry name="Tim Hecker" counter="52"/>
+    <entry name="kid606" counter="26"/>
+    <entry name="Fennesz" counter="11"/>
+    <entry name="Taylor Deupreé" counter="9"/>
+    <entry name="Polwechsel Fennesz" counter="6"/>
+    <entry name="Aldo Ciccolini" counter="5"/>
+    <entry name="Ammoncontact" counter="4"/>
+    <entry name="Wighnomy Brothers &amp; Robag Wruhme" counter="4"/>
+    <entry name="Northern Chamber Orchestra, Nicolas Ward" counter="4"/>
+    <entry name="Sutekh" counter="3"/>
+    <entry name="Kit Clayton" counter="3"/>
+    <entry name="Klimek" counter="3"/>
+    <entry name="Wighnomy Brothers &amp; Robag Wruh" counter="3"/>
+    <entry name="A.Greenman" counter="3"/>
+    <entry name="Brian Eno" counter="2"/>
+    <entry name="Microstoria" counter="2"/>
+    <entry name="Hu Vibrational" counter="2"/>
+    <entry name="ESG" counter="2"/>
+    <entry name="Sogar" counter="2"/>
+    <entry name="Alva Noto" counter="2"/>
+    <entry name="secondo" counter="2"/>
+    <entry name="Pass Into Silence" counter="2"/>
+    <entry name="Alva Noto + Ryuichi Sakamoto" counter="2"/>
+    <entry name="Cacao" counter="2"/>
+    <entry name="Dirk Leyers" counter="2"/>
+    <entry name="REKId" counter="2"/>
+    <entry name="MARKUS GUENTNER/LA GRANDE ILLU" counter="2"/>
+    <entry name="Tortoise" counter="1"/>
+    <entry name="Devo" counter="1"/>
+    <entry name="The Slits" counter="1"/>
+    <entry name="Talking Heads" counter="1"/>
+    <entry name="Pavement" counter="1"/>
+    <entry name="Aphex Twin" counter="1"/>
+    <entry name="Joy Division" counter="1"/>
+    <entry name="The Fall" counter="1"/>
+    <entry name="Alan Vega" counter="1"/>
+    <entry name="The Orb" counter="1"/>
+    <entry name="Wire" counter="1"/>
+    <entry name="Vladislav Delay" counter="1"/>
+    <entry name="SND" counter="1"/>
+    <entry name="A Certain Ratio" counter="1"/>
+    <entry name="Alice Coltrane" counter="1"/>
+    <entry name="Lawrence" counter="1"/>
+    <entry name="novisad" counter="1"/>
+    <entry name="Terre Thaemlitz" counter="1"/>
+    <entry name="Unwound" counter="1"/>
+    <entry name="Donnacha Costello" counter="1"/>
+    <entry name="Andreas Tilliander" counter="1"/>
+    <entry name="RJD2" counter="1"/>
+    <entry name="Siouxsie and the Banshees" counter="1"/>
+    <entry name="Labradford" counter="1"/>
+    <entry name="Delta 5" counter="1"/>
+    <entry name="Triola" counter="1"/>
+    <entry name="mikkel metal" counter="1"/>
+    <entry name="Au Pairs" counter="1"/>
+    <entry name="Shuttle 358" counter="1"/>
+    <entry name="Liliput" counter="1"/>
+    <entry name="Philip Jeck" counter="1"/>
+    <entry name="Antye Greie-Fuchs" counter="1"/>
+    <entry name="Matthew Dear" counter="1"/>
+    <entry name="Colleen" counter="1"/>
+    <entry name="The Locust" counter="1"/>
+    <entry name="Madvillain" counter="1"/>
+    <entry name="Harold Budd/Brian Eno" counter="1"/>
+    <entry name="Popnoname" counter="1"/>
+    <entry name="andrew thomas" counter="1"/>
+    <entry name="Yamamoto Seiichi" counter="1"/>
+    <entry name="Pleite" counter="1"/>
+    <entry name="Tim Exile" counter="1"/>
+    <entry name="KOEHNCKE/HEIMERMANN" counter="1"/>
+    <entry name="Uli Teichmann" counter="1"/>
+    <entry name="ULF LEHMANN" counter="1"/>
+  </chart>
+</resource>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource name="hoff" restype="4" id="2112292">
+  <chart from="1124020801" to="1124625601">
+    <entry name="David Hasselhoff" reach="10768" counter="11"/>
+  </chart>
+  <chart from="1154260800" to="1154865600">
+    <entry name="David Hasselhoff" reach="10768" counter="3"/>
+  </chart>
+</resource>

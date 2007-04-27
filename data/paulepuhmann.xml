@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource name="paulepuhmann" restype="4" id="4444854">
+  <chart from="1154865600" to="1155470400">
+    <entry name="blink-182" reach="240613" counter="1"/>
+    <entry name="Fünf Sterne Deluxe" reach="8333" counter="1"/>
+  </chart>
+  <chart from="1155470400" to="1156075200">
+    <entry name="Portishead" reach="151034" counter="1"/>
+    <entry name="Mia" reach="15904" counter="1"/>
+    <entry name="blink-182" reach="240613" counter="1"/>
+    <entry name="Fünf Sterne Deluxe" reach="8333" counter="1"/>
+    <entry name="Rio Reiser" reach="5062" counter="1"/>
+  </chart>
+  <chart from="1157284800" to="1157889600">
+    <entry name="Tosca" reach="44075" counter="2"/>
+    <entry name="Fünf Sterne Deluxe" reach="8333" counter="1"/>
+  </chart>
+  <chart from="1157889600" to="1158494400"/>
+  <chart from="1158494400" to="1159099200">
+    <entry name="MC Solaar" reach="20180" counter="24"/>
+    <entry name="The Doors" reach="204591" counter="10"/>
+    <entry name="daniel ibbotson" reach="670" counter="5"/>
+    <entry name="Masta Killa" reach="5310" counter="4"/>
+    <entry name="DJ Koze" reach="7872" counter="3"/>
+    <entry name="Mc Solaar (2001)" reach="32" counter="2"/>
+    <entry name="Meat Puppets" reach="16086" counter="1"/>
+    <entry name="Del tha Funkee Homosapien" reach="25570" counter="1"/>
+    <entry name="Deadbeats" reach="5541" counter="1"/>
+    <entry name="Dj Koze aka Adolf Noise" reach="719" counter="1"/>
+    <entry name="Group Home" reach="3645" counter="1"/>
+    <entry name="Eminem vs Michael Jackson" reach="69" counter="1"/>
+    <entry name="Zucchero feat Paul Young" reach="361" counter="1"/>
+    <entry name="Danger Mouse &amp; Jemini" reach="10416" counter="1"/>
+    <entry name="Melbeatz" reach="658" counter="1"/>
+  </chart>
+  <chart from="1159099200" to="1159704000">
+    <entry name="Nightmares on Wax" reach="55059" counter="7"/>
+    <entry name="Tosca" reach="44075" counter="6"/>
+    <entry name="Masta Killa" reach="5310" counter="6"/>
+    <entry name="Group Home" reach="3645" counter="4"/>
+    <entry name="The Roots" reach="94907" counter="2"/>
+    <entry name="Talib Kweli" reach="48719" counter="2"/>
+    <entry name="Masta Killa feat. Ol Dirty Bastard &amp; RZA" reach="22" counter="2"/>
+    <entry name="Die Sterne" reach="10941" counter="1"/>
+    <entry name="Thievery Corporation" reach="122427" counter="1"/>
+    <entry name="Tiga" reach="35208" counter="1"/>
+    <entry name="Ken Boothe" reach="7220" counter="1"/>
+    <entry name="dZihan &amp; Kamien" reach="21752" counter="1"/>
+    <entry name="Groove Armada" reach="90604" counter="1"/>
+    <entry name="Meat Puppets" reach="16086" counter="1"/>
+    <entry name="Kool Savas" reach="6450" counter="1"/>
+    <entry name="Sunz of Man" reach="1509" counter="1"/>
+    <entry name="Fischmob" reach="3524" counter="1"/>
+    <entry name="Der Tobi &amp; Das Bo" reach="2168" counter="1"/>
+    <entry name="Sunz of Man ft. 12 O'Clock, Blue Raspberry" reach="220" counter="1"/>
+    <entry name="Friedrich Dürrenmatt" reach="61" counter="1"/>
+    <entry name="Poets Of Peeze" reach="15" counter="1"/>
+  </chart>
+</resource>

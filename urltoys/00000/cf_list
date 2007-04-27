@@ -1,0 +1,17 @@
+UserAgent=Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; .NET CLR 1.0.3705)
+ExtensionRegex=htm|html|exe|php|cgi|pl|shtml|asp|pl|cgi|stm|jsp
+ExtensionIgnore=jpe?g|gif|png|tga|mov|avi|mpe?g|rm|bmp|mp3|ogg|wav|exe
+CustomHeaders=Referer: %URL
+HrefRegex=(?-xism:[Hh][Rr][Ee][Ff]='?"?([^'"<>]+))
+ImgRegex=(?-xism:[Ss][Rr][Cc]='?"?([^'"<>]+))
+Prompt=URLToys (%COUNT)> 
+NameTemplate=%COUNT-%NAME
+SaveURLList=1
+ExplainRegexError=0
+UseUndo=1
+UseXTTitle=0
+PauseTime=0
+DownloadDir=
+DirSlashes=/
+SeqWarningSize=5000
+Proxy=

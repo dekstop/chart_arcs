@@ -1,0 +1,24 @@
+2006-10-08, 02:07:01
+
+TODO:
+- make a time-variant version where the weekly chart transitions are spread out horizontally along a timeline (as opposed to drawn on top of each other, as done currently)
+
+- get intern usernames
+- load data from webservice!
+
+vis:
+- point size: accumulated number of consecutive weeks (squared?) that entries remained on this position
+- arc strength: number of movements between positions
+- BETTER: 
+  - arc strength: combined artist reach
+  - arc alpha: combined overall artist playcount for this user
+- highlight entry/exit points (circle color red/green)
+- highlight "mainstream" factor of music?
+- find other ways to increase "contrast"; e.g. highlight favorite artist's paths
+
+compare different charts:
+- users
+- groups
+- globalcharts
+- commercial/mainstream/sales charts?
+
