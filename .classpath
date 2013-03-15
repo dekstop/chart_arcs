@@ -2,6 +2,6 @@
 <classpath>
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
-	<classpathentry sourcepath="/processing-head/core/src" kind="lib" path="/processing-head/build/macosx/work/lib/core.jar"/>
+	<classpathentry kind="lib" path="lib/core.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

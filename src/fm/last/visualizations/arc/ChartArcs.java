@@ -23,17 +23,21 @@ public class ChartArcs extends PApplet {
   //static final int HISTORY_SIZE = 26;
   static final int CHART_SIZE = 100;
 
-  static final int IMAGE_WIDTH = 800;
-  static final int IMAGE_HEIGHT = 800;
+  static final int IMAGE_WIDTH = 4000;
+  static final int IMAGE_HEIGHT = IMAGE_WIDTH;
   
-  static final float SPACE = 10;
+  static final float SPACE = IMAGE_WIDTH / 80;
   
-  static final float CHARTINFO_XPOS = SPACE + 5;
-  static final float CHARTINFO_YPOS = SPACE + 5;
+  static final float CHARTINFO_XPOS = SPACE + IMAGE_WIDTH / 160;
+  static final float CHARTINFO_YPOS = SPACE + IMAGE_WIDTH / 160;
 
   static final float MIN_POINT_SIZE = IMAGE_WIDTH / (CHART_SIZE * 2f);
   static final float PX_PER_REACH = MIN_POINT_SIZE / 100000f;    // reach of 100,000 = MIN_POINT_SIZE pixels
     
+  private static final int HEADER_FONTSIZE = IMAGE_WIDTH / 55;
+  private static final int FONTSIZE = IMAGE_WIDTH / 80;
+  
+  private static final float LOGO_DISPLAY_WIDTH = IMAGE_WIDTH / 10;
   
   ChartData cd = null;
   ArcDiagram ad = null;
@@ -58,10 +62,10 @@ public class ChartArcs extends PApplet {
 
     //System.out.println("Available fonts: " + Arrays.toString(PFont.list()));
     
-    headerFont = createFont("TrebuchetMS", 15);
-    font = createFont("Monaco", 10);
+    headerFont = createFont("TrebuchetMS", HEADER_FONTSIZE);
+    font = createFont("Monaco", FONTSIZE);
     
-    logo = loadImage("logo.png");
+    logo = loadImage("logo_big.png");
     
     //textMode(SCREEN);
 
@@ -74,9 +78,12 @@ public class ChartArcs extends PApplet {
     
     background(0);
     
+    float logoWidth = LOGO_DISPLAY_WIDTH;
+    float logoHeight = logo.height * (LOGO_DISPLAY_WIDTH / logo.width); 
     image(logo, 
-        width - logo.width - SPACE, 
-        height - logo.height - SPACE);
+        width - logoWidth - SPACE, 
+        height - logoHeight - SPACE,
+        logoWidth, logoHeight);
     
     textFont(headerFont);
     fill(0x0ffffffff);
@@ -86,7 +93,7 @@ public class ChartArcs extends PApplet {
 
     textFont(font);
     fill(0x099ffffff);
-    baseline += headerFont.descent + (font.ascent + font.descent);
+    baseline += headerFont.descent + (font.ascent*2 + font.descent);
     String infoText = 
       cd.history.size() + " weeks \n" +
       cd.getNumUniqueNames() + " artists";

@@ -221,7 +221,7 @@ public class ArcDiagram {
       }
       else {
         // move down
-        canvas.arc(x, y, diameter, diameter, angle2, angle1);
+        canvas.arc(x, y, diameter, diameter, angle2, angle1+2*(float)Math.PI);
       }
     }
   }
