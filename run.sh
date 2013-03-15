@@ -1,2 +1,3 @@
 #!/bin/sh
-java -classpath /Users/mongo/Documents/code/_visualizations/chart_arcs/bin/:/Users/mongo/src/processing/build/macosx/work/lib/core.jar fm.last.visualizations.arc.ChartArcs ${1}
+APP_HOME=`dirname "$0"`
+java -Xmx1500m -classpath ${APP_HOME}/bin/:${APP_HOME}/lib/* fm.last.visualizations.arc.ChartArcs $@
